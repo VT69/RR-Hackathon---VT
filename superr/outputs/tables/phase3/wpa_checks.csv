@@ -1,0 +1,3 @@
+role,balls_with_wpa,mean_wpa_per_100_balls_pct,players,corr_wpa_v_li_weighted_value,corr_wpa_v_unweighted_value
+batter,193435,-0.8516827684801032,121,0.9509261148280915,0.8996838237671992
+bowler,193435,0.8516827684801032,125,0.9461463680228533,0.8715550171005466

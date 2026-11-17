@@ -1,0 +1,15 @@
+rank_a,player_a,rank_b,player_b,intervals_overlap,p_top_n_gap,tied
+1,Vaibhav Sooryavanshi,2,Abhishek Sharma,True,0.020750000000000046,True
+2,Abhishek Sharma,3,Suryakumar Yadav,True,0.12075000000000002,True
+3,Suryakumar Yadav,4,Yashasvi Jaiswal,True,0.05250000000000005,True
+4,Yashasvi Jaiswal,5,Rinku Singh,True,0.0685,True
+5,Rinku Singh,6,Josh Inglis,True,0.035999999999999976,True
+6,Josh Inglis,7,Pathum Nissanka,True,0.02300000000000002,True
+7,Pathum Nissanka,8,Shreyas Iyer,True,0.02124999999999999,True
+8,Shreyas Iyer,9,Tim David,True,0.030999999999999972,True
+9,Tim David,10,Heinrich Klaasen,True,0.028249999999999997,True
+10,Heinrich Klaasen,11,Virat Kohli,True,0.07025000000000003,True
+11,Virat Kohli,12,Tristan Stubbs,True,0.02125000000000002,True
+12,Tristan Stubbs,13,Ashutosh Sharma,True,0.0015000000000000013,True
+13,Ashutosh Sharma,14,Nicholas Pooran,True,0.07175000000000001,True
+14,Nicholas Pooran,15,Shashank Singh,True,0.06475,True

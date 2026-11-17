@@ -1,0 +1,100 @@
+2026-11-17 22:16:34,493 INFO src.data.loading: Loaded ball_by_ball.csv: 200999 rows x 33 cols
+2026-11-17 22:16:34,516 INFO src.data.loading: Loaded matches.csv: 883 rows x 22 cols
+2026-11-17 22:16:34,522 INFO src.data.loading: Loaded competitions.csv: 141 rows x 4 cols
+2026-11-17 22:16:34,527 INFO src.data.loading: Loaded teams.csv: 353 rows x 3 cols
+2026-11-17 22:16:34,599 INFO src.data.loading: Loaded playing_eleven.csv: 28381 rows x 9 cols
+2026-11-17 22:16:34,632 INFO src.data.loading: Loaded competition_team_player_mapping.csv: 6413 rows x 6 cols
+2026-11-17 22:16:39,335 INFO src.data.audit: Audit written to E:\RR Hackathon\superr\outputs\audit
+2026-11-17 22:16:42,197 INFO src.data.loading: Loaded ball_by_ball.csv: 200999 rows x 33 cols
+2026-11-17 22:16:42,218 INFO src.data.loading: Loaded matches.csv: 883 rows x 22 cols
+2026-11-17 22:16:42,226 INFO src.data.loading: Loaded competitions.csv: 141 rows x 4 cols
+2026-11-17 22:16:42,230 INFO src.data.loading: Loaded teams.csv: 353 rows x 3 cols
+2026-11-17 22:16:42,320 INFO src.data.loading: Loaded playing_eleven.csv: 28381 rows x 9 cols
+2026-11-17 22:16:42,352 INFO src.data.loading: Loaded competition_team_player_mapping.csv: 6413 rows x 6 cols
+2026-11-17 22:16:43,232 INFO src.features.match_state: Match table: 837 in-scope matches, 774 usable for WP training
+2026-11-17 22:16:45,224 INFO src.features.match_state: Ball states: 193988 rows, 193501 with a usable state, 185070 usable for WP training
+2026-11-17 22:16:45,701 INFO __main__: Reusing cache E:\RR Hackathon\superr\outputs\cache\phase2_model_stage.pkl (use --force to recompute)
+2026-11-17 22:16:48,799 INFO __main__: Reusing cache E:\RR Hackathon\superr\outputs\cache\phase2_ablations.pkl (use --force to recompute)
+2026-11-17 22:17:38,434 INFO __main__: Phase 2b outputs written to E:\RR Hackathon\superr\outputs\tables\phase2b and E:\RR Hackathon\superr\outputs\figures\phase2b
+2026-11-17 22:17:40,163 INFO __main__: Reusing cache E:\RR Hackathon\superr\outputs\cache\phase3_expectations.pkl (use --force to recompute)
+2026-11-17 22:18:41,164 INFO __main__: Phase 3 outputs written to E:\RR Hackathon\superr\outputs\tables\phase3 and E:\RR Hackathon\superr\outputs\figures\phase3 (wicket-cost cap 17.85 runs)
+2026-11-17 22:18:43,502 INFO src.rating.opposition: Opposition model CV: intercept only -> 7.64321
+2026-11-17 22:18:43,683 INFO src.rating.opposition: Opposition model CV: no player effects -> 7.63603
+2026-11-17 22:18:44,964 INFO src.rating.opposition: Opposition model CV: ridge, penalty 30 -> 7.65085
+2026-11-17 22:18:46,218 INFO src.rating.opposition: Opposition model CV: ridge, penalty 100 -> 7.63842
+2026-11-17 22:18:47,378 INFO src.rating.opposition: Opposition model CV: ridge, penalty 300 -> 7.63179
+2026-11-17 22:18:48,750 INFO src.rating.opposition: Opposition model CV: ridge, penalty 1000 -> 7.62987
+2026-11-17 22:18:50,234 INFO src.rating.opposition: Opposition model CV: ridge, penalty 3000 -> 7.63168
+2026-11-17 22:18:51,367 INFO src.rating.opposition: Opposition model CV: ridge, penalty 10000 -> 7.63410
+2026-11-17 22:18:52,711 INFO src.rating.opposition: Opposition model CV: ridge, penalty 30000 -> 7.63529
+2026-11-17 22:18:53,034 INFO src.rating.opposition: Opposition model (batter): penalty 1000
+2026-11-17 22:18:53,559 INFO src.rating.opposition: Opposition model CV: intercept only -> 7.59201
+2026-11-17 22:18:53,747 INFO src.rating.opposition: Opposition model CV: no player effects -> 7.58483
+2026-11-17 22:18:54,880 INFO src.rating.opposition: Opposition model CV: ridge, penalty 30 -> 7.59979
+2026-11-17 22:18:56,019 INFO src.rating.opposition: Opposition model CV: ridge, penalty 100 -> 7.58758
+2026-11-17 22:18:57,169 INFO src.rating.opposition: Opposition model CV: ridge, penalty 300 -> 7.58107
+2026-11-17 22:18:59,366 INFO src.rating.opposition: Opposition model CV: ridge, penalty 1000 -> 7.57912
+2026-11-17 22:19:01,128 INFO src.rating.opposition: Opposition model CV: ridge, penalty 3000 -> 7.58075
+2026-11-17 22:19:02,347 INFO src.rating.opposition: Opposition model CV: ridge, penalty 10000 -> 7.58302
+2026-11-17 22:19:03,647 INFO src.rating.opposition: Opposition model CV: ridge, penalty 30000 -> 7.58414
+2026-11-17 22:19:03,970 INFO src.rating.opposition: Opposition model (bowler): penalty 1000
+2026-11-17 22:19:20,866 INFO src.rating.opposition: Opposition model CV: intercept only -> 7.64321
+2026-11-17 22:19:21,129 INFO src.rating.opposition: Opposition model CV: no player effects -> 7.63940
+2026-11-17 22:19:22,775 INFO src.rating.opposition: Opposition model CV: ridge, penalty 30 -> 7.65081
+2026-11-17 22:19:24,394 INFO src.rating.opposition: Opposition model CV: ridge, penalty 100 -> 7.63877
+2026-11-17 22:19:27,277 INFO src.rating.opposition: Opposition model CV: ridge, penalty 300 -> 7.63283
+2026-11-17 22:19:28,875 INFO src.rating.opposition: Opposition model CV: ridge, penalty 1000 -> 7.63183
+2026-11-17 22:19:30,332 INFO src.rating.opposition: Opposition model CV: ridge, penalty 3000 -> 7.63432
+2026-11-17 22:19:32,356 INFO src.rating.opposition: Opposition model CV: ridge, penalty 10000 -> 7.63719
+2026-11-17 22:19:34,521 INFO src.rating.opposition: Opposition model CV: ridge, penalty 30000 -> 7.63856
+2026-11-17 22:19:34,922 INFO src.rating.opposition: Opposition model (batter): penalty 1000
+2026-11-17 22:19:35,688 INFO src.rating.opposition: Opposition model CV: intercept only -> 7.59201
+2026-11-17 22:19:35,965 INFO src.rating.opposition: Opposition model CV: no player effects -> 7.58815
+2026-11-17 22:19:37,749 INFO src.rating.opposition: Opposition model CV: ridge, penalty 30 -> 7.59979
+2026-11-17 22:19:39,561 INFO src.rating.opposition: Opposition model CV: ridge, penalty 100 -> 7.58796
+2026-11-17 22:19:41,126 INFO src.rating.opposition: Opposition model CV: ridge, penalty 300 -> 7.58210
+2026-11-17 22:19:42,650 INFO src.rating.opposition: Opposition model CV: ridge, penalty 1000 -> 7.58099
+2026-11-17 22:19:44,252 INFO src.rating.opposition: Opposition model CV: ridge, penalty 3000 -> 7.58329
+2026-11-17 22:19:45,849 INFO src.rating.opposition: Opposition model CV: ridge, penalty 10000 -> 7.58602
+2026-11-17 22:19:47,171 INFO src.rating.opposition: Opposition model CV: ridge, penalty 30000 -> 7.58733
+2026-11-17 22:19:47,466 INFO src.rating.opposition: Opposition model (bowler): penalty 1000
+2026-11-17 22:20:04,117 INFO __main__: Phase 4 outputs written to E:\RR Hackathon\superr\outputs\tables\phase4 (137 eligible batters, 139 eligible bowlers)
+2026-11-17 22:20:21,381 INFO __main__: Phase 5: split-half reliability done for batters
+2026-11-17 22:20:35,260 INFO __main__: Phase 5: split-half reliability done for bowlers
+2026-11-17 22:20:35,291 INFO __main__: Phase 5: leverage weighting chosen = uniform
+2026-11-17 22:20:51,430 INFO __main__: Phase 5 outputs written to E:\RR Hackathon\superr\outputs\tables\phase5
+2026-11-17 22:21:12,136 INFO src.robustness.sensitivity: Phase 6 variant done: headline
+2026-11-17 22:21:16,558 INFO src.robustness.sensitivity: Phase 6 variant done: pressure: logistic leverage
+2026-11-17 22:21:20,069 INFO src.robustness.sensitivity: Phase 6 variant done: pressure: rule index
+2026-11-17 22:21:23,407 INFO src.robustness.sensitivity: Phase 6 variant done: pressure: per-innings cut
+2026-11-17 22:21:27,446 INFO src.robustness.sensitivity: Phase 6 variant done: weight: sqrt LI
+2026-11-17 22:21:30,997 INFO src.robustness.sensitivity: Phase 6 variant done: weight: LI cap
+2026-11-17 22:21:35,356 INFO src.robustness.sensitivity: Phase 6 variant done: knockouts x1.25
+2026-11-17 22:21:39,504 INFO src.robustness.sensitivity: Phase 6 variant done: eligibility 150
+2026-11-17 22:21:43,711 INFO src.robustness.sensitivity: Phase 6 variant done: eligibility 200
+2026-11-17 22:21:45,587 INFO src.robustness.sensitivity: Phase 6 variant done: IPL only
+2026-11-17 22:21:47,959 INFO src.robustness.sensitivity: Phase 6 variant done: T20I only
+2026-11-17 22:21:53,515 INFO src.robustness.sensitivity: Phase 6 variant done: associates excluded
+2026-11-17 22:21:59,368 INFO src.robustness.sensitivity: Phase 6 variant done: without 2022
+2026-11-17 22:22:06,391 INFO src.robustness.sensitivity: Phase 6 variant done: without 2023
+2026-11-17 22:22:10,756 INFO src.robustness.sensitivity: Phase 6 variant done: without 2024
+2026-11-17 22:22:17,951 INFO src.robustness.sensitivity: Phase 6 variant done: without 2025
+2026-11-17 22:22:22,104 INFO src.robustness.sensitivity: Phase 6 variant done: without 2026
+2026-11-17 22:22:27,695 INFO src.robustness.sensitivity: Phase 6 variant done: role: position / phase relative
+2026-11-17 22:22:39,054 INFO __main__: Phase 6 outputs written to E:\RR Hackathon\superr\outputs\tables\phase6
+2026-11-17 22:22:42,985 INFO src.report.final_outputs: Final rankings written to E:\RR Hackathon\superr\outputs\final_rankings.csv
+2026-11-17 22:22:43,868 INFO src.viz.report_plots: Report figure written: li_heatmap.png
+2026-11-17 22:22:47,585 INFO src.viz.report_plots: Report figure written: close_finishes.png
+2026-11-17 22:22:48,796 INFO src.viz.report_plots: Report figure written: separation.png
+2026-11-17 22:22:49,498 INFO src.viz.report_plots: Report figure written: rule_vs_leverage.png
+2026-11-17 22:22:50,608 INFO src.viz.report_plots: Report figure written: wicket_cost_grid.png
+2026-11-17 22:22:50,938 INFO src.viz.report_plots: Report figure written: wicket_cost_check.png
+2026-11-17 22:22:51,488 INFO src.viz.report_plots: Report figure written: exposure.png
+2026-11-17 22:22:51,889 INFO src.viz.report_plots: Report figure written: same_player_gaps.png
+2026-11-17 22:22:52,997 INFO src.viz.report_plots: Report figure written: top15.png
+2026-11-17 22:22:54,441 INFO src.viz.report_plots: Report figure written: overall_v_pressure.png
+2026-11-17 22:22:55,034 INFO src.viz.report_plots: Report figure written: reliability.png
+2026-11-17 22:22:56,965 INFO src.viz.report_plots: Report figure written: stability_batters.png
+2026-11-17 22:22:58,850 INFO src.viz.report_plots: Report figure written: stability_bowlers.png
+2026-11-17 22:23:00,752 INFO src.report.check_report: Report cross-check: 202 claims, 0 failed, 73 numbers not covered (see E:\RR Hackathon\superr\outputs\report\crosscheck.md)
+2026-11-17 22:23:20,201 INFO src.report.build_pdf: PDF written: E:\RR Hackathon\superr\outputs\report\SupeRR_Selector_Methodology_Report.pdf (2.8 MB)

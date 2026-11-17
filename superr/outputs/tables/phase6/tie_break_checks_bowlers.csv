@@ -1,0 +1,15 @@
+rank_a,player_a,rank_b,player_b,intervals_overlap,p_top_n_gap,tied
+1,Patrick Cummins,2,Sunil Narine,True,0.10050000000000003,True
+2,Sunil Narine,3,Krunal Pandya,True,0.09899999999999998,True
+3,Krunal Pandya,4,Josh Hazlewood,True,0.06575000000000003,True
+4,Josh Hazlewood,5,Lockie Ferguson,True,0.03199999999999997,True
+5,Lockie Ferguson,6,Kuldeep Yadav,True,0.04075000000000001,True
+6,Kuldeep Yadav,7,Axar Patel,True,0.07274999999999998,True
+7,Axar Patel,8,Varun Chakravarthy,True,0.00024999999999997247,True
+8,Varun Chakravarthy,9,Akeal Hosein,True,0.05249999999999999,True
+9,Akeal Hosein,10,Tim Southee,True,0.01175000000000001,True
+10,Tim Southee,11,Nathan Ellis,True,0.014750000000000013,True
+11,Nathan Ellis,12,Taskin Ahmed,True,0.029249999999999998,True
+12,Taskin Ahmed,13,Prasidh Krishna,True,0.01824999999999999,True
+13,Prasidh Krishna,14,Mark Wood,True,0.02049999999999999,True
+14,Mark Wood,15,Eshan Malinga,True,0.01075000000000001,True

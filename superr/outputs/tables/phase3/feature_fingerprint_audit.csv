@@ -1,0 +1,12 @@
+feature,constant_within_match,distinct_values,fewest_matches_sharing_a_value,verdict
+balls_remaining,False,120,,"safe: changes ball by ball (state, not identity)"
+env_rpo,True,10,66.0,safe: a season-level value
+free_hit,False,2,,"safe: changes ball by ball (state, not identity)"
+in_powerplay,False,2,,"safe: changes ball by ball (state, not identity)"
+involves_associate,True,2,53.0,safe: a season-level value
+is_ipl,True,2,367.0,safe: a season-level value
+rrr_rel,False,43715,,"safe: changes ball by ball (state, not identity)"
+runs_required,False,294,,"safe: changes ball by ball (state, not identity)"
+runs_vs_env,False,71353,,"safe: changes ball by ball (state, not identity)"
+striker_balls_faced,False,72,,"safe: changes ball by ball (state, not identity)"
+wickets_in_hand,False,10,,"safe: changes ball by ball (state, not identity)"

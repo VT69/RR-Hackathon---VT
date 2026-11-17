@@ -1,0 +1,33 @@
+field,value
+name,Vaibhav Sooryavanshi
+teams,"India, Rajasthan Royals"
+final_rank,1
+rank_a,1
+rank_b,1
+matches,31
+pressure_matches,23.0
+pressure_balls,177.0
+pressure_value_raw,84.77911474487063
+pressure_value_shrunk,34.28823659386087
+pressure_value_p05,13.498978317271357
+pressure_value_p95,55.02244842834895
+p_top_n,0.635
+p_top_n_hierarchical,0.94075
+p_top_n_equal_balls,0.925
+rank_interval,1-47
+usual_value_raw,56.39371623185493
+consistency_shrunk_pts,1.5176436552774786
+share_balls_ipl,0.7768166089965398
+pressure_balls_record,177
+runs,416.0
+expected_runs,281.554086084563
+runs_v_expected_per_100,75.95814345504917
+wickets,8.0
+expected_wickets,7.639393769782798
+boundary_pct,42.3728813559322
+mean_wicket_cost,10.84358395312259
+opposition_adjustment_per_100,5.953156239450046
+runs_part_per_100,75.95814345504918
+wickets_part_per_100,1.9387157200411447
+non_striker_part_per_100,0.7154597381570668
+opposition_part_per_100,6.1667958316232445

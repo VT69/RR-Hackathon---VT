@@ -1,0 +1,212 @@
+2026-11-17 18:44:09,772 INFO src.data.loading: Loaded ball_by_ball.csv: 200999 rows x 33 cols
+2026-11-17 18:44:09,781 INFO src.data.loading: Loaded matches.csv: 883 rows x 22 cols
+2026-11-17 18:44:09,784 INFO src.data.loading: Loaded competitions.csv: 141 rows x 4 cols
+2026-11-17 18:44:09,787 INFO src.data.loading: Loaded teams.csv: 353 rows x 3 cols
+2026-11-17 18:44:09,821 INFO src.data.loading: Loaded playing_eleven.csv: 28381 rows x 9 cols
+2026-11-17 18:44:09,836 INFO src.data.loading: Loaded competition_team_player_mapping.csv: 6413 rows x 6 cols
+2026-11-17 18:44:11,965 INFO src.data.audit: Audit written to E:\RR Hackathon\superr\outputs\audit
+2026-11-17 18:44:13,209 INFO src.data.loading: Loaded ball_by_ball.csv: 200999 rows x 33 cols
+2026-11-17 18:44:13,217 INFO src.data.loading: Loaded matches.csv: 883 rows x 22 cols
+2026-11-17 18:44:13,219 INFO src.data.loading: Loaded competitions.csv: 141 rows x 4 cols
+2026-11-17 18:44:13,221 INFO src.data.loading: Loaded teams.csv: 353 rows x 3 cols
+2026-11-17 18:44:13,263 INFO src.data.loading: Loaded playing_eleven.csv: 28381 rows x 9 cols
+2026-11-17 18:44:13,277 INFO src.data.loading: Loaded competition_team_player_mapping.csv: 6413 rows x 6 cols
+2026-11-17 18:44:13,666 INFO src.features.match_state: Match table: 837 in-scope matches, 774 usable for WP training
+2026-11-17 18:44:14,513 INFO src.features.match_state: Ball states: 193988 rows, 193501 with a usable state, 185070 usable for WP training
+2026-11-17 18:44:40,796 INFO src.models.crossfit: Cross-fit fold 2022: trained on 151523 balls, held out 42409
+2026-11-17 18:45:07,120 INFO src.models.crossfit: Cross-fit fold 2023: trained on 161000 balls, held out 32650
+2026-11-17 18:45:33,884 INFO src.models.crossfit: Cross-fit fold 2024: trained on 152717 balls, held out 41271
+2026-11-17 18:46:06,384 INFO src.models.crossfit: Cross-fit fold 2025: trained on 149806 balls, held out 44182
+2026-11-17 18:46:56,740 INFO src.models.crossfit: Cross-fit fold 2026: trained on 160906 balls, held out 32989
+2026-11-17 18:52:42,600 INFO src.models.crossfit: Platt (intercept, slope) for held-out 2022 by innings: {1: (-0.08977607008461605, 0.6519773041391059), 2: (0.0916417378833838, 0.7523325070336605)}
+2026-11-17 18:52:42,860 INFO src.models.crossfit: Platt (intercept, slope) for held-out 2023 by innings: {1: (-0.04564047572803174, 0.7306208451745052), 2: (0.11598507672107998, 0.889390953384002)}
+2026-11-17 18:52:43,075 INFO src.models.crossfit: Platt (intercept, slope) for held-out 2024 by innings: {1: (-0.12542377737499627, 0.751726414845387), 2: (0.2341139765057928, 0.8510804227052248)}
+2026-11-17 18:52:43,331 INFO src.models.crossfit: Platt (intercept, slope) for held-out 2025 by innings: {1: (-0.0028903128874001424, 0.6750471442733254), 2: (0.08551388395967835, 0.7856599013820549)}
+2026-11-17 18:52:43,601 INFO src.models.crossfit: Platt (intercept, slope) for held-out 2026 by innings: {1: (0.03516349718725575, 0.769556958168326), 2: (-0.0003395353143471852, 0.815422272747947)}
+2026-11-17 18:52:47,834 INFO __main__: Scored logistic
+2026-11-17 18:53:05,425 INFO __main__: Scored xgboost
+2026-11-17 18:53:48,158 INFO __main__: Scored lightgbm
+2026-11-17 18:54:21,744 INFO __main__: Scored dp
+2026-11-17 18:54:24,515 INFO __main__: Scored dp_platt
+2026-11-17 18:55:05,718 INFO src.models.crossfit: Cross-fit fold 2022: trained on 151523 balls, held out 42409
+2026-11-17 18:55:10,873 INFO src.models.crossfit: Cross-fit fold 2023: trained on 161000 balls, held out 32650
+2026-11-17 18:55:15,571 INFO src.models.crossfit: Cross-fit fold 2024: trained on 152717 balls, held out 41271
+2026-11-17 18:55:20,098 INFO src.models.crossfit: Cross-fit fold 2025: trained on 149806 balls, held out 44182
+2026-11-17 18:55:24,953 INFO src.models.crossfit: Cross-fit fold 2026: trained on 160906 balls, held out 32989
+2026-11-17 18:55:29,299 INFO __main__: Ablation lightgbm / base: log-loss 0.5297
+2026-11-17 18:55:34,254 INFO src.models.crossfit: Cross-fit fold 2022: trained on 151523 balls, held out 42409
+2026-11-17 18:55:38,894 INFO src.models.crossfit: Cross-fit fold 2023: trained on 161000 balls, held out 32650
+2026-11-17 18:55:43,423 INFO src.models.crossfit: Cross-fit fold 2024: trained on 152717 balls, held out 41271
+2026-11-17 18:55:47,717 INFO src.models.crossfit: Cross-fit fold 2025: trained on 149806 balls, held out 44182
+2026-11-17 18:55:52,599 INFO src.models.crossfit: Cross-fit fold 2026: trained on 160906 balls, held out 32989
+2026-11-17 18:55:56,138 INFO __main__: Ablation lightgbm / no scoring-environment adjustment: log-loss 0.5301
+2026-11-17 18:56:00,506 INFO src.models.crossfit: Cross-fit fold 2022: trained on 151523 balls, held out 42409
+2026-11-17 18:56:05,217 INFO src.models.crossfit: Cross-fit fold 2023: trained on 161000 balls, held out 32650
+2026-11-17 18:56:09,522 INFO src.models.crossfit: Cross-fit fold 2024: trained on 152717 balls, held out 41271
+2026-11-17 18:56:14,081 INFO src.models.crossfit: Cross-fit fold 2025: trained on 149806 balls, held out 44182
+2026-11-17 18:56:19,458 INFO src.models.crossfit: Cross-fit fold 2026: trained on 160906 balls, held out 32989
+2026-11-17 18:56:25,275 INFO __main__: Ablation lightgbm / environment excluding the match itself (identity leak): log-loss 0.8052
+2026-11-17 18:56:34,423 INFO src.models.crossfit: Cross-fit fold 2022: trained on 151523 balls, held out 42409
+2026-11-17 18:56:44,210 INFO src.models.crossfit: Cross-fit fold 2023: trained on 161000 balls, held out 32650
+2026-11-17 18:56:54,947 INFO src.models.crossfit: Cross-fit fold 2024: trained on 152717 balls, held out 41271
+2026-11-17 18:57:04,479 INFO src.models.crossfit: Cross-fit fold 2025: trained on 149806 balls, held out 44182
+2026-11-17 18:57:13,870 INFO src.models.crossfit: Cross-fit fold 2026: trained on 160906 balls, held out 32989
+2026-11-17 18:57:16,200 INFO __main__: Ablation xgboost / base: log-loss 0.5223
+2026-11-17 18:57:26,051 INFO src.models.crossfit: Cross-fit fold 2022: trained on 151523 balls, held out 42409
+2026-11-17 18:57:36,071 INFO src.models.crossfit: Cross-fit fold 2023: trained on 161000 balls, held out 32650
+2026-11-17 18:57:46,628 INFO src.models.crossfit: Cross-fit fold 2024: trained on 152717 balls, held out 41271
+2026-11-17 18:57:57,360 INFO src.models.crossfit: Cross-fit fold 2025: trained on 149806 balls, held out 44182
+2026-11-17 18:58:07,988 INFO src.models.crossfit: Cross-fit fold 2026: trained on 160906 balls, held out 32989
+2026-11-17 18:58:10,295 INFO __main__: Ablation xgboost / environment excluding the match itself (identity leak): log-loss 0.6510
+2026-11-17 18:58:11,628 INFO src.models.crossfit: Cross-fit fold 2022: trained on 151523 balls, held out 42409
+2026-11-17 18:58:12,791 INFO src.models.crossfit: Cross-fit fold 2023: trained on 161000 balls, held out 32650
+2026-11-17 18:58:13,962 INFO src.models.crossfit: Cross-fit fold 2024: trained on 152717 balls, held out 41271
+2026-11-17 18:58:15,114 INFO src.models.crossfit: Cross-fit fold 2025: trained on 149806 balls, held out 44182
+2026-11-17 18:58:16,806 INFO src.models.crossfit: Cross-fit fold 2026: trained on 160906 balls, held out 32989
+2026-11-17 18:58:17,865 INFO __main__: Ablation logistic / base: log-loss 0.5137
+2026-11-17 18:58:18,872 INFO src.models.crossfit: Cross-fit fold 2022: trained on 151523 balls, held out 42409
+2026-11-17 18:58:19,714 INFO src.models.crossfit: Cross-fit fold 2023: trained on 161000 balls, held out 32650
+2026-11-17 18:58:20,387 INFO src.models.crossfit: Cross-fit fold 2024: trained on 152717 balls, held out 41271
+2026-11-17 18:58:21,048 INFO src.models.crossfit: Cross-fit fold 2025: trained on 149806 balls, held out 44182
+2026-11-17 18:58:21,731 INFO src.models.crossfit: Cross-fit fold 2026: trained on 160906 balls, held out 32989
+2026-11-17 18:58:22,537 INFO __main__: Ablation logistic / environment excluding the match itself (identity leak): log-loss 0.5147
+2026-11-17 18:58:30,339 INFO src.models.crossfit: Cross-fit fold 2022: trained on 151523 balls, held out 42409
+2026-11-17 18:58:36,865 INFO src.models.crossfit: Cross-fit fold 2023: trained on 161000 balls, held out 32650
+2026-11-17 18:58:45,350 INFO src.models.crossfit: Cross-fit fold 2024: trained on 152717 balls, held out 41271
+2026-11-17 18:58:52,331 INFO src.models.crossfit: Cross-fit fold 2025: trained on 149806 balls, held out 44182
+2026-11-17 18:59:02,986 INFO src.models.crossfit: Cross-fit fold 2026: trained on 160906 balls, held out 32989
+2026-11-17 18:59:10,681 INFO __main__: Ablation lightgbm / + Impact Player flag: log-loss 0.5269
+2026-11-17 18:59:18,899 INFO src.models.crossfit: Cross-fit fold 2022: trained on 151523 balls, held out 42409
+2026-11-17 18:59:30,168 INFO src.models.crossfit: Cross-fit fold 2023: trained on 161000 balls, held out 32650
+2026-11-17 18:59:45,344 INFO src.models.crossfit: Cross-fit fold 2024: trained on 152717 balls, held out 41271
+2026-11-17 18:59:53,011 INFO src.models.crossfit: Cross-fit fold 2025: trained on 149806 balls, held out 44182
+2026-11-17 19:00:05,343 INFO src.models.crossfit: Cross-fit fold 2026: trained on 160906 balls, held out 32989
+2026-11-17 19:00:11,448 INFO __main__: Ablation lightgbm / no associate flag: log-loss 0.5347
+2026-11-17 19:00:20,387 INFO src.models.crossfit: Cross-fit fold 2022: trained on 151523 balls, held out 42409
+2026-11-17 19:00:28,396 INFO src.models.crossfit: Cross-fit fold 2023: trained on 161000 balls, held out 32650
+2026-11-17 19:00:35,194 INFO src.models.crossfit: Cross-fit fold 2024: trained on 152717 balls, held out 41271
+2026-11-17 19:00:42,201 INFO src.models.crossfit: Cross-fit fold 2025: trained on 149806 balls, held out 44182
+2026-11-17 19:00:48,307 INFO src.models.crossfit: Cross-fit fold 2026: trained on 160906 balls, held out 32989
+2026-11-17 19:00:53,493 INFO __main__: Ablation lightgbm / + pre-match team strength (Elo): log-loss 0.6032
+2026-11-17 19:01:00,435 INFO src.models.crossfit: Cross-fit fold 2022: trained on 151523 balls, held out 42409
+2026-11-17 19:01:06,306 INFO src.models.crossfit: Cross-fit fold 2023: trained on 161000 balls, held out 32650
+2026-11-17 19:01:12,771 INFO src.models.crossfit: Cross-fit fold 2024: trained on 152717 balls, held out 41271
+2026-11-17 19:01:20,190 INFO src.models.crossfit: Cross-fit fold 2025: trained on 149806 balls, held out 44182
+2026-11-17 19:01:26,914 INFO src.models.crossfit: Cross-fit fold 2026: trained on 160906 balls, held out 32989
+2026-11-17 19:01:32,023 INFO __main__: Ablation lightgbm / + venue factor: log-loss 0.5821
+2026-11-17 19:01:33,470 INFO src.models.crossfit: Cross-fit fold 2022: trained on 151523 balls, held out 42409
+2026-11-17 19:01:34,659 INFO src.models.crossfit: Cross-fit fold 2023: trained on 161000 balls, held out 32650
+2026-11-17 19:01:35,580 INFO src.models.crossfit: Cross-fit fold 2024: trained on 152717 balls, held out 41271
+2026-11-17 19:01:36,483 INFO src.models.crossfit: Cross-fit fold 2025: trained on 149806 balls, held out 44182
+2026-11-17 19:01:37,337 INFO src.models.crossfit: Cross-fit fold 2026: trained on 160906 balls, held out 32989
+2026-11-17 19:01:38,239 INFO __main__: Ablation logistic / + pre-match team strength (Elo): log-loss 0.5118
+2026-11-17 19:01:39,418 INFO src.models.crossfit: Cross-fit fold 2022: trained on 151523 balls, held out 42409
+2026-11-17 19:01:40,600 INFO src.models.crossfit: Cross-fit fold 2023: trained on 161000 balls, held out 32650
+2026-11-17 19:01:41,619 INFO src.models.crossfit: Cross-fit fold 2024: trained on 152717 balls, held out 41271
+2026-11-17 19:01:42,734 INFO src.models.crossfit: Cross-fit fold 2025: trained on 149806 balls, held out 44182
+2026-11-17 19:01:43,824 INFO src.models.crossfit: Cross-fit fold 2026: trained on 160906 balls, held out 32989
+2026-11-17 19:01:45,181 INFO __main__: Ablation logistic / + venue factor: log-loss 0.5137
+2026-11-17 19:01:46,537 INFO src.models.crossfit: Cross-fit fold 2022: trained on 151523 balls, held out 42409
+2026-11-17 19:01:47,505 INFO src.models.crossfit: Cross-fit fold 2023: trained on 161000 balls, held out 32650
+2026-11-17 19:01:48,341 INFO src.models.crossfit: Cross-fit fold 2024: trained on 152717 balls, held out 41271
+2026-11-17 19:01:49,198 INFO src.models.crossfit: Cross-fit fold 2025: trained on 149806 balls, held out 44182
+2026-11-17 19:01:50,041 INFO src.models.crossfit: Cross-fit fold 2026: trained on 160906 balls, held out 32989
+2026-11-17 19:01:50,929 INFO __main__: Ablation logistic / + Impact Player flag: log-loss 0.5143
+2026-11-17 19:02:08,803 INFO src.models.crossfit: Cross-fit fold 2022: trained on 151523 balls, held out 42409
+2026-11-17 19:02:27,055 INFO src.models.crossfit: Cross-fit fold 2023: trained on 161000 balls, held out 32650
+2026-11-17 19:02:43,188 INFO src.models.crossfit: Cross-fit fold 2024: trained on 152717 balls, held out 41271
+2026-11-17 19:03:02,861 INFO src.models.crossfit: Cross-fit fold 2025: trained on 149806 balls, held out 44182
+2026-11-17 19:03:21,592 INFO src.models.crossfit: Cross-fit fold 2026: trained on 160906 balls, held out 32989
+2026-11-17 19:14:14,382 INFO src.models.crossfit: Platt (intercept, slope) for held-out 2022 by innings: {1: (-0.0946624690906017, 0.6568559518853949), 2: (0.0996654658461536, 0.7538793240682443)}
+2026-11-17 19:14:14,813 INFO src.models.crossfit: Platt (intercept, slope) for held-out 2023 by innings: {1: (-0.0504434645951184, 0.7352805594159564), 2: (0.12485508841994433, 0.8904726160411698)}
+2026-11-17 19:14:15,214 INFO src.models.crossfit: Platt (intercept, slope) for held-out 2024 by innings: {1: (-0.1286708443377392, 0.7514604226417911), 2: (0.23615226800301636, 0.8514485215763529)}
+2026-11-17 19:14:15,670 INFO src.models.crossfit: Platt (intercept, slope) for held-out 2025 by innings: {1: (-0.004705013370022452, 0.680509147073482), 2: (0.09222206294923606, 0.7871183338717717)}
+2026-11-17 19:14:16,133 INFO src.models.crossfit: Platt (intercept, slope) for held-out 2026 by innings: {1: (0.03044751242363582, 0.7742564886373484), 2: (0.007112543721517657, 0.8165111682670854)}
+2026-11-17 19:14:17,793 INFO __main__: Ablation dp_platt / + Impact Player flag: log-loss 0.5158
+2026-11-17 19:17:20,669 INFO src.models.crossfit: Cross-fit fold 2022: trained on 151523 balls, held out 42409
+2026-11-17 19:17:43,100 INFO src.models.crossfit: Cross-fit fold 2023: trained on 161000 balls, held out 32650
+2026-11-17 19:18:10,357 INFO src.models.crossfit: Cross-fit fold 2024: trained on 152717 balls, held out 41271
+2026-11-17 19:18:31,081 INFO src.models.crossfit: Cross-fit fold 2025: trained on 149806 balls, held out 44182
+2026-11-17 19:18:52,073 INFO src.models.crossfit: Cross-fit fold 2026: trained on 160906 balls, held out 32989
+2026-11-17 19:27:00,573 INFO src.models.crossfit: Platt (intercept, slope) for held-out 2022 by innings: {1: (-0.08215704731255866, 0.6429287988727291), 2: (0.07423054555925594, 0.7463753685342404)}
+2026-11-17 19:27:00,921 INFO src.models.crossfit: Platt (intercept, slope) for held-out 2023 by innings: {1: (-0.02709665170637109, 0.6993206394778261), 2: (0.05281135942648894, 0.8592231196490597)}
+2026-11-17 19:27:01,275 INFO src.models.crossfit: Platt (intercept, slope) for held-out 2024 by innings: {1: (-0.0795957008840399, 0.7000056440450412), 2: (0.14608030205936312, 0.8229571278714217)}
+2026-11-17 19:27:01,625 INFO src.models.crossfit: Platt (intercept, slope) for held-out 2025 by innings: {1: (0.032525095010452476, 0.6445213585159599), 2: (0.006032966573147844, 0.764623049641412)}
+2026-11-17 19:27:02,014 INFO src.models.crossfit: Platt (intercept, slope) for held-out 2026 by innings: {1: (0.08820687560952468, 0.7608918836055494), 2: (-0.09945450109784658, 0.8083501242579817)}
+2026-11-17 19:27:03,309 INFO __main__: Ablation dp_platt / no scoring-environment adjustment: log-loss 0.5222
+2026-11-17 19:28:01,810 INFO __main__: Phase 2b outputs written to E:\RR Hackathon\superr\outputs\tables\phase2b and E:\RR Hackathon\superr\outputs\figures\phase2b
+2026-11-17 19:28:18,904 INFO src.models.expected: Expectation models: held out 2022
+2026-11-17 19:28:33,384 INFO src.models.expected: Expectation models: held out 2023
+2026-11-17 19:28:47,374 INFO src.models.expected: Expectation models: held out 2024
+2026-11-17 19:29:04,363 INFO src.models.expected: Expectation models: held out 2025
+2026-11-17 19:29:19,221 INFO src.models.expected: Expectation models: held out 2026
+2026-11-17 19:29:33,493 INFO src.models.expected: Expectation models: held out 2022
+2026-11-17 19:29:47,572 INFO src.models.expected: Expectation models: held out 2023
+2026-11-17 19:30:00,317 INFO src.models.expected: Expectation models: held out 2024
+2026-11-17 19:30:17,612 INFO src.models.expected: Expectation models: held out 2025
+2026-11-17 19:30:28,852 INFO src.models.expected: Expectation models: held out 2026
+2026-11-17 19:31:25,329 INFO __main__: Phase 3 outputs written to E:\RR Hackathon\superr\outputs\tables\phase3 and E:\RR Hackathon\superr\outputs\figures\phase3 (wicket-cost cap 17.85 runs)
+2026-11-17 19:31:27,609 INFO src.rating.opposition: Opposition model CV: intercept only -> 7.64321
+2026-11-17 19:31:27,799 INFO src.rating.opposition: Opposition model CV: no player effects -> 7.63603
+2026-11-17 19:31:29,133 INFO src.rating.opposition: Opposition model CV: ridge, penalty 30 -> 7.65085
+2026-11-17 19:31:30,556 INFO src.rating.opposition: Opposition model CV: ridge, penalty 100 -> 7.63842
+2026-11-17 19:31:32,429 INFO src.rating.opposition: Opposition model CV: ridge, penalty 300 -> 7.63179
+2026-11-17 19:31:34,436 INFO src.rating.opposition: Opposition model CV: ridge, penalty 1000 -> 7.62987
+2026-11-17 19:31:36,263 INFO src.rating.opposition: Opposition model CV: ridge, penalty 3000 -> 7.63168
+2026-11-17 19:31:38,275 INFO src.rating.opposition: Opposition model CV: ridge, penalty 10000 -> 7.63410
+2026-11-17 19:31:39,987 INFO src.rating.opposition: Opposition model CV: ridge, penalty 30000 -> 7.63529
+2026-11-17 19:31:40,366 INFO src.rating.opposition: Opposition model (batter): penalty 1000
+2026-11-17 19:31:40,954 INFO src.rating.opposition: Opposition model CV: intercept only -> 7.59201
+2026-11-17 19:31:41,187 INFO src.rating.opposition: Opposition model CV: no player effects -> 7.58483
+2026-11-17 19:31:42,710 INFO src.rating.opposition: Opposition model CV: ridge, penalty 30 -> 7.59979
+2026-11-17 19:31:44,443 INFO src.rating.opposition: Opposition model CV: ridge, penalty 100 -> 7.58758
+2026-11-17 19:31:46,994 INFO src.rating.opposition: Opposition model CV: ridge, penalty 300 -> 7.58107
+2026-11-17 19:31:48,851 INFO src.rating.opposition: Opposition model CV: ridge, penalty 1000 -> 7.57912
+2026-11-17 19:31:51,431 INFO src.rating.opposition: Opposition model CV: ridge, penalty 3000 -> 7.58075
+2026-11-17 19:31:53,223 INFO src.rating.opposition: Opposition model CV: ridge, penalty 10000 -> 7.58302
+2026-11-17 19:31:55,020 INFO src.rating.opposition: Opposition model CV: ridge, penalty 30000 -> 7.58414
+2026-11-17 19:31:55,844 INFO src.rating.opposition: Opposition model (bowler): penalty 1000
+2026-11-17 19:32:26,363 INFO src.rating.opposition: Opposition model CV: intercept only -> 7.64321
+2026-11-17 19:32:26,694 INFO src.rating.opposition: Opposition model CV: no player effects -> 7.63940
+2026-11-17 19:32:28,451 INFO src.rating.opposition: Opposition model CV: ridge, penalty 30 -> 7.65081
+2026-11-17 19:32:30,367 INFO src.rating.opposition: Opposition model CV: ridge, penalty 100 -> 7.63877
+2026-11-17 19:32:32,260 INFO src.rating.opposition: Opposition model CV: ridge, penalty 300 -> 7.63283
+2026-11-17 19:32:34,280 INFO src.rating.opposition: Opposition model CV: ridge, penalty 1000 -> 7.63183
+2026-11-17 19:32:35,711 INFO src.rating.opposition: Opposition model CV: ridge, penalty 3000 -> 7.63432
+2026-11-17 19:32:37,164 INFO src.rating.opposition: Opposition model CV: ridge, penalty 10000 -> 7.63719
+2026-11-17 19:32:38,850 INFO src.rating.opposition: Opposition model CV: ridge, penalty 30000 -> 7.63856
+2026-11-17 19:32:39,234 INFO src.rating.opposition: Opposition model (batter): penalty 1000
+2026-11-17 19:32:39,982 INFO src.rating.opposition: Opposition model CV: intercept only -> 7.59201
+2026-11-17 19:32:40,225 INFO src.rating.opposition: Opposition model CV: no player effects -> 7.58815
+2026-11-17 19:32:41,749 INFO src.rating.opposition: Opposition model CV: ridge, penalty 30 -> 7.59979
+2026-11-17 19:32:43,246 INFO src.rating.opposition: Opposition model CV: ridge, penalty 100 -> 7.58796
+2026-11-17 19:32:44,747 INFO src.rating.opposition: Opposition model CV: ridge, penalty 300 -> 7.58210
+2026-11-17 19:32:47,426 INFO src.rating.opposition: Opposition model CV: ridge, penalty 1000 -> 7.58099
+2026-11-17 19:32:49,853 INFO src.rating.opposition: Opposition model CV: ridge, penalty 3000 -> 7.58329
+2026-11-17 19:32:51,552 INFO src.rating.opposition: Opposition model CV: ridge, penalty 10000 -> 7.58602
+2026-11-17 19:32:53,053 INFO src.rating.opposition: Opposition model CV: ridge, penalty 30000 -> 7.58733
+2026-11-17 19:32:53,328 INFO src.rating.opposition: Opposition model (bowler): penalty 1000
+2026-11-17 19:33:11,886 INFO __main__: Phase 4 outputs written to E:\RR Hackathon\superr\outputs\tables\phase4 (137 eligible batters, 139 eligible bowlers)
+2026-11-17 19:33:33,764 INFO __main__: Phase 5: split-half reliability done for batters
+2026-11-17 19:33:48,575 INFO __main__: Phase 5: split-half reliability done for bowlers
+2026-11-17 19:33:48,595 INFO __main__: Phase 5: leverage weighting chosen = uniform
+2026-11-17 19:33:56,234 INFO __main__: Phase 5 outputs written to E:\RR Hackathon\superr\outputs\tables\phase5
+2026-11-17 19:34:19,693 INFO src.robustness.sensitivity: Phase 6 variant done: headline
+2026-11-17 19:34:24,464 INFO src.robustness.sensitivity: Phase 6 variant done: pressure: logistic leverage
+2026-11-17 19:34:28,955 INFO src.robustness.sensitivity: Phase 6 variant done: pressure: rule index
+2026-11-17 19:34:32,648 INFO src.robustness.sensitivity: Phase 6 variant done: pressure: per-innings cut
+2026-11-17 19:34:36,115 INFO src.robustness.sensitivity: Phase 6 variant done: weight: sqrt LI
+2026-11-17 19:34:42,499 INFO src.robustness.sensitivity: Phase 6 variant done: weight: LI cap
+2026-11-17 19:34:47,696 INFO src.robustness.sensitivity: Phase 6 variant done: knockouts x1.25
+2026-11-17 19:34:54,325 INFO src.robustness.sensitivity: Phase 6 variant done: eligibility 150
+2026-11-17 19:34:58,925 INFO src.robustness.sensitivity: Phase 6 variant done: eligibility 200
+2026-11-17 19:35:01,446 INFO src.robustness.sensitivity: Phase 6 variant done: IPL only
+2026-11-17 19:35:07,571 INFO src.robustness.sensitivity: Phase 6 variant done: T20I only
+2026-11-17 19:35:14,053 INFO src.robustness.sensitivity: Phase 6 variant done: associates excluded
+2026-11-17 19:35:19,369 INFO src.robustness.sensitivity: Phase 6 variant done: without 2022
+2026-11-17 19:35:30,251 INFO src.robustness.sensitivity: Phase 6 variant done: without 2023
+2026-11-17 19:35:38,566 INFO src.robustness.sensitivity: Phase 6 variant done: without 2024
+2026-11-17 19:35:52,573 INFO src.robustness.sensitivity: Phase 6 variant done: without 2025
+2026-11-17 19:36:00,620 INFO src.robustness.sensitivity: Phase 6 variant done: without 2026
+2026-11-17 19:36:06,976 INFO src.robustness.sensitivity: Phase 6 variant done: role: position / phase relative
+2026-11-17 19:36:17,598 INFO __main__: Phase 6 outputs written to E:\RR Hackathon\superr\outputs\tables\phase6

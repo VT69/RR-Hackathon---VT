@@ -1,0 +1,7 @@
+role,weighting,base_rate,qualifying_player_matches
+batter,uniform,0.55165840640488,2623
+batter,cap,0.5169653069004956,2623
+batter,sqrt,0.5299275638581776,2623
+bowler,uniform,0.4447530864197531,3240
+bowler,cap,0.44814814814814813,3240
+bowler,sqrt,0.44351851851851853,3240

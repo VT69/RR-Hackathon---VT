@@ -1,0 +1,19 @@
+innings,contest,phase,mean_li,balls
+1,even (35-65%),death,1.0125877970124788,11232
+1,even (35-65%),middle,0.7797649965706297,25054
+1,even (35-65%),powerplay,0.933228431674675,26455
+1,leaning (15-35% or 65-85%),death,0.830846275582282,10688
+1,leaning (15-35% or 65-85%),middle,0.6771051811742561,17578
+1,leaning (15-35% or 65-85%),powerplay,0.8455013863242672,4622
+1,one-sided (under 15% or over 85%),death,0.4913292538869928,3146
+1,one-sided (under 15% or over 85%),middle,0.4015559412872137,3096
+1,one-sided (under 15% or over 85%),powerplay,0.5317495493615306,183
+2,even (35-65%),death,4.799652164322976,2141
+2,even (35-65%),middle,1.8189090302961441,8416
+2,even (35-65%),powerplay,1.6304628195963056,8852
+2,leaning (15-35% or 65-85%),death,3.744014548942016,3720
+2,leaning (15-35% or 65-85%),middle,1.4832662833402783,11962
+2,leaning (15-35% or 65-85%),powerplay,1.2645457839228071,11825
+2,one-sided (under 15% or over 85%),death,0.7215556595594024,11986
+2,one-sided (under 15% or over 85%),middle,0.4359280680670201,22939
+2,one-sided (under 15% or over 85%),powerplay,0.5244052738651915,9606

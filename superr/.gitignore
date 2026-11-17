@@ -1,0 +1,22 @@
+# Raw competition data is not redistributed: place the six CSVs in data/raw/ (see README, "Getting the data")
+data/raw/
+
+# Environment, caches, build intermediates
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+outputs/cache/
+
+# Large ball-level outputs (40-60 MB each; rebuilt by the pipeline)
+outputs/ball_pressure.csv
+outputs/ball_value.csv
+outputs/ball_value_adjusted.csv
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+.claude/

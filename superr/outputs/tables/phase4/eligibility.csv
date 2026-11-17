@@ -1,0 +1,1421 @@
+role,player_id,name,teams,balls,matches,pressure_balls,pressure_matches,share_ipl,status,reason
+batter,7897,Namboori Tilak Varma,"India, Mumbai Indians",2417,122,695.0,52.0,0.5308233347124535,eligible,
+batter,6288,Shubman Gill,"Gujarat Titans, India",2711,112,690.0,48.0,0.7687200295094061,eligible,
+batter,6931,Pathum Nissanka,"Delhi Capitals, Sri Lanka",1631,75,626.0,43.0,0.1072961373390558,eligible,
+batter,4117,Ishan Kishan,"India, Mumbai Indians, Sunrisers Hyderabad",2400,121,613.0,58.0,0.60125,eligible,
+batter,47,Virat Kohli,"India, Royal Challengers Bengaluru",2456,92,603.0,42.0,0.8513843648208469,eligible,
+batter,1699,Suryakumar Yadav,"India, Mumbai Indians",2749,138,602.0,52.0,0.49399781738814114,eligible,
+batter,813,Jos Buttler,"England, Gujarat Titans, Rajasthan Royals",2819,120,562.0,52.0,0.6353316778999645,eligible,
+batter,6281,Abhishek Sharma,"India, Sunrisers Hyderabad",2251,130,562.0,52.0,0.540204353620613,eligible,
+batter,818,Mitchell Marsh,"Australia, Delhi Capitals, Lucknow Super Giants",1724,82,559.0,42.0,0.6102088167053364,eligible,
+batter,6819,Yashasvi Jaiswal,"India, Rajasthan Royals",1849,88,523.0,42.0,0.8031368307193077,eligible,
+batter,3125,Nicholas Pooran,"Lucknow Super Giants, Sunrisers Hyderabad, West Indies",1972,115,515.0,44.0,0.5826572008113591,eligible,
+batter,126,Rohit Sharma,"India, Mumbai Indians",1619,91,507.0,43.0,0.7479925880172946,eligible,
+batter,23450,Sai Sudharsan,Gujarat Titans,1686,57,475.0,34.0,1.0,eligible,
+batter,953,Lokesh Rahul,"Delhi Capitals, India, Lucknow Super Giants",2015,74,445.0,38.0,0.8823821339950372,eligible,
+batter,2258,Sanju Samson,"Chennai Super Kings, India, Rajasthan Royals",2231,123,434.0,49.0,0.6207978484984312,eligible,
+batter,3330,Hardik Pandya,"Gujarat Titans, India, Mumbai Indians",1906,117,426.0,48.0,0.5566631689401889,eligible,
+batter,3672,Kusal Mendis,"Gujarat Titans, Sri Lanka",1326,67,425.0,30.0,0.007541478129713424,eligible,
+batter,5553,Phil Salt,"Delhi Capitals, England, Kolkata Knight Riders, Royal Challengers Bengaluru",1608,83,422.0,41.0,0.44838308457711445,eligible,
+batter,3024,Mohammad Rizwan,Pakistan,1152,37,414.0,20.0,0.0,eligible,
+batter,1077,David Miller,"Delhi Capitals, Gujarat Titans, Lucknow Super Giants, South Africa",1280,81,410.0,39.0,0.71171875,eligible,
+batter,3647,Shreyas Iyer,"India, Kolkata Knight Riders, Punjab Kings",1864,97,406.0,27.0,0.6314377682403434,eligible,
+batter,3605,Aiden Markram,"Lucknow Super Giants, South Africa, Sunrisers Hyderabad",1672,94,379.0,38.0,0.666267942583732,eligible,
+batter,7216,Prabhsimran Singh,Punjab Kings,1134,60,367.0,25.0,1.0,eligible,
+batter,4986,Rovman Powell,"Delhi Capitals, Kolkata Knight Riders, Rajasthan Royals, West Indies",1559,100,355.0,45.0,0.2501603592046183,eligible,
+batter,5939,Cameron Green,"Australia, Kolkata Knight Riders, Mumbai Indians, Royal Challengers Bengaluru",1072,63,353.0,34.0,0.6352611940298507,eligible,
+batter,4755,Shivam Dube,"Chennai Super Kings, India",1544,98,343.0,35.0,0.7338082901554405,eligible,
+batter,2876,Axar Patel,"Delhi Capitals, India",1279,105,330.0,49.0,0.6262705238467553,eligible,
+batter,6396,Tim David,"Australia, Mumbai Indians, Royal Challengers Bengaluru",1226,98,327.0,46.0,0.5277324632952691,eligible,
+batter,20702,Tristan Stubbs,"Delhi Capitals, Mumbai Indians, South Africa",1081,69,317.0,33.0,0.599444958371878,eligible,
+batter,2984,Sikandar Raza,"Punjab Kings, Zimbabwe",1002,57,300.0,25.0,0.13572854291417166,eligible,
+batter,3954,Andrew Balbirnie,Ireland,569,29,293.0,20.0,0.0,eligible,
+batter,220,David Warner,"Australia, Delhi Capitals",1117,45,292.0,21.0,0.7197851387645479,eligible,
+batter,2101,Quinton de Kock,"Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians, South Africa",1262,66,291.0,30.0,0.6553090332805072,eligible,
+batter,2485,Babar Azam,Pakistan,1181,52,289.0,24.0,0.0,eligible,
+batter,4007,Ryan Rickelton,"Mumbai Indians, South Africa",856,47,289.0,29.0,0.580607476635514,eligible,
+batter,2367,Travis Head,"Australia, Sunrisers Hyderabad",1129,66,288.0,35.0,0.6793622674933569,eligible,
+batter,2639,Marcus Stoinis,"Australia, Lucknow Super Giants, Punjab Kings",1247,89,285.0,32.0,0.6792301523656776,eligible,
+batter,22565,Muhammad Waseem,United Arab Emirates,459,20,280.0,17.0,0.0,eligible,
+batter,3639,Brandon King,West Indies,1135,59,276.0,30.0,0.0,eligible,
+batter,7260,Dhruv Jurel,"India, Rajasthan Royals",798,54,275.0,24.0,0.9711779448621554,eligible,
+batter,3297,Shimron Hetmyer,"Rajasthan Royals, West Indies",1245,94,271.0,38.0,0.5646586345381526,eligible,
+batter,6423,Riyan Parag,"India, Rajasthan Royals",1084,69,271.0,27.0,0.9354243542435424,eligible,
+batter,6725,Sherfane Rutherford,"Gujarat Titans, Mumbai Indians, Royal Challengers Bengaluru, West Indies",818,56,266.0,24.0,0.37897310513447435,eligible,
+batter,4260,Heinrich Klaasen,"South Africa, Sunrisers Hyderabad",1417,72,263.0,27.0,0.8503881439661256,eligible,
+batter,2671,Liton Das,"Bangladesh, Kolkata Knight Riders",1103,60,259.0,29.0,0.003626473254759746,eligible,
+batter,768,Reeza Hendricks,South Africa,835,34,258.0,16.0,0.0,eligible,
+batter,6314,Devdutt Padikkal,"Lucknow Super Giants, Rajasthan Royals, Royal Challengers Bengaluru",998,60,256.0,22.0,1.0,eligible,
+batter,2436,Dasun Shanaka,"Gujarat Titans, Rajasthan Royals, Sri Lanka",774,61,255.0,25.0,0.09302325581395349,eligible,
+batter,4812,Harry Tector,Ireland,828,45,253.0,21.0,0.0,eligible,
+batter,4409,Sam Curran,"Chennai Super Kings, England, Punjab Kings",857,58,246.0,28.0,0.5904317386231038,eligible,
+batter,4708,Rinku Singh,"India, Kolkata Knight Riders",1280,82,245.0,29.0,0.68359375,eligible,
+batter,6448,Ibrahim Zadran,Afghanistan,1126,47,240.0,23.0,0.0,eligible,
+batter,2921,Fakhar Zaman,Pakistan,863,47,237.0,20.0,0.0,eligible,
+batter,3700,Tim Seifert,"Delhi Capitals, Kolkata Knight Riders, New Zealand",757,42,237.0,23.0,0.0488771466314399,eligible,
+batter,167,Ajinkya Rahane,"Chennai Super Kings, Kolkata Knight Riders",1025,56,235.0,21.0,1.0,eligible,
+batter,6651,Towhid Hridoy,Bangladesh,915,49,235.0,21.0,0.0,eligible,
+batter,4391,Liam Livingstone,"England, Punjab Kings, Royal Challengers Bengaluru, Sunrisers Hyderabad",994,68,227.0,21.0,0.6016096579476862,eligible,
+batter,4246,Nitish Rana,"Delhi Capitals, Kolkata Knight Riders, Rajasthan Royals",844,49,226.0,18.0,1.0,eligible,
+batter,6059,Ruturaj Gaikwad,"Chennai Super Kings, India",1806,76,224.0,31.0,0.8073089700996677,eligible,
+batter,4780,Mohammad Saif Hassan,Bangladesh,453,23,223.0,14.0,0.0,eligible,
+batter,4853,Glenn Phillips,"Gujarat Titans, New Zealand, Sunrisers Hyderabad",1089,55,219.0,15.0,0.06978879706152434,eligible,
+batter,88,Faf du Plessis,"Delhi Capitals, Royal Challengers Bengaluru",1276,54,217.0,25.0,1.0,eligible,
+batter,796,Matthew Wade,"Australia, Gujarat Titans",427,30,214.0,16.0,0.3372365339578454,eligible,
+batter,1440,Rahul Tripathi,"Chennai Super Kings, India, Sunrisers Hyderabad",713,43,214.0,19.0,0.906030855539972,eligible,
+batter,4106,Daryl Mitchell,"Chennai Super Kings, New Zealand, Rajasthan Royals",1145,68,214.0,19.0,0.2331877729257642,eligible,
+batter,1941,Devon Conway,"Chennai Super Kings, New Zealand",1486,61,211.0,16.0,0.5201884253028264,eligible,
+batter,3916,Jitesh Sharma,"India, Punjab Kings, Royal Challengers Bengaluru",829,69,211.0,24.0,0.8757539203860072,eligible,
+batter,4369,Shai Hope,"Delhi Capitals, West Indies",1105,58,210.0,23.0,0.11040723981900452,eligible,
+batter,2416,Kyle Mayers,"Lucknow Super Giants, West Indies",756,46,206.0,18.0,0.3478835978835979,eligible,
+batter,24017,Brian Bennett,Zimbabwe,793,44,206.0,24.0,0.0,eligible,
+batter,6272,William Jacks,"England, Mumbai Indians, Royal Challengers Bengaluru",697,55,205.0,23.0,0.5437589670014347,eligible,
+batter,6674,Rahmanullah Gurbaz,"Afghanistan, Kolkata Knight Riders",1107,68,205.0,22.0,0.22854561878952123,eligible,
+batter,152,Ravindra Jadeja,"Chennai Super Kings, India, Rajasthan Royals",958,65,202.0,24.0,0.8736951983298539,eligible,
+batter,838,Glenn Maxwell,"Australia, Punjab Kings, Royal Challengers Bengaluru",958,75,200.0,24.0,0.5093945720250522,eligible,
+batter,3926,Rahul Tewatia,Gujarat Titans,524,57,199.0,27.0,1.0,eligible,
+batter,4219,Krunal Pandya,"Lucknow Super Giants, Royal Challengers Bengaluru",656,54,198.0,22.0,1.0,eligible,
+batter,7900,Tanzid Hasan,Bangladesh,910,44,198.0,23.0,0.0,eligible,
+batter,4736,Josh Inglis,"Australia, Lucknow Super Giants, Punjab Kings",904,56,196.0,21.0,0.3473451327433628,eligible,
+batter,4823,Washington Sundar,"Gujarat Titans, India, Sunrisers Hyderabad",637,48,191.0,24.0,0.7221350078492935,eligible,
+batter,109,Wriddhiman Saha,Gujarat Titans,661,37,189.0,14.0,1.0,eligible,
+batter,443,Paul Stirling,Ireland,527,39,187.0,21.0,0.0,eligible,
+batter,4703,Rishabh Pant,"Delhi Capitals, India, Lucknow Super Giants",1234,72,187.0,25.0,0.7609400324149108,eligible,
+batter,4895,Charith Asalanka,Sri Lanka,739,53,186.0,22.0,0.0,eligible,
+batter,50284,Vaibhav Sooryavanshi,"India, Rajasthan Royals",578,31,177.0,23.0,0.7768166089965398,eligible,
+batter,7544,Venkatesh Iyer,"India, Kolkata Knight Riders, Royal Challengers Bengaluru",915,54,174.0,14.0,0.9453551912568307,eligible,
+batter,2877,Vijay Shankar,"Chennai Super Kings, Gujarat Titans",386,26,173.0,18.0,1.0,eligible,
+batter,7901,Parvez Emon,Bangladesh,517,36,167.0,16.0,0.0,eligible,
+batter,23311,Jacob Bethell,"England, Royal Challengers Bengaluru",442,32,166.0,17.0,0.26244343891402716,eligible,
+batter,1101,George Dockrell,Ireland,498,42,164.0,22.0,0.0,eligible,
+batter,1568,Kane Williamson,"Gujarat Titans, New Zealand, Sunrisers Hyderabad",535,24,163.0,11.0,0.4822429906542056,eligible,
+batter,2463,Ryan Burl,Zimbabwe,706,42,161.0,19.0,0.0,eligible,
+batter,2756,Shashank Singh,"Punjab Kings, Sunrisers Hyderabad",560,42,161.0,22.0,1.0,eligible,
+batter,4854,Rachin Ravindra,"Chennai Super Kings, New Zealand",582,44,161.0,19.0,0.49312714776632305,eligible,
+batter,6280,Harry Brook,"England, Sunrisers Hyderabad",871,55,161.0,18.0,0.17680826636050517,eligible,
+batter,2490,Mohammad Nawaz,Pakistan,497,46,160.0,17.0,0.0,eligible,
+batter,6460,Ayush Badoni,Lucknow Super Giants,836,56,160.0,22.0,1.0,eligible,
+batter,7059,Nehal Wadhera,"Mumbai Indians, Punjab Kings",560,37,160.0,14.0,1.0,eligible,
+batter,1481,Kusal Perera,Sri Lanka,568,32,159.0,14.0,0.0,eligible,
+batter,3374,Mark Chapman,New Zealand,868,52,159.0,16.0,0.0,eligible,
+batter,1327,Johnson Charles,West Indies,410,27,156.0,15.0,0.0,eligible,
+batter,25213,Dewald Brevis,"Chennai Super Kings, Mumbai Indians, South Africa",630,40,153.0,17.0,0.6587301587301587,eligible,
+batter,8600,Tadiwanashe Marumani,Zimbabwe,433,40,152.0,18.0,0.0,eligible,
+batter,3727,Matthew Short,"Australia, Chennai Super Kings, Punjab Kings",420,31,150.0,14.0,0.3404761904761905,eligible,
+batter,2930,Rassie van der Dussen,"Rajasthan Royals, South Africa",311,20,149.0,10.0,0.07717041800643087,eligible,
+batter,6726,Romario Shepherd,"Lucknow Super Giants, Mumbai Indians, Royal Challengers Bengaluru, Sunrisers Hyderabad, West Indies",687,68,149.0,32.0,0.22270742358078602,eligible,
+batter,1596,Moeen Ali,"Chennai Super Kings, England, Kolkata Knight Riders",755,53,146.0,15.0,0.5033112582781457,eligible,
+batter,4722,Rashid Khan,"Afghanistan, Gujarat Titans",507,71,145.0,32.0,0.4812623274161736,eligible,
+batter,4814,Lorcan Tucker,Ireland,666,40,144.0,20.0,0.0,eligible,
+batter,1318,Andre Russell,"Kolkata Knight Riders, West Indies",714,56,143.0,23.0,0.7717086834733894,eligible,
+batter,8101,Ashutosh Sharma,"Delhi Capitals, Punjab Kings",334,26,143.0,15.0,1.0,eligible,
+batter,8726,Alishan Sharafu,United Arab Emirates,224,11,141.0,9.0,0.0,insufficient evidence,pressure balls in too few matches
+batter,3648,Deepak Hooda,"Chennai Super Kings, India, Lucknow Super Giants",788,54,138.0,19.0,0.7182741116751269,eligible,
+batter,1205,Jonny Bairstow,"England, Mumbai Indians, Punjab Kings",673,33,133.0,12.0,0.6181277860326895,eligible,
+batter,7690,Saim Ayub,Pakistan,880,58,133.0,21.0,0.0,eligible,
+batter,3056,Iftikhar Ahmed,Pakistan,455,30,132.0,14.0,0.0,eligible,
+batter,4904,Kamindu Mendis,"Sri Lanka, Sunrisers Hyderabad",593,38,127.0,14.0,0.1163575042158516,eligible,
+batter,8,Mahendra Singh Dhoni,Chennai Super Kings,463,48,125.0,25.0,1.0,eligible,
+batter,2687,Roston Chase,West Indies,511,36,125.0,14.0,0.0,eligible,
+batter,4412,Max ODowd,Netherlands,199,11,125.0,10.0,0.0,eligible,
+batter,143,Dinesh Karthik,"India, Royal Challengers Bengaluru",639,61,124.0,25.0,0.7167449139280125,eligible,
+batter,27469,Aryansh Sharma,United Arab Emirates,129,6,124.0,6.0,0.0,insufficient evidence,pressure balls in too few matches
+batter,42811,Michael Levitt,Netherlands,203,8,123.0,7.0,0.0,insufficient evidence,pressure balls in too few matches
+batter,142,Shikhar Dhawan,Punjab Kings,757,30,122.0,9.0,1.0,insufficient evidence,pressure balls in too few matches
+batter,7903,Shamim Hossain,Bangladesh,388,33,122.0,16.0,0.0,eligible,
+batter,5039,Rajat Patidar,Royal Challengers Bengaluru,918,48,121.0,15.0,1.0,eligible,
+batter,25669,Priyansh Arya,Punjab Kings,471,31,120.0,13.0,1.0,eligible,
+batter,728,Dawid Malan,England,457,22,119.0,10.0,0.0,eligible,
+batter,1107,Mohammad Nabi,"Afghanistan, Mumbai Indians",663,50,119.0,20.0,0.04675716440422323,eligible,
+batter,992,Mayank Agarwal,"Punjab Kings, Royal Challengers Bengaluru, Sunrisers Hyderabad",491,30,111.0,10.0,1.0,eligible,
+batter,8301,Asif Khan,United Arab Emirates,200,13,111.0,10.0,0.0,eligible,
+batter,4773,Jaker Ali Anik,Bangladesh,512,34,110.0,14.0,0.0,eligible,
+batter,6664,Dion Myers,Zimbabwe,340,20,109.0,12.0,0.0,eligible,
+batter,772,Rilee Rossouw,"Delhi Capitals, Punjab Kings, South Africa",417,26,107.0,12.0,0.6163069544364509,eligible,
+batter,250,Aaron Finch,"Australia, Kolkata Knight Riders",346,21,106.0,10.0,0.17630057803468208,eligible,
+batter,2633,Jason Holder,"Gujarat Titans, Lucknow Super Giants, Rajasthan Royals, West Indies",447,59,105.0,24.0,0.23937360178970918,eligible,
+batter,2680,Nurul Hasan,Bangladesh,238,22,105.0,11.0,0.0,eligible,
+batter,3091,Sahibzada Farhan,Pakistan,814,39,105.0,12.0,0.0,eligible,
+batter,4900,Wanindu Hasaranga,"Rajasthan Royals, Royal Challengers Bengaluru, Sri Lanka",468,62,105.0,25.0,0.18376068376068377,eligible,
+batter,39374,Muhammad Zohaib,United Arab Emirates,147,10,104.0,9.0,0.0,insufficient evidence,pressure balls in too few matches
+batter,8654,Cooper Connolly,"Australia, Punjab Kings",363,21,101.0,10.0,0.8292011019283747,eligible,
+batter,19714,Abishek Porel,Delhi Capitals,529,33,101.0,12.0,1.0,eligible,
+batter,4847,Finn Allen,"Kolkata Knight Riders, New Zealand",803,51,100.0,23.0,0.20298879202988793,eligible,
+batter,1116,Craig Ervine,Zimbabwe,245,15,99.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,37052,Naman Dhir,"India, Mumbai Indians",515,42,98.0,17.0,0.8407766990291262,insufficient evidence,too few pressure balls
+batter,3489,Salman Agha,Pakistan,698,42,97.0,16.0,0.0,insufficient evidence,too few pressure balls
+batter,28967,Tim Robinson,New Zealand,420,26,97.0,10.0,0.0,insufficient evidence,too few pressure balls
+batter,20327,Usman Khan,Pakistan,321,23,96.0,8.0,0.0,insufficient evidence,too few pressure balls
+batter,494,Kieron Pollard,"Mumbai Indians, West Indies",212,18,95.0,12.0,0.6320754716981132,insufficient evidence,too few pressure balls
+batter,7094,Curtis Campher,Ireland,526,35,94.0,12.0,0.0,insufficient evidence,too few pressure balls
+batter,8238,Sameer Rizvi,"Chennai Super Kings, Delhi Capitals",293,18,94.0,10.0,1.0,insufficient evidence,too few pressure balls
+batter,2573,Evin Lewis,"Lucknow Super Giants, West Indies",275,19,93.0,8.0,0.20363636363636364,insufficient evidence,too few pressure balls
+batter,3782,M Shahrukh Khan,"Gujarat Titans, Punjab Kings",410,43,93.0,17.0,1.0,insufficient evidence,too few pressure balls
+batter,21790,Tashinga Musekiwa,Zimbabwe,208,21,93.0,9.0,0.0,insufficient evidence,too few pressure balls
+batter,2003,Bhanuka Rajapaksa,"Punjab Kings, Sri Lanka",421,31,92.0,11.0,0.45368171021377673,insufficient evidence,too few pressure balls
+batter,4101,Mitchell Santner,"Chennai Super Kings, Mumbai Indians, New Zealand",520,56,92.0,16.0,0.19230769230769232,insufficient evidence,too few pressure balls
+batter,6574,Alick Athanaze,West Indies,264,15,92.0,7.0,0.0,insufficient evidence,too few pressure balls
+batter,3280,Nazmul Hossain Shanto,Bangladesh,504,27,90.0,13.0,0.0,insufficient evidence,too few pressure balls
+batter,24887,Innocent Kaia,Zimbabwe,165,10,88.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,3382,Nizakat Khan,Hong Kong,188,7,87.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,1187,Jason Roy,"England, Kolkata Knight Riders",386,19,86.0,9.0,0.48704663212435234,insufficient evidence,too few pressure balls
+batter,7049,Kamil Mishara,Sri Lanka,407,22,86.0,13.0,0.0,insufficient evidence,too few pressure balls
+batter,8221,Nitish Reddy,"India, Sunrisers Hyderabad",672,45,86.0,10.0,0.8050595238095238,insufficient evidence,too few pressure balls
+batter,8647,Sediqullah Atal,"Afghanistan, Delhi Capitals",529,30,86.0,13.0,0.030245746691871456,insufficient evidence,too few pressure balls
+batter,5379,Mark Adair,Ireland,277,27,85.0,11.0,0.0,insufficient evidence,too few pressure balls
+batter,7472,Shahbaz Ahmed,"Lucknow Super Giants, Royal Challengers Bengaluru, Sunrisers Hyderabad",435,32,85.0,10.0,1.0,insufficient evidence,too few pressure balls
+batter,21781,Clive Madande,Zimbabwe,298,23,84.0,13.0,0.0,insufficient evidence,too few pressure balls
+batter,2533,Najibullah Zadran,Afghanistan,306,23,83.0,8.0,0.0,insufficient evidence,too few pressure balls
+batter,6467,Anuj Rawat,Royal Challengers Bengaluru,266,20,83.0,8.0,1.0,insufficient evidence,too few pressure balls
+batter,6342,Matthew Breetzke,"Lucknow Super Giants, South Africa",148,14,80.0,5.0,0.08108108108108109,insufficient evidence,too few pressure balls
+batter,6273,Tom Banton,England,259,18,79.0,7.0,0.0,insufficient evidence,too few pressure balls
+batter,7741,Gareth Delany,Ireland,296,31,79.0,15.0,0.0,insufficient evidence,too few pressure balls
+batter,7912,Vikramjit Singh,Netherlands,137,11,78.0,10.0,0.0,insufficient evidence,too few pressure balls
+batter,535,Ambati Rayudu,Chennai Super Kings,337,23,77.0,7.0,1.0,insufficient evidence,too few pressure balls
+batter,6985,Bas de Leede,Netherlands,163,5,77.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,3323,Jimmy Neesham,"New Zealand, Rajasthan Royals",401,37,75.0,14.0,0.06733167082294264,insufficient evidence,too few pressure balls
+batter,2379,Ben Duckett,England,337,20,74.0,7.0,0.0,insufficient evidence,too few pressure balls
+batter,6398,Aaron Hardie,Australia,142,11,74.0,8.0,0.0,insufficient evidence,too few pressure balls
+batter,7446,Abdul Samad,"Lucknow Super Giants, Sunrisers Hyderabad",424,41,73.0,14.0,1.0,insufficient evidence,too few pressure balls
+batter,4867,Wesley Madhevere,Zimbabwe,427,30,71.0,11.0,0.0,insufficient evidence,too few pressure balls
+batter,6433,Darwish Rasooli,Afghanistan,307,19,71.0,8.0,0.0,insufficient evidence,too few pressure balls
+batter,26646,Rahul Chopra,United Arab Emirates,154,11,71.0,7.0,0.0,insufficient evidence,too few pressure balls
+batter,6671,Lalit Yadav,Delhi Capitals,217,16,69.0,8.0,1.0,insufficient evidence,too few pressure balls
+batter,6676,Azmatullah Omarzai,"Afghanistan, Gujarat Titans, Punjab Kings",665,53,69.0,21.0,0.1518796992481203,insufficient evidence,too few pressure balls
+batter,930,Karun Nair,"Delhi Capitals, Rajasthan Royals",151,12,68.0,4.0,1.0,insufficient evidence,too few pressure balls
+batter,5928,Prithvi Shaw,Delhi Capitals,391,26,68.0,10.0,1.0,insufficient evidence,too few pressure balls
+batter,305,Ravichandran Ashwin,"Chennai Super Kings, India, Rajasthan Royals",317,37,67.0,11.0,0.9148264984227129,insufficient evidence,too few pressure balls
+batter,2972,Yasim Murtaza,Hong Kong,169,8,67.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,5837,Mahedi Hasan,Bangladesh,253,25,67.0,10.0,0.0,insufficient evidence,too few pressure balls
+batter,37201,Jewel Andrew,West Indies,96,6,67.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,2214,Gulbadin Naib,"Afghanistan, Delhi Capitals",202,14,65.0,6.0,0.07425742574257425,insufficient evidence,too few pressure balls
+batter,1924,Sam Billings,"England, Kolkata Knight Riders",181,12,64.0,7.0,0.7624309392265194,insufficient evidence,too few pressure balls
+batter,198,Manish Pandey,"Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants",371,21,63.0,7.0,1.0,insufficient evidence,too few pressure balls
+batter,5882,Afif Hossain,Bangladesh,341,19,61.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,19781,Mitchell Owen,"Australia, Punjab Kings",123,12,60.0,7.0,0.016260162601626018,insufficient evidence,too few pressure balls
+batter,48504,Ayush Mhatre,Chennai Super Kings,240,13,60.0,4.0,1.0,insufficient evidence,too few pressure balls
+batter,2417,Akeal Hosein,"Chennai Super Kings, Sunrisers Hyderabad, West Indies",223,32,59.0,11.0,0.05829596412556054,insufficient evidence,too few pressure balls
+batter,781,Sunil Narine,Kolkata Knight Riders,509,48,58.0,13.0,1.0,insufficient evidence,too few pressure balls
+batter,2382,Jamie Overton,"Chennai Super Kings, England",146,18,58.0,9.0,0.636986301369863,insufficient evidence,too few pressure balls
+batter,8637,Vriitya Aravind,United Arab Emirates,103,8,58.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,25534,Chad Bowes,New Zealand,156,11,58.0,6.0,0.0,insufficient evidence,too few pressure balls
+batter,5808,Karim Janat,Afghanistan,238,23,57.0,9.0,0.0,insufficient evidence,too few pressure balls
+batter,6355,Shaheen Afridi,Pakistan,183,26,57.0,13.0,0.0,insufficient evidence,too few pressure balls
+batter,6881,Scott Edwards,Netherlands,176,12,57.0,7.0,0.0,insufficient evidence,too few pressure balls
+batter,3539,Ben McDermott,Australia,138,7,56.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,8741,Mohammad Haris,Pakistan,340,30,56.0,7.0,0.0,insufficient evidence,too few pressure balls
+batter,7341,Jake McGurk,"Australia, Delhi Capitals",279,23,53.0,12.0,0.6917562724014337,insufficient evidence,too few pressure balls
+batter,25139,Shubham Dubey,Rajasthan Royals,143,17,53.0,6.0,1.0,insufficient evidence,too few pressure balls
+batter,26906,Angkrish Raghuvanshi,Kolkata Knight Riders,608,30,53.0,8.0,1.0,insufficient evidence,too few pressure balls
+batter,3644,Kuldeep Yadav,"Delhi Capitals, India",201,37,52.0,14.0,0.8855721393034826,insufficient evidence,too few pressure balls
+batter,2361,Temba Bavuma,South Africa,98,10,51.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,4686,Joshua Clarkson,New Zealand,114,9,51.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,5189,Faheem Ashraf,Pakistan,204,27,51.0,11.0,0.0,insufficient evidence,too few pressure balls
+batter,7894,Tony Munyonga,Zimbabwe,141,13,51.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,49003,Hasan Nawaz,Pakistan,324,27,51.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,4494,Abhinav Manohar,"Gujarat Titans, Sunrisers Hyderabad",235,20,50.0,5.0,1.0,insufficient evidence,too few pressure balls
+batter,4684,Dane Cleaver,New Zealand,149,10,50.0,7.0,0.0,insufficient evidence,too few pressure balls
+batter,6466,Atharwa Taide,"Punjab Kings, Sunrisers Hyderabad",177,10,50.0,6.0,1.0,insufficient evidence,too few pressure balls
+batter,6739,Amir Jangoo,West Indies,135,7,50.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,332,Angelo Mathews,Sri Lanka,150,7,49.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,2351,Danushka Gunathilaka,Sri Lanka,117,13,49.0,6.0,0.0,insufficient evidence,too few pressure balls
+batter,4639,Wellington Masakadza,Zimbabwe,151,21,49.0,13.0,0.0,insufficient evidence,too few pressure balls
+batter,5029,Prerak Mankad,"Lucknow Super Giants, Punjab Kings",73,5,49.0,2.0,1.0,insufficient evidence,too few pressure balls
+batter,8182,Donovan Ferreira,"Delhi Capitals, Rajasthan Royals, South Africa",343,30,48.0,6.0,0.5568513119533528,insufficient evidence,too few pressure balls
+batter,19316,Maheesh Theekshana,"Chennai Super Kings, Rajasthan Royals, Sri Lanka",203,37,48.0,16.0,0.16748768472906403,insufficient evidence,too few pressure balls
+batter,17432,Ross Adair,Ireland,287,16,47.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,2523,Will Young,New Zealand,176,12,46.0,8.0,0.0,insufficient evidence,too few pressure balls
+batter,2246,Tom Latham,New Zealand,242,11,45.0,7.0,0.0,insufficient evidence,too few pressure balls
+batter,2661,Shamarh Brooks,West Indies,150,7,45.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,7931,Aritra Dutta,Singapore,62,3,45.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,20006,Ramandeep Singh,"India, Kolkata Knight Riders, Mumbai Indians",211,27,45.0,8.0,0.9715639810426541,insufficient evidence,too few pressure balls
+batter,507,Mohammad Mahmudullah,Bangladesh,262,14,44.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,3377,Babar Hayat,Hong Kong,165,8,44.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,4926,Shadab Khan,Pakistan,332,29,44.0,8.0,0.0,insufficient evidence,too few pressure balls
+batter,7927,Janak Prakash,Singapore,81,3,44.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,8085,Suyash Prabhudessai,Royal Challengers Bengaluru,106,10,44.0,4.0,1.0,insufficient evidence,too few pressure balls
+batter,2847,Shardul Thakur,"Chennai Super Kings, Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians",213,29,43.0,11.0,1.0,insufficient evidence,too few pressure balls
+batter,46066,Vipraj Nigam,Delhi Capitals,89,10,43.0,5.0,1.0,insufficient evidence,too few pressure balls
+batter,169,Robin Uthappa,Chennai Super Kings,171,11,42.0,4.0,1.0,insufficient evidence,too few pressure balls
+batter,1758,Patrick Cummins,"Australia, Kolkata Knight Riders, Sunrisers Hyderabad",247,35,42.0,14.0,0.7935222672064778,insufficient evidence,too few pressure balls
+batter,2334,Dwaine Pretorius,"Chennai Super Kings, South Africa",82,11,42.0,7.0,0.34146341463414637,insufficient evidence,too few pressure balls
+batter,7325,Harpreet Brar,Punjab Kings,136,21,42.0,10.0,1.0,insufficient evidence,too few pressure balls
+batter,4102,George Munsey,Scotland,98,5,41.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,2213,Soumya Sarkar,Bangladesh,201,13,40.0,7.0,0.0,insufficient evidence,too few pressure balls
+batter,4779,Pieter Willem Mulder,"South Africa, Sunrisers Hyderabad",112,10,40.0,6.0,0.09821428571428571,insufficient evidence,too few pressure balls
+batter,22134,Luke Jongwe,Zimbabwe,124,17,40.0,7.0,0.0,insufficient evidence,too few pressure balls
+batter,3276,Gudakesh Motie,West Indies,145,21,39.0,8.0,0.0,insufficient evidence,too few pressure balls
+batter,6035,Chirag Suri,United Arab Emirates,103,5,39.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,7978,Johnathan Campbell,Zimbabwe,101,9,39.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,8739,Muhammad Irfan,Pakistan,140,11,39.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,15551,Ackeem Auguste,West Indies,125,9,39.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,27466,Dhruv Parashar,United Arab Emirates,92,9,38.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,223,Steven Smith,Australia,184,13,37.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,1210,James Vince,England,86,5,37.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,6512,Michael Bracewell,"New Zealand, Royal Challengers Bengaluru",350,33,37.0,10.0,0.13428571428571429,insufficient evidence,too few pressure balls
+batter,7808,Marco Jansen,"Punjab Kings, South Africa, Sunrisers Hyderabad",277,34,37.0,12.0,0.6173285198555957,insufficient evidence,too few pressure balls
+batter,3628,Kagiso Rabada,"Gujarat Titans, Punjab Kings, South Africa",141,25,36.0,11.0,0.7446808510638298,insufficient evidence,too few pressure balls
+batter,4821,Mahipal Lomror,Royal Challengers Bengaluru,222,25,36.0,8.0,1.0,insufficient evidence,too few pressure balls
+batter,5839,Yasir Ali Chowdhury,Bangladesh,117,9,36.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,6160,Chamika Karunaratne,Sri Lanka,152,17,36.0,8.0,0.0,insufficient evidence,too few pressure balls
+batter,28970,Connor Esterhuizen,South Africa,137,5,36.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,45749,Mukul Choudhary,Lucknow Super Giants,120,10,36.0,5.0,1.0,insufficient evidence,too few pressure balls
+batter,3689,Mark Watt,Scotland,58,6,35.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,3832,Rezza Gaznavi,Singapore,41,3,35.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,1183,Alex Hales,England,152,9,34.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,8408,Shreyas Movva,Canada,82,4,34.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,22187,Ryan Klein,Netherlands,65,5,34.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,4840,Odean Smith,"Punjab Kings, West Indies",133,20,33.0,9.0,0.3308270676691729,insufficient evidence,too few pressure balls
+batter,7503,Ravi Bishnoi,"India, Lucknow Super Giants, Rajasthan Royals",105,28,33.0,11.0,0.5047619047619047,insufficient evidence,too few pressure balls
+batter,27137,Hammad Mirza,Oman,63,3,33.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,29888,Harshit Rana,"India, Kolkata Knight Riders",147,18,33.0,9.0,0.38095238095238093,insufficient evidence,too few pressure balls
+batter,1040,Harpreet Bhatia,Punjab Kings,93,5,32.0,3.0,1.0,insufficient evidence,too few pressure balls
+batter,3645,Sarfaraz Khan,"Chennai Super Kings, Delhi Capitals",224,16,32.0,3.0,1.0,insufficient evidence,too few pressure balls
+batter,499,Shakib Al Hasan,Bangladesh,316,17,31.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,43250,Dilpreet Singh Bajwa,Canada,53,2,31.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,43798,Lhuan Pretorius,"Rajasthan Royals, South Africa",77,9,31.0,3.0,0.1038961038961039,insufficient evidence,too few pressure balls
+batter,45966,Prashant Veer,Chennai Super Kings,67,5,31.0,3.0,1.0,insufficient evidence,too few pressure balls
+batter,2261,Harshal Patel,"India, Punjab Kings, Royal Challengers Bengaluru, Sunrisers Hyderabad",145,29,30.0,7.0,0.6827586206896552,insufficient evidence,too few pressure balls
+batter,3871,Aamir Kaleem,Oman,59,3,30.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,7744,Jordan Cox,England,74,5,30.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,8380,Mohammad Rishad Hossain,Bangladesh,165,29,30.0,11.0,0.0,insufficient evidence,too few pressure balls
+batter,2526,Ish Sodhi,New Zealand,133,27,29.0,11.0,0.0,insufficient evidence,too few pressure balls
+batter,4793,Dean Foxcroft,New Zealand,101,6,29.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,4817,Anmolpreet Singh,"Mumbai Indians, Sunrisers Hyderabad",101,8,29.0,4.0,1.0,insufficient evidence,too few pressure balls
+batter,6395,Josh Philippe,Australia,46,5,29.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,7911,Oliver Hairs,Scotland,50,5,29.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,2218,Anamul Haque,Bangladesh,94,7,28.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,3275,Alzarri Joseph,"Gujarat Titans, West Indies",130,20,28.0,7.0,0.14615384615384616,insufficient evidence,too few pressure balls
+batter,3298,Jofra Archer,"England, Mumbai Indians, Rajasthan Royals",145,29,28.0,10.0,0.696551724137931,insufficient evidence,too few pressure balls
+batter,8652,Mohammad Ishaq,Afghanistan,72,7,28.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,38855,Mohammad Saifuddin,Bangladesh,78,12,28.0,8.0,0.0,insufficient evidence,too few pressure balls
+batter,1171,Chris Woakes,England,48,8,27.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,3038,Hussain Talat,Pakistan,54,5,27.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,6457,Urvil Patel,Chennai Super Kings,96,10,27.0,5.0,1.0,insufficient evidence,too few pressure balls
+batter,7052,Dunith Wellalage,Sri Lanka,89,7,27.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,45457,Zach Lion Cachet,Netherlands,48,4,27.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,403,Umesh Yadav,"Gujarat Titans, India, Kolkata Knight Riders",90,15,26.0,5.0,0.8111111111111111,insufficient evidence,too few pressure balls
+batter,4695,Nick Kelly,New Zealand,88,7,26.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,6514,Anil Nidamanuru,Netherlands,43,5,26.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,6628,Gerald Coetzee,"Gujarat Titans, Mumbai Indians, South Africa",103,18,26.0,6.0,0.32038834951456313,insufficient evidence,too few pressure balls
+batter,7002,Nicholas Kirton,Canada,109,4,26.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,27380,Harshit Kaushik,United Arab Emirates,47,8,26.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,274,Martin Guptill,New Zealand,158,9,25.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,914,Krishnappa Gowtham,Lucknow Super Giants,38,8,25.0,4.0,1.0,insufficient evidence,too few pressure balls
+batter,4111,Khushdil Shah,Pakistan,206,18,25.0,6.0,0.0,insufficient evidence,too few pressure balls
+batter,4658,Nasum Ahmed,Bangladesh,78,15,25.0,6.0,0.0,insufficient evidence,too few pressure balls
+batter,6284,Anukul Roy,Kolkata Knight Riders,59,13,25.0,6.0,1.0,insufficient evidence,too few pressure balls
+batter,6464,Arshdeep Singh,"India, Punjab Kings",132,39,25.0,12.0,0.3106060606060606,insufficient evidence,too few pressure balls
+batter,7355,Tayyab Tahir,Pakistan,104,7,25.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,7364,Haris Rauf,Pakistan,104,23,25.0,11.0,0.0,insufficient evidence,too few pressure balls
+batter,42810,Noah Croes,Netherlands,53,5,25.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,49027,Bevon Jacobs,New Zealand,189,12,25.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,3653,Avesh Khan,"India, Lucknow Super Giants, Rajasthan Royals",57,18,24.0,9.0,0.6491228070175439,insufficient evidence,too few pressure balls
+batter,6526,Himmat Singh,Lucknow Super Giants,69,5,24.0,3.0,1.0,insufficient evidence,too few pressure balls
+batter,7905,Tanzim Sakib,Bangladesh,163,17,24.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,26519,Janith Liyanage,Sri Lanka,136,10,24.0,7.0,0.0,insufficient evidence,too few pressure balls
+batter,27464,Aayan Afzal Khan,United Arab Emirates,63,3,24.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,158,Amit Mishra,Lucknow Super Giants,30,1,23.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,1071,Jaydev Unadkat,"Lucknow Super Giants, Mumbai Indians, Sunrisers Hyderabad",73,12,23.0,6.0,1.0,insufficient evidence,too few pressure balls
+batter,1219,David Willey,"England, Royal Challengers Bengaluru",98,10,23.0,5.0,0.6326530612244898,insufficient evidence,too few pressure balls
+batter,2892,Asif Ali,Pakistan,78,13,23.0,7.0,0.0,insufficient evidence,too few pressure balls
+batter,3097,Shan Masood,Pakistan,176,10,23.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,3578,Imad Wasim,Pakistan,161,11,23.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,4229,George Linde,"Lucknow Super Giants, South Africa",140,13,23.0,5.0,0.15,insufficient evidence,too few pressure balls
+batter,6518,Daniel Sams,"Australia, Mumbai Indians",75,13,23.0,7.0,0.48,insufficient evidence,too few pressure balls
+batter,47370,Aniket Verma,Sunrisers Hyderabad,196,20,23.0,5.0,1.0,insufficient evidence,too few pressure balls
+batter,1810,Devon Thomas,West Indies,50,6,22.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,2407,Dhananjaya de Silva,Sri Lanka,199,15,22.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,3858,Jatinder Singh,Oman,46,3,22.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,5738,Xavier Bartlett,"Australia, Punjab Kings",90,14,22.0,5.0,0.3111111111111111,insufficient evidence,too few pressure balls
+batter,6783,Azam Khan,Pakistan,58,10,22.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,15274,Ravija Sandaruwan,Kuwait,46,3,22.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,19147,Faraz Akram,Zimbabwe,55,5,22.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,2399,Dushmantha Chameera,"Delhi Capitals, Lucknow Super Giants, Sri Lanka",100,29,21.0,11.0,0.45,insufficient evidence,too few pressure balls
+batter,3282,Mehidy Hasan Miraz,Bangladesh,265,17,21.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,4372,Rony Talukder,Bangladesh,143,9,21.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,24779,Ijaz Ahmadzai,Afghanistan,81,5,21.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,25501,Meet Bhavsar,Kuwait,38,3,21.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,2790,Praveen Dubey,Delhi Capitals,20,1,20.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,3627,Andile Phehlukwayo,South Africa,41,5,20.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,3669,Sadeera Samarawickrama,Sri Lanka,163,8,20.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,4662,Cole McConchie,New Zealand,97,9,20.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,29066,Zakary Foulkes,New Zealand,66,12,20.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,360,Bhuvneshwar Kumar,"India, Royal Challengers Bengaluru, Sunrisers Hyderabad",169,33,19.0,10.0,0.9053254437869822,insufficient evidence,too few pressure balls
+batter,2210,Sabbir Rahman,Bangladesh,36,4,19.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,3635,Jason Smith,South Africa,69,8,19.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,3967,Tom Kohler,Rajasthan Royals,54,3,19.0,2.0,1.0,insufficient evidence,too few pressure balls
+batter,4636,Bjorn Fortuin,South Africa,56,10,19.0,7.0,0.0,insufficient evidence,too few pressure balls
+batter,8771,Rubin Hermann,South Africa,82,5,19.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,20005,Arshad Khan,"Gujarat Titans, Lucknow Super Giants, Mumbai Indians",99,13,19.0,5.0,1.0,insufficient evidence,too few pressure balls
+batter,25507,Edson Silva,Kuwait,47,3,19.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,479,Adil Rashid,"England, Sunrisers Hyderabad",119,21,18.0,6.0,0.13445378151260504,insufficient evidence,too few pressure balls
+batter,1039,Mandeep Singh,"Delhi Capitals, Kolkata Knight Riders",35,5,18.0,2.0,1.0,insufficient evidence,too few pressure balls
+batter,3415,Matthew Cross,Scotland,110,5,18.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,3986,Matthew Renshaw,Australia,108,6,18.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,5866,Patrick Kruger,South Africa,60,5,18.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,7152,Hazratullah Zazai,Afghanistan,245,16,18.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,7338,Haider Ali,Pakistan,74,9,18.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,7967,Noor Ahmad,"Afghanistan, Chennai Super Kings, Gujarat Titans",114,26,18.0,9.0,0.5087719298245614,insufficient evidence,too few pressure balls
+batter,8719,Aryan Lakra,United Arab Emirates,43,4,18.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,20894,Aman Khan,"Delhi Capitals, Kolkata Knight Riders",104,10,18.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,34522,Brandon McMullen,Scotland,96,3,18.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,39640,Sineth Jayawardena,Sri Lanka,47,2,18.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,722,Liam Dawson,England,48,4,17.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,786,Chris Jordan,"Chennai Super Kings, England, Mumbai Indians",129,19,17.0,5.0,0.15503875968992248,insufficient evidence,too few pressure balls
+batter,2364,Ashton Agar,Australia,47,4,17.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,3697,Kyle Jamieson,"Delhi Capitals, New Zealand, Punjab Kings",68,14,17.0,4.0,0.2647058823529412,insufficient evidence,too few pressure balls
+batter,4902,Avishka Fernando,Sri Lanka,62,9,17.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,5809,Naveen ul Haq,"Afghanistan, Lucknow Super Giants",67,11,17.0,5.0,0.373134328358209,insufficient evidence,too few pressure balls
+batter,6203,Surendran Chandramohan,Singapore,25,3,17.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,7409,Sundeep Jora,Nepal,60,3,17.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,7761,Ravinderpal Singh,Canada,24,3,17.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,7920,Nathan Ellis,"Australia, Punjab Kings",57,11,17.0,5.0,0.15789473684210525,insufficient evidence,too few pressure balls
+batter,8251,Kumar Kushagra,"Delhi Capitals, Gujarat Titans",21,4,17.0,2.0,1.0,insufficient evidence,too few pressure balls
+batter,46137,Kartik Sharma,Chennai Super Kings,216,11,17.0,3.0,1.0,insufficient evidence,too few pressure balls
+batter,1566,Mohammed Shami,"Gujarat Titans, India, Lucknow Super Giants, Sunrisers Hyderabad",46,15,16.0,6.0,0.8260869565217391,insufficient evidence,too few pressure balls
+batter,3629,Corbin Bosch,"Mumbai Indians, South Africa",140,15,16.0,5.0,0.45,insufficient evidence,too few pressure balls
+batter,3686,CB Sole,Scotland,22,5,16.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,3802,Anshuman Rath,Hong Kong,52,3,16.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,4882,Kushal Bhurtel,Nepal,44,3,16.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,5441,Barry McCarthy,Ireland,112,15,16.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,7344,Shoriful Islam,Bangladesh,79,16,16.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,8638,Basil Hameed,United Arab Emirates,139,9,16.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,24812,Chris Greaves,Scotland,28,4,16.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,32399,Aaron Johnson,Canada,49,4,16.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,33067,Ravichandran Smaran,Sunrisers Hyderabad,25,4,16.0,2.0,1.0,insufficient evidence,too few pressure balls
+batter,3281,Mosaddek Hossain,Bangladesh,113,11,15.0,6.0,0.0,insufficient evidence,too few pressure balls
+batter,3641,Ben Dwarshuis,Australia,70,9,15.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,6161,Rahul Chahar,Punjab Kings,92,12,15.0,3.0,1.0,insufficient evidence,too few pressure balls
+batter,7046,Tinashe Kamunhukamwe,Zimbabwe,74,5,15.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,7926,Manpreet Singh,Singapore,15,1,15.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,8014,Avi Dixit,Singapore,32,3,15.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,295,Wayne Parnell,"Royal Challengers Bengaluru, South Africa",76,7,14.0,4.0,0.06578947368421052,insufficient evidence,too few pressure balls
+batter,1100,Dinesh Chandimal,Sri Lanka,75,5,14.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,4830,Keacy Carty,West Indies,72,6,14.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,4856,Benjamin Sears,New Zealand,33,8,14.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,4874,Richard Ngarava,Zimbabwe,62,19,14.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,8009,Junaid Siddique,United Arab Emirates,38,10,14.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,15280,Sayed Monib,Kuwait,24,3,14.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,19309,Lahiru Udara,Sri Lanka,95,6,14.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,27460,Ali Naseer,United Arab Emirates,14,1,14.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,418,Richard Berrington,Scotland,80,6,13.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,773,Shadley Van Schalkwyk,United States Of America,14,3,13.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,829,Mitchell Starc,"Australia, Delhi Capitals, Kolkata Knight Riders",30,13,13.0,5.0,0.7666666666666667,insufficient evidence,too few pressure balls
+batter,1389,Sean Abbott,"Australia, Sunrisers Hyderabad",37,11,13.0,4.0,0.13513513513513514,insufficient evidence,too few pressure balls
+batter,2681,Taskin Ahmed,Bangladesh,92,17,13.0,7.0,0.0,insufficient evidence,too few pressure balls
+batter,2887,Harmeet Singh,United States Of America,28,3,13.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,2985,Mark Wood,"England, Lucknow Super Giants",20,6,13.0,4.0,0.25,insufficient evidence,too few pressure balls
+batter,5034,Murugan Ashwin,Mumbai Indians,14,4,13.0,4.0,1.0,insufficient evidence,too few pressure balls
+batter,8040,Ripal Patel,Delhi Capitals,46,5,13.0,2.0,1.0,insufficient evidence,too few pressure balls
+batter,8295,Matthew Forde,West Indies,114,14,13.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,15271,Usmangani Ibrahim Patel,Kuwait,38,3,13.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,26913,Shaik Rasheed,Chennai Super Kings,63,5,13.0,2.0,1.0,insufficient evidence,too few pressure balls
+batter,1617,Rishi Dhawan,Punjab Kings,52,6,12.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,4438,Jasdeep Singh,United States Of America,20,2,12.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,6450,Mujeeb Ur Rahman,Afghanistan,70,14,12.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,6489,Darshan Nalkande,Gujarat Titans,12,2,12.0,2.0,1.0,insufficient evidence,too few pressure balls
+batter,7699,Abbas Afridi,Pakistan,98,14,12.0,8.0,0.0,insufficient evidence,too few pressure balls
+batter,7755,Harsh Thaker,Canada,57,4,12.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,7924,Kushal Malla,Nepal,51,3,12.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,8217,Ansh Tandon,United Arab Emirates,13,2,12.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,15269,Mohammed Aslam,Kuwait,39,2,12.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,19894,Mitchell Hay,New Zealand,68,9,12.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,21791,J Gumbie,Zimbabwe,52,3,12.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,25679,Salil Arora,Sunrisers Hyderabad,98,11,12.0,4.0,1.0,insufficient evidence,too few pressure balls
+batter,46929,Dian Forrester,South Africa,77,5,12.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,4505,Jhye Richardson,"Australia, Delhi Capitals",22,2,11.0,1.0,0.09090909090909091,insufficient evidence,too few pressure balls
+batter,6286,Shivam Mavi,"India, Kolkata Knight Riders",25,5,11.0,3.0,0.28,insufficient evidence,too few pressure balls
+batter,7001,Dilon Heyliger,Canada,20,3,11.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,7201,Haroon Arshad,Hong Kong,18,2,11.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,7327,Rasikh Salam,"Delhi Capitals, Kolkata Knight Riders, Royal Challengers Bengaluru",38,6,11.0,2.0,1.0,insufficient evidence,too few pressure balls
+batter,7915,Monank Patel,United States Of America,37,3,11.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,7925,Rohan Rangarajan,Singapore,11,1,11.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,8661,Matheesha Pathirana,Sri Lanka,32,9,11.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,25216,Andile Simelane,South Africa,35,6,11.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,31513,Ethan Dsouza,United Arab Emirates,29,3,11.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,33969,Tinotenda Maposa,Zimbabwe,45,10,11.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,34928,Kendel Fleming,Japan,12,1,11.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,48616,Abdul Saqlain,Bangladesh,21,2,11.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,395,Karn Sharma,"Mumbai Indians, Royal Challengers Bengaluru",21,6,10.0,3.0,1.0,insufficient evidence,too few pressure balls
+batter,3373,Aizaz Khan,Hong Kong,48,6,10.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,3772,Logan van Beek,Netherlands,32,5,10.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,5547,Nosthush Kenjige,United States Of America,13,2,10.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,8049,Naseem Shah,Pakistan,49,11,10.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,8746,Vaibhav Arora,"Kolkata Knight Riders, Punjab Kings",27,11,10.0,4.0,1.0,insufficient evidence,too few pressure balls
+batter,15629,Shayan Jahangir,United States Of America,47,3,10.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,19012,Zeeshan Ali,Hong Kong,94,6,10.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,19902,Tim Pringle,Netherlands,37,4,10.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,20163,Aasif Sheikh,Nepal,51,2,10.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,21784,Brad Evans,Zimbabwe,121,17,10.0,5.0,0.0,insufficient evidence,too few pressure balls
+batter,42845,Arshin Kulkarni,Lucknow Super Giants,33,4,10.0,2.0,1.0,insufficient evidence,too few pressure balls
+batter,757,Sybrand Engelbrecht,Netherlands,10,2,9.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,1195,Ben Stokes,"Chennai Super Kings, England",44,5,9.0,1.0,0.3181818181818182,insufficient evidence,too few pressure balls
+batter,1813,Deepak Chahar,"Chennai Super Kings, India, Mumbai Indians",65,11,9.0,6.0,0.7076923076923077,insufficient evidence,too few pressure balls
+batter,3451,Baba Indrajith,Kolkata Knight Riders,30,3,9.0,2.0,1.0,insufficient evidence,too few pressure balls
+batter,5608,Narayan Jagadeesan,"Chennai Super Kings, Kolkata Knight Riders",118,8,9.0,2.0,1.0,insufficient evidence,too few pressure balls
+batter,5877,Andries Gous,United States Of America,57,3,9.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,6473,Nuwanidu Fernando,Sri Lanka,12,2,9.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,6487,Priyam Garg,"Delhi Capitals, Sunrisers Hyderabad",56,4,9.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,6523,Blessing Muzarabani,Zimbabwe,43,15,9.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,6565,Katene Clarke,New Zealand,48,4,9.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,7566,Ben Curran,Zimbabwe,40,4,9.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,7696,Mohammad Wasim,Pakistan,30,7,9.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,15279,Shiraz Khan,Kuwait,14,2,9.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,19145,Aamer Jamal,Pakistan,22,3,9.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,20310,Ahmed Daniyal,Pakistan,11,1,9.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,26843,Maaz Sadaqat,Pakistan,83,3,9.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,27504,Dushan Hemantha,Sri Lanka,19,2,9.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,27964,Anshul Kamboj,"Chennai Super Kings, Mumbai Indians",52,10,9.0,3.0,1.0,insufficient evidence,too few pressure balls
+batter,37879,Khawaja Nafay,Pakistan,39,4,9.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,48575,Sahil Parakh,Delhi Capitals,33,4,9.0,3.0,1.0,insufficient evidence,too few pressure balls
+batter,344,Sheldon Jackson,Kolkata Knight Riders,26,5,8.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,492,Andre Fletcher,West Indies,39,5,8.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,778,Darren Bravo,West Indies,28,2,8.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,1487,Adam Milne,"New Zealand, Rajasthan Royals",56,13,8.0,4.0,0.03571428571428571,insufficient evidence,too few pressure balls
+batter,2320,Trent Boult,"Mumbai Indians, New Zealand, Rajasthan Royals",79,20,8.0,7.0,0.8354430379746836,insufficient evidence,too few pressure balls
+batter,3272,Fabian Allen,"Mumbai Indians, West Indies",48,9,8.0,4.0,0.14583333333333334,insufficient evidence,too few pressure balls
+batter,3361,Michael Leask,Scotland,59,6,8.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,4842,Shamar Springer,West Indies,69,7,8.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,6643,Hasan Mahmud,Bangladesh,46,7,8.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,6900,Michael Jones,Scotland,19,3,8.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,15303,Bilal Tahir,Kuwait,22,3,8.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,25128,Nqabayomzi Peter,South Africa,20,4,8.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,30927,Saiteja Mukkamalla,United States Of America,43,2,8.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,39657,Eshan Malinga,"Sri Lanka, Sunrisers Hyderabad",38,11,8.0,4.0,0.4473684210526316,insufficient evidence,too few pressure balls
+batter,54404,Benjamin Ito,Japan,8,1,8.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,56830,Madhav Tiwari,Delhi Capitals,12,2,8.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,830,Josh Hazlewood,"Australia, Royal Challengers Bengaluru",39,12,7.0,3.0,0.7692307692307693,insufficient evidence,too few pressure balls
+batter,1541,Sean Williams,Zimbabwe,157,14,7.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,1791,Wesley Barresi,Netherlands,9,2,7.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,2636,Adam Zampa,"Australia, Rajasthan Royals",52,15,7.0,4.0,0.3076923076923077,insufficient evidence,too few pressure balls
+batter,2933,Jasprit Bumrah,"India, Mumbai Indians",31,13,7.0,4.0,0.9032258064516129,insufficient evidence,too few pressure balls
+batter,3383,Kinchit Shah,Hong Kong,87,6,7.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,4641,Lungi Ngidi,"Delhi Capitals, Royal Challengers Bengaluru, South Africa",62,15,7.0,2.0,0.14516129032258066,insufficient evidence,too few pressure balls
+batter,4784,Tony de Zorzi,South Africa,91,7,7.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,4974,Mohammad Nadeem,Oman,7,1,7.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,24978,Jack Jarvis,Scotland,11,2,7.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,26834,Raj Bawa,"Mumbai Indians, Punjab Kings",32,4,7.0,3.0,1.0,insufficient evidence,too few pressure balls
+batter,28756,Haider Ali,United Arab Emirates,39,9,7.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,31107,Yasin Patel,Kuwait,7,1,7.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,56817,Shivang Kumar,Sunrisers Hyderabad,46,6,7.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,1801,Nitish Kumar,United States Of America,20,3,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,2296,Safyaan Sharif,Scotland,6,2,6.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,2996,Stephanus Myburgh,Netherlands,28,2,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,2997,Paul van Meekeren,Netherlands,18,5,6.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,3304,Munim Shahriar,Bangladesh,19,3,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,3673,Ramesh Mendis,Sri Lanka,16,2,6.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,4373,Mustafizur Rahman,"Bangladesh, Delhi Capitals",59,13,6.0,4.0,0.11864406779661017,insufficient evidence,too few pressure balls
+batter,5577,Sai Kishore,Gujarat Titans,16,4,6.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,6166,Jack Edwards,Australia,6,1,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,7003,Rayyan Pathan,Canada,16,3,6.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,7406,Rizwan CP,United Arab Emirates,102,4,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,8405,Kanwarpal Tathgur,Canada,8,1,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,8639,Kartik Meiyappan,United Arab Emirates,15,2,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,22137,Fionn Hand,Ireland,37,7,6.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,24346,Mohamed Shafeeq,Kuwait,6,2,6.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,24475,Rehan Ahmed,England,45,8,6.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,24803,Gulshan Jha,Nepal,34,3,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,26830,Nishant Kumar Sindhu,Gujarat Titans,50,5,6.0,2.0,1.0,insufficient evidence,too few pressure balls
+batter,31529,Robin Minz,Mumbai Indians,19,4,6.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,35506,Quentin Sampson,West Indies,50,4,6.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,46378,Kyle Klein,Netherlands,39,5,6.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,232,Tom Cooper,Netherlands,22,2,5.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,278,Tim Southee,"Kolkata Knight Riders, New Zealand",51,16,5.0,4.0,0.23529411764705882,insufficient evidence,too few pressure balls
+batter,1649,Regis Chakabva,Zimbabwe,52,5,5.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,2531,Joe Root,Rajasthan Royals,15,1,5.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,4211,Vishnu Vinod,"Mumbai Indians, Punjab Kings",39,4,5.0,2.0,1.0,insufficient evidence,too few pressure balls
+batter,4235,Sisanda Magala,South Africa,5,1,5.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,5041,Mukesh Kumar,"Delhi Capitals, India",23,8,5.0,3.0,0.782608695652174,insufficient evidence,too few pressure balls
+batter,5750,Ehsan Khan,Hong Kong,17,4,5.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,5944,Mohammed Siraj,"Gujarat Titans, India, Royal Challengers Bengaluru",72,13,5.0,4.0,0.875,insufficient evidence,too few pressure balls
+batter,6389,Tanvir Islam,Bangladesh,16,3,5.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,6806,Tushar Deshpande,"Chennai Super Kings, Rajasthan Royals",24,8,5.0,4.0,1.0,insufficient evidence,too few pressure balls
+batter,7060,Arjun Tendulkar,"Lucknow Super Giants, Mumbai Indians",14,2,5.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,7270,Anrich Nortje,"Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants, South Africa",67,17,5.0,3.0,0.6567164179104478,insufficient evidence,too few pressure balls
+batter,7625,Suryansh Shedge,"India, Punjab Kings",112,12,5.0,1.0,0.9017857142857143,insufficient evidence,too few pressure balls
+batter,7929,Aryaman Sunil Uchil,Singapore,17,3,5.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,8311,Dan Mousley,England,6,1,5.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,8727,Sanchit Sharma,United Arab Emirates,5,1,5.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,19312,Nuwan Thushara,Sri Lanka,20,7,5.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,22188,Aryan Dutt,Netherlands,44,5,5.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,22920,Jacob Duffy,New Zealand,31,10,5.0,3.0,0.0,insufficient evidence,too few pressure balls
+batter,26663,Kwena Maphaka,"Rajasthan Royals, South Africa",25,6,5.0,2.0,0.08,insufficient evidence,too few pressure balls
+batter,28915,Trevor Gwandu,Zimbabwe,26,5,5.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,29075,Aadil Ansari,Nepal,10,2,5.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,29833,Bashir Ahmad,Afghanistan,5,1,5.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,31836,Aman Desai,Singapore,27,2,5.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,34485,Sufiyan Muqeem,Pakistan,23,8,5.0,4.0,0.0,insufficient evidence,too few pressure balls
+batter,23,Piyush Chawla,Mumbai Indians,37,10,4.0,4.0,1.0,insufficient evidence,too few pressure balls
+batter,470,Mohammad Amir,Pakistan,4,2,4.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,1556,David Payne,Sunrisers Hyderabad,5,1,4.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,2878,Mohit Sharma,"Delhi Capitals, Gujarat Titans",19,5,4.0,3.0,1.0,insufficient evidence,too few pressure balls
+batter,3077,Usama Mir,Pakistan,7,4,4.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,3544,Usman Ghani,Afghanistan,125,7,4.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,3664,Binura Fernando,Sri Lanka,25,7,4.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,3775,Sompal Kami,Nepal,9,2,4.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,4665,Tom Blundell,New Zealand,19,2,4.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,4802,Stephen Doheny,Ireland,21,3,4.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,4901,Asitha Fernando,Sri Lanka,5,3,4.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,4947,Kasun Rajitha,Sri Lanka,9,3,4.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,5561,Brad Wheal,Scotland,12,2,4.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,6436,Qais Ahmad,Afghanistan,4,1,4.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,7140,Senuran Muthusamy,South Africa,9,2,4.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,7304,Sanvir Singh,Sunrisers Hyderabad,21,5,4.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,7533,Simarjeet Singh,"Chennai Super Kings, Sunrisers Hyderabad",15,6,4.0,2.0,1.0,insufficient evidence,too few pressure balls
+batter,7704,Pavan Rathnayake,Sri Lanka,60,6,4.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,7756,Kaleem Sana,Canada,4,1,4.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,8005,Zawar Farid,United Arab Emirates,50,5,4.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,8241,Lokesh Bam,Nepal,10,1,4.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,19530,Shahnawaz Dhani,Pakistan,6,1,4.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,20023,Karan Sharma,Lucknow Super Giants,25,3,4.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,25011,Liam Mccarthy,Ireland,24,3,4.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,34527,Jasper John Davidson,Scotland,4,1,4.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,49268,Sohaib Khan,United Arab Emirates,7,1,4.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,988,Graeme Cremer,Zimbabwe,4,1,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,1944,Keshav Maharaj,"Rajasthan Royals, South Africa",90,12,3.0,2.0,0.022222222222222223,insufficient evidence,too few pressure balls
+batter,2315,Reece Topley,"England, Royal Challengers Bengaluru",21,6,3.0,1.0,0.2857142857142857,insufficient evidence,too few pressure balls
+batter,2483,Lizaad Williams,"Delhi Capitals, South Africa",21,9,3.0,3.0,0.09523809523809523,insufficient evidence,too few pressure balls
+batter,3174,Matt Henry,"Chennai Super Kings, New Zealand",28,9,3.0,1.0,0.35714285714285715,insufficient evidence,too few pressure balls
+batter,3543,Shahidullah Kamal,Afghanistan,65,5,3.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,3550,Sharafuddin Ashraf,Afghanistan,21,3,3.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,4499,Saqib Mahmood,England,33,5,3.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,4826,George Garton,England,4,1,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,4857,Nathan Smith,New Zealand,7,2,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,4871,Brandon Mavuta,Zimbabwe,15,2,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,4876,Milton Shumba,Zimbabwe,63,6,3.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,4881,Dipendra Airee,Nepal,19,1,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,6995,Saad Zafar,Canada,39,2,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,7702,Chamindu Wickramasinghe,Sri Lanka,35,4,3.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,8141,Auqib Nabi,Delhi Capitals,4,2,3.0,2.0,1.0,insufficient evidence,too few pressure balls
+batter,8723,Mohammed Faraazuddin,United Arab Emirates,8,2,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,16559,Alexander Patmore,Japan,3,1,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,22471,Matthew Humphreys,Ireland,11,4,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,24982,Charlie Tear,Scotland,25,3,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,26916,Yasir Mohammad,United States Of America,9,2,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,29080,Muhammad Khan,United Arab Emirates,12,3,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,29699,Ibrahim Takahashi,Japan,3,1,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,34466,Arafat Minhas,Pakistan,46,2,3.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,36553,Jediah Blades,West Indies,13,3,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,47050,Shamar Joseph,West Indies,29,7,3.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,55747,Benjamin Calitz,Ireland,81,6,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,57747,Charlie Cassell,Scotland,3,1,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,58135,Tejasvi Dahiya,Kolkata Knight Riders,15,2,3.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,64604,Kalhan Challu,Hong Kong,11,2,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,1159,Tendai Chatara,Zimbabwe,24,5,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,1701,Swapnil Singh,"Lucknow Super Giants, Royal Challengers Bengaluru",25,6,2.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,2304,Tymal Mills,"England, Mumbai Indians",13,5,2.0,2.0,0.23076923076923078,insufficient evidence,too few pressure balls
+batter,2750,Alex Carey,Australia,28,3,2.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,2852,Jagadeesha Suchith,Sunrisers Hyderabad,8,2,2.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,3469,Shreyas Gopal,Sunrisers Hyderabad,7,1,2.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,3595,Andy McBrine,Ireland,8,2,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,3651,Ricky Bhui,Delhi Capitals,9,2,2.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,3660,Luke Wood,"England, Mumbai Indians",8,3,2.0,2.0,0.375,insufficient evidence,too few pressure balls
+batter,3720,Craig Young,Ireland,30,8,2.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,3995,Donald Tiripano,Zimbabwe,3,2,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,4486,BR Sharath,Gujarat Titans,5,1,2.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,4692,Lockie Ferguson,"Gujarat Titans, New Zealand, Punjab Kings, Royal Challengers Bengaluru",30,13,2.0,2.0,0.2,insufficient evidence,too few pressure balls
+batter,4816,Khaleel Ahmed,"Chennai Super Kings, Delhi Capitals, India",5,4,2.0,2.0,0.8,insufficient evidence,too few pressure balls
+batter,5665,Sanjay Yadav,Mumbai Indians,2,1,2.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,5979,Abrar Ahmed,Pakistan,11,4,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,6097,Brydon Carse,England,37,8,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,6256,Varun Chakravarthy,"India, Kolkata Knight Riders",49,14,2.0,2.0,0.6938775510204082,insufficient evidence,too few pressure balls
+batter,6354,Spencer Johnson,"Australia, Chennai Super Kings, Gujarat Titans, Kolkata Knight Riders",13,7,2.0,2.0,0.9230769230769231,insufficient evidence,too few pressure balls
+batter,6669,Mohsin Khan,Lucknow Super Giants,28,7,2.0,2.0,1.0,insufficient evidence,too few pressure balls
+batter,6683,Mayank Markande,Sunrisers Hyderabad,13,3,2.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,6795,Terrance Hinds,West Indies,3,1,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,6797,Dominic Drakes,West Indies,12,3,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,7312,Nandre Burger,"Rajasthan Royals, South Africa",30,6,2.0,1.0,0.3,insufficient evidence,too few pressure balls
+batter,7689,Dilshan Madushanka,Sri Lanka,12,5,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,7937,Wasim Ali,Oman,2,1,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,8326,Jayden Seales,West Indies,6,3,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,8530,Kartik Tyagi,"Kolkata Knight Riders, Sunrisers Hyderabad",16,5,2.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,8580,Yudhvir Singh,Lucknow Super Giants,16,4,2.0,2.0,1.0,insufficient evidence,too few pressure balls
+batter,17911,Nangeyalia Kharote,Afghanistan,11,2,2.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,20175,Nandan Yadav,Nepal,2,1,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,20704,Salman Mirza,Pakistan,5,3,2.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,24381,Shariz Ahmad,Netherlands,34,3,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,26795,Joel Davies,Australia,14,2,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,27960,Mayank Yadav,"India, Lucknow Super Giants",12,5,2.0,2.0,0.4166666666666667,insufficient evidence,too few pressure balls
+batter,27962,Saurav Chauhan,Royal Challengers Bengaluru,15,3,2.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,32401,Akhil Kumar,Canada,12,2,2.0,2.0,0.0,insufficient evidence,too few pressure balls
+batter,34929,Lachlan Lake,Japan,4,1,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,35102,Zikria Islam,Oman,10,2,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,43774,Shivam Singh,Punjab Kings,3,1,2.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,47371,Zuhaid Zubair,United Arab Emirates,2,1,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,58246,Prince Yadav,"India, Lucknow Super Giants",39,9,2.0,2.0,0.28205128205128205,insufficient evidence,too few pressure balls
+batter,59045,Jai Moondra,Ireland,3,2,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,28,Ishant Sharma,Delhi Capitals,8,3,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,161,Dwayne Bravo,Chennai Super Kings,24,6,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,286,Kane Richardson,Australia,1,1,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,985,Brendan Taylor,Zimbabwe,59,7,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,1045,David Wiese,Kolkata Knight Riders,11,3,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,1612,Yuzvendra Chahal,"India, Rajasthan Royals",10,3,1.0,1.0,0.8,insufficient evidence,too few pressure balls
+batter,2054,Jason Behrendorff,"Australia, Mumbai Indians",11,3,1.0,1.0,0.8181818181818182,insufficient evidence,too few pressure balls
+batter,2321,Olly Stone,England,1,1,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,2373,Ashton Turner,"Australia, Lucknow Super Giants",20,3,1.0,1.0,0.9,insufficient evidence,too few pressure balls
+batter,2439,Akila Dananjaya,Sri Lanka,1,1,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,2860,KS Bharat,Delhi Capitals,7,2,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,2884,Manan Vohra,Lucknow Super Giants,22,2,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,3135,Yannic Cariah,West Indies,4,2,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,3623,Hasan Ali,Pakistan,19,4,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,3839,Amjad Mahboob,Singapore,19,3,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,4458,Aneurin Donald,England,24,3,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,4716,Mayank Dagar,Royal Challengers Bengaluru,1,1,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,4815,Benjamin White,Ireland,14,4,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,4837,Obed McCoy,"Rajasthan Royals, West Indies",43,8,1.0,1.0,0.11627906976744186,insufficient evidence,too few pressure balls
+batter,5562,Richard Gleeson,"Chennai Super Kings, England",6,3,1.0,1.0,0.3333333333333333,insufficient evidence,too few pressure balls
+batter,6025,Henry Shipley,New Zealand,2,2,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,6645,Mohammad Sheikh,Bangladesh,61,4,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,6705,Scott McKechnie,Hong Kong,26,3,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,6922,Abdul Samad,Pakistan,68,5,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,7227,Nijat Masood,Afghanistan,5,1,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,7240,FazalHaq Farooqi,"Afghanistan, Rajasthan Royals, Sunrisers Hyderabad",45,11,1.0,1.0,0.3333333333333333,insufficient evidence,too few pressure balls
+batter,7322,Yash Dayal,"Gujarat Titans, Royal Challengers Bengaluru",9,4,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,7473,Akash Deep,"Lucknow Super Giants, Royal Challengers Bengaluru",14,5,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,7709,Ainsley Ndlovu,Zimbabwe,32,3,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,7935,Mohammad Ghazanfar,Hong Kong,4,2,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,8177,Akash Madhwal,"Mumbai Indians, Rajasthan Royals",14,2,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,8805,Ottneil Baartman,South Africa,35,6,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,17419,Tim Tector,Ireland,81,6,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,17424,Graham Hume,Ireland,29,5,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,19307,Tharindu Rathnayake,Sri Lanka,15,2,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,19315,Vijayakanth Viyaskanth,"Sri Lanka, Sunrisers Hyderabad",7,2,1.0,1.0,0.7142857142857143,insufficient evidence,too few pressure balls
+batter,20802,Abdul Basith,Rajasthan Royals,1,1,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,24767,Ripon Mondol,Bangladesh,1,1,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,25132,Praful Hinge,Sunrisers Hyderabad,9,2,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,25502,Adnan Idrees,Kuwait,6,2,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,27390,Matiullah Khan,United Arab Emirates,5,2,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,27743,DT Doram,Netherlands,6,2,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,27959,Hrithik Shokeen,Mumbai Indians,65,5,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,28018,Ashok Sharma,Gujarat Titans,4,2,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,28185,Kamil Pooran,West Indies,40,3,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,30925,Bradley Currie,Scotland,9,3,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,32862,Allah Ghazanfar,"Afghanistan, Mumbai Indians",11,3,1.0,1.0,0.2727272727272727,insufficient evidence,too few pressure balls
+batter,35071,Kunal Rathore,Rajasthan Royals,5,1,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,36983,Mohit Rathee,Punjab Kings,2,1,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,43917,Krish Bhagat,Mumbai Indians,21,2,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,45381,PV Satyanarayan Raju,Mumbai Indians,1,1,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,48953,Danish Malewar,Mumbai Indians,5,2,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+batter,50062,Nqobani Mokoena,South Africa,21,2,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,71727,Razaullah Razaullah,Pakistan,1,1,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+batter,147,Pradeep Sangwan,Gujarat Titans,5,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,393,Kedar Jadhav,Royal Challengers Bengaluru,10,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,478,Eoin Morgan,England,41,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,505,Mushfiqur Rahim,Bangladesh,9,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,820,Nathan Coulter Nile,Rajasthan Royals,2,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,1233,Gary Ballance,Zimbabwe,29,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,2411,Sandeep Sharma,Rajasthan Royals,11,3,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,2418,Justin Greaves,West Indies,20,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,2534,Rahmat Shah,Afghanistan,6,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,2650,Raymon Reifer,West Indies,41,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,3033,Usman Qadir,Pakistan,7,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,3040,Kashif Daud,United Arab Emirates,2,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,3260,Hashmatullah Shahidi,Afghanistan,54,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,3306,Afsar Zazai,Afghanistan,24,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,3545,Ihsanullah Janat,Afghanistan,14,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,3613,Shakeel Ahmed,Oman,33,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,3622,Hayden Walsh,West Indies,15,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,3683,Gavin Main,Scotland,1,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,3771,Vivian Kingma,Netherlands,1,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,3876,Sufyan Mehmood,Oman,5,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,4201,Fareed Malik,Afghanistan,20,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,4221,Chris Green,Australia,3,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,4237,Tabraiz Shamsi,South Africa,7,4,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,4265,T Natarajan,Delhi Capitals,2,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,4288,Navdeep Saini,Rajasthan Royals,2,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,4417,Karan KC,Nepal,2,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,4460,Jeffrey Vandersay,Sri Lanka,23,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,4487,Vyshak Kumar,"Punjab Kings, Royal Challengers Bengaluru",16,6,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,4489,Prasidh Krishna,"Gujarat Titans, India, Rajasthan Royals",22,5,0.0,0.0,0.8636363636363636,insufficient evidence,too few pressure balls
+batter,4604,Mitchell Swepson,Australia,1,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,4790,Lutho Sipamla,South Africa,14,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,4807,Joshua Little,Ireland,19,5,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,4838,Keemo Paul,West Indies,29,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,4880,Aarif Sheikh,Nepal,3,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,4983,Sikander Zulfiqar,Netherlands,3,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,5892,Blair Tickner,New Zealand,5,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,5940,Riley Meredith,Mumbai Indians,3,2,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,5977,Khary Pierre,West Indies,15,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,6172,Lasith Croospulle,Sri Lanka,1,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,6297,Matthew Parkinson,England,5,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,6350,Matthew Kuhnemann,Australia,12,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,6440,Omair Yousuf,Pakistan,41,4,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,6441,Abdullah Shafique,Pakistan,16,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,6486,Tanush Kotian,Rajasthan Royals,31,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,6494,Manoj Bhandage,Royal Challengers Bengaluru,4,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,6503,Zahoor Khan,United Arab Emirates,2,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,6506,Mohammad Imran Randhawa,Pakistan,12,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,6515,Benjamin Lister,New Zealand,6,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,6591,KM Asif,Rajasthan Royals,2,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,6677,Mohammad Hasnain,Pakistan,13,4,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,6697,Shams Mulani,Mumbai Indians,1,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,6772,Chetan Sakariya,Delhi Capitals,6,2,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,6919,Tyrone Kane,Ireland,11,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,6932,Pramod Madushan,Sri Lanka,3,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,7008,Gus Atkinson,England,23,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,7044,Jamie Smith,England,67,5,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,7120,Rohit Paudel,Nepal,64,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,7155,Sahan Arachchige,Sri Lanka,3,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,7250,Mukesh Choudhary,Chennai Super Kings,8,3,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,7269,Sushant Mishra,Rajasthan Royals,3,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,7498,Abhijeet Tomar,Kolkata Knight Riders,8,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,7545,Kuldeep Sen,Rajasthan Royals,3,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,7574,Kumar Kartikeya Singh,"Mumbai Indians, Rajasthan Royals",17,4,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,7634,Aaron Jones,United States Of America,40,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,7692,Qasim Akram,Pakistan,15,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,7710,Brandon Glover,Netherlands,1,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,7914,Clayton Floyd,Netherlands,1,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,7928,Vinoth Baskaran,Singapore,9,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,8093,Nikhil Chaudhary,Australia,19,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,8266,Sumit Kumar 1,Delhi Capitals,24,3,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,8298,Ramon Simmonds,West Indies,2,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,8424,Tanveer Sangha,Australia,4,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,8623,Kristian Clarke,New Zealand,1,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,8634,Ashwani Kumar,Mumbai Indians,6,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,8664,Victor Nyauchi,Zimbabwe,3,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,16498,Sultan Ahmad,United Arab Emirates,4,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,17413,Neil Rock,Ireland,59,6,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,17910,Mohammad Akram,Afghanistan,9,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,17937,Zubaid Akbari,Afghanistan,7,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,19020,Ateeq Iqbal,Hong Kong,3,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,19125,Ayush Shukla,Hong Kong,7,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,20229,Mohammad Ali,Pakistan,1,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,20316,Shahab Alam,Nepal,1,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,20989,Vivrant Sharma,Sunrisers Hyderabad,47,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,21777,Tafadzwa Tsiga,Zimbabwe,24,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,21780,Ernest Masuku,Zimbabwe,6,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,25030,Zaman Khan,Pakistan,9,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,25048,Umran Malik,"India, Sunrisers Hyderabad",18,7,0.0,0.0,0.8888888888888888,insufficient evidence,too few pressure balls
+batter,25138,Harsh Dubey,Sunrisers Hyderabad,9,4,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,25231,Samay Shrivastava,Oman,19,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,25809,Juanoy Drysdale,United States Of America,2,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,26839,Haseebullah Khan,Pakistan,30,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,26909,Yash Dhull,Delhi Capitals,23,3,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,26988,Jitenkumar Ramanandi,Oman,14,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,27004,Hassnain Shah,Oman,5,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,27071,Vinayak Shukla,Oman,23,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,27364,Simranjeet Kang,United Arab Emirates,9,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,27516,Ihsanullah Ihsanullah,Pakistan,8,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,28021,Saurabh Dubey,Kolkata Knight Riders,2,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,28655,Muhammad Rohid,United Arab Emirates,3,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,28908,Vincent Masekesa,Zimbabwe,4,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,29558,Muhammad Arfan,United Arab Emirates,32,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,31518,Akshat Raghuwanshi,Lucknow Super Giants,25,2,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,31835,Akshay Roopak Puri,Singapore,5,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,33440,Adwitya Bhargava,Singapore,6,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,34546,Aryan Bisht,Oman,32,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,34969,Manav Suthar,Gujarat Titans,2,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,35122,Shah Faisal,Oman,15,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,35318,Sakib Hussain,Sunrisers Hyderabad,7,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,36551,Zishan Motara,West Indies,4,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,37731,Musheer Khan,Punjab Kings,3,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,37939,Nahid Rana,Bangladesh,5,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,39991,Parveen Kumar,Canada,8,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,41110,Mayank Kumar,United Arab Emirates,7,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,42548,Muhammad Jawadullah,United Arab Emirates,10,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,47314,Wafiullah Tarakhil,Afghanistan,17,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,47403,Newman Nyamhuri,Zimbabwe,21,5,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,47724,Jahandad Khan,Pakistan,34,5,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,56685,Abdullah Ahmadzai,Afghanistan,9,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,58134,Digvesh Rathi,Lucknow Super Giants,8,3,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,60609,Navin Bidaisee,West Indies,30,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,60700,Ravi Singh,Rajasthan Royals,2,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+batter,66103,Noor Rahman,Afghanistan,17,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+batter,67036,Brijesh Sharma,Rajasthan Royals,4,2,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,6464,Arshdeep Singh,"India, Punjab Kings",3408,146,888.0,94.0,0.4879694835680751,eligible,
+bowler,7503,Ravi Bishnoi,"India, Lucknow Super Giants, Rajasthan Royals",2429,109,694.0,49.0,0.5426101276245369,eligible,
+bowler,1612,Yuzvendra Chahal,"India, Punjab Kings, Rajasthan Royals",2218,98,672.0,49.0,0.7466185752930569,eligible,
+bowler,4722,Rashid Khan,"Afghanistan, Gujarat Titans",2756,121,622.0,47.0,0.6309869375907112,eligible,
+bowler,360,Bhuvneshwar Kumar,"India, Royal Challengers Bengaluru, Sunrisers Hyderabad",2314,101,618.0,60.0,0.7411408815903198,eligible,
+bowler,3653,Avesh Khan,"India, Lucknow Super Giants, Rajasthan Royals",1745,79,576.0,47.0,0.7289398280802293,eligible,
+bowler,2876,Axar Patel,"Delhi Capitals, India",2707,136,568.0,53.0,0.4806058367196158,eligible,
+bowler,2261,Harshal Patel,"India, Punjab Kings, Royal Challengers Bengaluru, Sunrisers Hyderabad",1748,79,561.0,46.0,0.7591533180778032,eligible,
+bowler,5944,Mohammed Siraj,"Gujarat Titans, India, Royal Challengers Bengaluru",1925,83,547.0,58.0,0.9127272727272727,eligible,
+bowler,2417,Akeal Hosein,"Chennai Super Kings, Sunrisers Hyderabad, West Indies",1734,79,515.0,46.0,0.10092272202998846,eligible,
+bowler,2633,Jason Holder,"Gujarat Titans, Lucknow Super Giants, Rajasthan Royals, West Indies",2032,88,515.0,48.0,0.33366141732283466,eligible,
+bowler,830,Josh Hazlewood,"Australia, Royal Challengers Bengaluru",1515,65,478.0,40.0,0.6191419141914192,eligible,
+bowler,3330,Hardik Pandya,"Gujarat Titans, India, Mumbai Indians",1930,111,475.0,52.0,0.4927461139896373,eligible,
+bowler,6256,Varun Chakravarthy,"India, Kolkata Knight Riders",2182,95,470.0,36.0,0.6599450045829515,eligible,
+bowler,2933,Jasprit Bumrah,"India, Mumbai Indians",1780,75,462.0,43.0,0.7089887640449438,eligible,
+bowler,4900,Wanindu Hasaranga,"Rajasthan Royals, Royal Challengers Bengaluru, Sri Lanka",2029,90,460.0,30.0,0.38048299655002465,eligible,
+bowler,2320,Trent Boult,"Mumbai Indians, New Zealand, Rajasthan Royals",1605,70,456.0,46.0,0.8841121495327103,eligible,
+bowler,19316,Maheesh Theekshana,"Chennai Super Kings, Rajasthan Royals, Sri Lanka",2303,98,443.0,41.0,0.39166304819800263,eligible,
+bowler,6676,Azmatullah Omarzai,"Afghanistan, Gujarat Titans, Punjab Kings",1099,64,429.0,38.0,0.33575978161965425,eligible,
+bowler,6726,Romario Shepherd,"Mumbai Indians, Royal Challengers Bengaluru, Sunrisers Hyderabad, West Indies",1657,92,411.0,49.0,0.22993361496680748,eligible,
+bowler,3644,Kuldeep Yadav,"Delhi Capitals, India",1965,89,409.0,29.0,0.7241730279898219,eligible,
+bowler,305,Ravichandran Ashwin,"Chennai Super Kings, India, Rajasthan Royals",1462,61,395.0,25.0,0.8638850889192886,eligible,
+bowler,781,Sunil Narine,Kolkata Knight Riders,1553,67,394.0,27.0,1.0,eligible,
+bowler,6806,Tushar Deshpande,"Chennai Super Kings, India, Rajasthan Royals",1121,50,370.0,27.0,0.9669937555753791,eligible,
+bowler,4409,Sam Curran,"Chennai Super Kings, England, Punjab Kings",1405,72,367.0,37.0,0.43345195729537367,eligible,
+bowler,4373,Mustafizur Rahman,"Bangladesh, Chennai Super Kings, Delhi Capitals",1628,70,353.0,44.0,0.32678132678132676,eligible,
+bowler,4489,Prasidh Krishna,"Gujarat Titans, India, Rajasthan Royals",1234,52,353.0,30.0,0.8411669367909238,eligible,
+bowler,5041,Mukesh Kumar,"Delhi Capitals, India",1227,59,353.0,36.0,0.7163814180929096,eligible,
+bowler,1813,Deepak Chahar,"Chennai Super Kings, India, Mumbai Indians",964,48,343.0,28.0,0.8153526970954357,eligible,
+bowler,6355,Shaheen Afridi,Pakistan,1036,47,342.0,29.0,0.0,eligible,
+bowler,7967,Noor Ahmad,"Afghanistan, Chennai Super Kings, Gujarat Titans",1537,70,336.0,24.0,0.7423552374756018,eligible,
+bowler,7364,Haris Rauf,Pakistan,1063,48,327.0,32.0,0.0,eligible,
+bowler,3628,Kagiso Rabada,"Gujarat Titans, Punjab Kings, South Africa",1616,69,325.0,34.0,0.7419554455445545,eligible,
+bowler,4101,Mitchell Santner,"Chennai Super Kings, Mumbai Indians, New Zealand",1787,82,325.0,33.0,0.32120872971460546,eligible,
+bowler,4219,Krunal Pandya,"Lucknow Super Giants, Royal Challengers Bengaluru",1286,66,325.0,22.0,1.0,eligible,
+bowler,3298,Jofra Archer,"England, Mumbai Indians, Rajasthan Royals",1320,56,319.0,34.0,0.6060606060606061,eligible,
+bowler,152,Ravindra Jadeja,"Chennai Super Kings, India, Rajasthan Royals",1423,74,317.0,26.0,0.8924806746310612,eligible,
+bowler,6450,Mujeeb Ur Rahman,"Afghanistan, Mumbai Indians",823,37,311.0,24.0,0.015795868772782502,eligible,
+bowler,2636,Adam Zampa,"Australia, Rajasthan Royals, Sunrisers Hyderabad",1175,52,310.0,23.0,0.15574468085106383,eligible,
+bowler,7240,FazalHaq Farooqi,"Afghanistan, Rajasthan Royals, Sunrisers Hyderabad",1044,49,306.0,29.0,0.2547892720306513,eligible,
+bowler,3275,Alzarri Joseph,"Gujarat Titans, Royal Challengers Bengaluru, West Indies",1214,53,305.0,28.0,0.328665568369028,eligible,
+bowler,1758,Patrick Cummins,"Australia, Kolkata Knight Riders, Sunrisers Hyderabad",1269,54,304.0,29.0,0.7998423955870765,eligible,
+bowler,4816,Khaleel Ahmed,"Chennai Super Kings, Delhi Capitals, India",1267,56,302.0,32.0,0.9265982636148382,eligible,
+bowler,1566,Mohammed Shami,"Gujarat Titans, India, Lucknow Super Giants, Sunrisers Hyderabad",1329,57,301.0,35.0,0.9744168547780286,eligible,
+bowler,8661,Matheesha Pathirana,"Chennai Super Kings, Kolkata Knight Riders, Sri Lanka",1252,53,301.0,29.0,0.6365814696485623,eligible,
+bowler,8746,Vaibhav Arora,"Kolkata Knight Riders, Punjab Kings",931,42,301.0,27.0,1.0,eligible,
+bowler,29888,Harshit Rana,"India, Kolkata Knight Riders",940,44,295.0,20.0,0.7223404255319149,eligible,
+bowler,2399,Dushmantha Chameera,"Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants, Sri Lanka",1204,53,289.0,28.0,0.3488372093023256,eligible,
+bowler,5379,Mark Adair,Ireland,900,39,286.0,30.0,0.0,eligible,
+bowler,2490,Mohammad Nawaz,Pakistan,1017,52,284.0,20.0,0.0,eligible,
+bowler,7920,Nathan Ellis,"Australia, Chennai Super Kings, Punjab Kings",939,42,280.0,24.0,0.32161874334398294,eligible,
+bowler,1318,Andre Russell,"Kolkata Knight Riders, West Indies",792,57,279.0,31.0,0.7285353535353535,eligible,
+bowler,5809,Naveen ul Haq,"Afghanistan, Lucknow Super Giants",824,37,278.0,25.0,0.49393203883495146,eligible,
+bowler,2847,Shardul Thakur,"Chennai Super Kings, Delhi Capitals, India, Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians",1047,50,274.0,28.0,0.9742120343839542,eligible,
+bowler,4692,Lockie Ferguson,"Gujarat Titans, Kolkata Knight Riders, New Zealand, Punjab Kings, Royal Challengers Bengaluru",1132,52,274.0,28.0,0.5662544169611308,eligible,
+bowler,2681,Taskin Ahmed,Bangladesh,1083,46,260.0,27.0,0.0,eligible,
+bowler,6161,Rahul Chahar,"Chennai Super Kings, Punjab Kings, Sunrisers Hyderabad",799,37,260.0,18.0,1.0,eligible,
+bowler,2411,Sandeep Sharma,"Punjab Kings, Rajasthan Royals",1018,43,256.0,25.0,1.0,eligible,
+bowler,7808,Marco Jansen,"Punjab Kings, South Africa, Sunrisers Hyderabad",1399,60,255.0,22.0,0.7441029306647605,eligible,
+bowler,2639,Marcus Stoinis,"Australia, Lucknow Super Giants, Punjab Kings",794,55,252.0,28.0,0.4332493702770781,eligible,
+bowler,829,Mitchell Starc,"Australia, Delhi Capitals, Kolkata Knight Riders",860,39,249.0,20.0,0.7511627906976744,eligible,
+bowler,5441,Barry McCarthy,Ireland,649,28,247.0,19.0,0.0,eligible,
+bowler,4874,Richard Ngarava,Zimbabwe,889,39,243.0,26.0,0.0,eligible,
+bowler,4265,T Natarajan,"Delhi Capitals, Sunrisers Hyderabad",1110,49,240.0,25.0,1.0,eligible,
+bowler,6669,Mohsin Khan,Lucknow Super Giants,678,30,239.0,20.0,1.0,eligible,
+bowler,6523,Blessing Muzarabani,"Kolkata Knight Riders, Zimbabwe",846,37,236.0,24.0,0.05200945626477541,eligible,
+bowler,278,Tim Southee,"Kolkata Knight Riders, New Zealand",841,35,232.0,23.0,0.30439952437574314,eligible,
+bowler,22920,Jacob Duffy,"New Zealand, Royal Challengers Bengaluru",933,42,232.0,25.0,0.16720257234726688,eligible,
+bowler,3276,Gudakesh Motie,West Indies,753,38,226.0,17.0,0.0,eligible,
+bowler,7322,Yash Dayal,"Gujarat Titans, Royal Challengers Bengaluru",920,43,221.0,20.0,1.0,eligible,
+bowler,5939,Cameron Green,"Australia, Kolkata Knight Riders, Mumbai Indians, Royal Challengers Bengaluru",799,51,219.0,23.0,0.7546933667083855,eligible,
+bowler,479,Adil Rashid,"England, Sunrisers Hyderabad",1347,61,213.0,18.0,0.031180400890868598,eligible,
+bowler,2984,Sikandar Raza,"Punjab Kings, Zimbabwe",1097,51,210.0,18.0,0.06289881494986327,eligible,
+bowler,1107,Mohammad Nabi,"Afghanistan, Mumbai Indians",693,44,207.0,19.0,0.10678210678210678,eligible,
+bowler,3720,Craig Young,Ireland,475,22,206.0,14.0,0.0,eligible,
+bowler,3174,Matt Henry,"Chennai Super Kings, Lucknow Super Giants, New Zealand",636,30,205.0,21.0,0.21226415094339623,eligible,
+bowler,838,Glenn Maxwell,"Australia, Punjab Kings, Royal Challengers Bengaluru",657,52,202.0,20.0,0.593607305936073,eligible,
+bowler,1596,Moeen Ali,"Chennai Super Kings, England, Kolkata Knight Riders",821,58,201.0,20.0,0.5493300852618758,eligible,
+bowler,7270,Anrich Nortje,"Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants, South Africa",878,39,201.0,24.0,0.6902050113895216,eligible,
+bowler,7905,Tanzim Sakib,Bangladesh,705,31,201.0,18.0,0.0,eligible,
+bowler,58246,Prince Yadav,"India, Lucknow Super Giants",747,32,198.0,22.0,0.6345381526104418,eligible,
+bowler,2687,Roston Chase,West Indies,862,45,196.0,20.0,0.0,eligible,
+bowler,7325,Harpreet Brar,Punjab Kings,673,37,195.0,19.0,1.0,eligible,
+bowler,7690,Saim Ayub,Pakistan,523,32,194.0,14.0,0.0,eligible,
+bowler,5837,Mahedi Hasan,Bangladesh,910,40,188.0,17.0,0.0,eligible,
+bowler,5979,Abrar Ahmed,Pakistan,776,35,188.0,15.0,0.0,eligible,
+bowler,2526,Ish Sodhi,New Zealand,1194,58,187.0,18.0,0.0,eligible,
+bowler,4926,Shadab Khan,Pakistan,848,42,186.0,13.0,0.0,eligible,
+bowler,8380,Mohammad Rishad Hossain,Bangladesh,1021,48,184.0,15.0,0.0,eligible,
+bowler,36982,Suyash Sharma,"Kolkata Knight Riders, Royal Challengers Bengaluru",822,39,184.0,13.0,1.0,eligible,
+bowler,4837,Obed McCoy,"Rajasthan Royals, West Indies",692,32,173.0,21.0,0.26011560693641617,eligible,
+bowler,4807,Joshua Little,"Gujarat Titans, Ireland",796,35,172.0,13.0,0.2964824120603015,eligible,
+bowler,39657,Eshan Malinga,"Sri Lanka, Sunrisers Hyderabad",856,38,171.0,18.0,0.602803738317757,eligible,
+bowler,58134,Digvesh Rathi,Lucknow Super Giants,561,23,171.0,15.0,1.0,eligible,
+bowler,4823,Washington Sundar,"Gujarat Titans, India, Sunrisers Hyderabad",802,51,170.0,21.0,0.5336658354114713,eligible,
+bowler,6512,Michael Bracewell,"New Zealand, Royal Challengers Bengaluru",701,41,165.0,14.0,0.09415121255349501,eligible,
+bowler,2878,Mohit Sharma,"Delhi Capitals, Gujarat Titans",676,33,164.0,19.0,1.0,eligible,
+bowler,6287,Yash Thakur,"India, Lucknow Super Giants, Punjab Kings",565,25,164.0,16.0,0.8867256637168142,eligible,
+bowler,1071,Jaydev Unadkat,"Lucknow Super Giants, Mumbai Indians, Sunrisers Hyderabad",599,30,163.0,17.0,1.0,eligible,
+bowler,7472,Shahbaz Ahmed,"Lucknow Super Giants, Royal Challengers Bengaluru, Sunrisers Hyderabad",554,42,163.0,17.0,1.0,eligible,
+bowler,4641,Lungi Ngidi,"Delhi Capitals, Royal Challengers Bengaluru, South Africa",829,39,161.0,19.0,0.36550060313630883,eligible,
+bowler,7094,Curtis Campher,Ireland,414,29,157.0,14.0,0.0,eligible,
+bowler,22134,Luke Jongwe,Zimbabwe,354,18,157.0,12.0,0.0,eligible,
+bowler,7312,Nandre Burger,"Rajasthan Royals, South Africa",468,22,156.0,13.0,0.8183760683760684,eligible,
+bowler,7741,Gareth Delany,Ireland,566,35,155.0,15.0,0.0,eligible,
+bowler,7344,Shoriful Islam,Bangladesh,798,38,154.0,20.0,0.0,eligible,
+bowler,4856,Benjamin Sears,New Zealand,463,22,153.0,14.0,0.0,eligible,
+bowler,19312,Nuwan Thushara,"Mumbai Indians, Royal Challengers Bengaluru, Sri Lanka",824,38,147.0,22.0,0.24029126213592233,eligible,
+bowler,403,Umesh Yadav,"Gujarat Titans, India, Kolkata Knight Riders",572,29,145.0,13.0,0.9475524475524476,eligible,
+bowler,5738,Xavier Bartlett,"Australia, Punjab Kings",641,31,145.0,11.0,0.41965678627145087,eligible,
+bowler,2315,Reece Topley,"England, Mumbai Indians, Royal Challengers Bengaluru",639,29,142.0,14.0,0.19561815336463223,eligible,
+bowler,8530,Kartik Tyagi,"Gujarat Titans, Kolkata Knight Riders, Sunrisers Hyderabad",441,19,140.0,13.0,1.0,eligible,
+bowler,27964,Anshul Kamboj,"Chennai Super Kings, Mumbai Indians",513,25,140.0,14.0,1.0,eligible,
+bowler,38855,Mohammad Saifuddin,Bangladesh,475,21,140.0,15.0,0.0,eligible,
+bowler,4201,Fareed Malik,Afghanistan,316,17,137.0,11.0,0.0,eligible,
+bowler,4815,Benjamin White,Ireland,404,20,135.0,9.0,0.0,insufficient evidence,pressure balls in too few matches
+bowler,47050,Shamar Joseph,"Lucknow Super Giants, West Indies",515,24,133.0,17.0,0.05825242718446602,eligible,
+bowler,8295,Matthew Forde,West Indies,427,21,132.0,14.0,0.0,eligible,
+bowler,8221,Nitish Reddy,"India, Sunrisers Hyderabad",595,39,131.0,18.0,0.5865546218487395,eligible,
+bowler,22471,Matthew Humphreys,Ireland,315,14,131.0,10.0,0.0,eligible,
+bowler,6643,Hasan Mahmud,Bangladesh,412,20,130.0,11.0,0.0,eligible,
+bowler,786,Chris Jordan,"Chennai Super Kings, England, Mumbai Indians",574,27,129.0,16.0,0.3832752613240418,eligible,
+bowler,1487,Adam Milne,"Chennai Super Kings, New Zealand, Rajasthan Royals",569,25,129.0,16.0,0.0632688927943761,eligible,
+bowler,1389,Sean Abbott,"Australia, Sunrisers Hyderabad",476,21,127.0,10.0,0.05672268907563025,eligible,
+bowler,8049,Naseem Shah,Pakistan,608,27,127.0,12.0,0.0,eligible,
+bowler,6281,Abhishek Sharma,"India, Sunrisers Hyderabad",433,43,122.0,12.0,0.5473441108545035,eligible,
+bowler,7327,Rasikh Salam,"Delhi Capitals, Kolkata Knight Riders, Royal Challengers Bengaluru",490,24,122.0,15.0,1.0,eligible,
+bowler,3629,Corbin Bosch,"Mumbai Indians, South Africa",384,19,121.0,10.0,0.4453125,eligible,
+bowler,499,Shakib Al Hasan,Bangladesh,344,17,120.0,9.0,0.0,insufficient evidence,pressure balls in too few matches
+bowler,2436,Dasun Shanaka,"Rajasthan Royals, Sri Lanka",545,42,120.0,15.0,0.06972477064220184,eligible,
+bowler,4487,Vyshak Kumar,"Punjab Kings, Royal Challengers Bengaluru",550,25,120.0,12.0,1.0,eligible,
+bowler,6628,Gerald Coetzee,"Gujarat Titans, Mumbai Indians, South Africa",647,29,119.0,15.0,0.45131375579598143,eligible,
+bowler,6284,Anukul Roy,Kolkata Knight Riders,336,21,118.0,11.0,1.0,eligible,
+bowler,4840,Odean Smith,"Punjab Kings, West Indies",414,24,117.0,10.0,0.22946859903381642,eligible,
+bowler,21784,Brad Evans,Zimbabwe,457,21,117.0,12.0,0.0,eligible,
+bowler,34485,Sufiyan Muqeem,Pakistan,351,17,117.0,9.0,0.0,insufficient evidence,pressure balls in too few matches
+bowler,3323,Jimmy Neesham,"New Zealand, Rajasthan Royals",546,37,116.0,14.0,0.03296703296703297,eligible,
+bowler,7545,Kuldeep Sen,Rajasthan Royals,255,12,116.0,8.0,1.0,insufficient evidence,pressure balls in too few matches
+bowler,8009,Junaid Siddique,United Arab Emirates,354,15,115.0,12.0,0.0,eligible,
+bowler,3697,Kyle Jamieson,"Delhi Capitals, New Zealand, Punjab Kings",668,30,114.0,14.0,0.20359281437125748,eligible,
+bowler,28,Ishant Sharma,"Delhi Capitals, Gujarat Titans",456,24,113.0,14.0,1.0,eligible,
+bowler,25048,Umran Malik,"India, Sunrisers Hyderabad",600,31,112.0,9.0,0.74,insufficient evidence,pressure balls in too few matches
+bowler,7473,Akash Deep,"Lucknow Super Giants, Royal Challengers Bengaluru",302,14,111.0,8.0,1.0,insufficient evidence,pressure balls in too few matches
+bowler,6518,Daniel Sams,"Australia, Mumbai Indians",377,17,109.0,7.0,0.726790450928382,insufficient evidence,pressure balls in too few matches
+bowler,67036,Brijesh Sharma,Rajasthan Royals,297,13,109.0,9.0,1.0,insufficient evidence,pressure balls in too few matches
+bowler,2985,Mark Wood,"England, Lucknow Super Giants",299,13,108.0,10.0,0.3411371237458194,eligible,
+bowler,7696,Mohammad Wasim,Pakistan,374,17,108.0,13.0,0.0,eligible,
+bowler,7699,Abbas Afridi,Pakistan,418,22,103.0,9.0,0.0,insufficient evidence,pressure balls in too few matches
+bowler,1944,Keshav Maharaj,"Rajasthan Royals, South Africa",611,30,100.0,9.0,0.058919803600654665,insufficient evidence,pressure balls in too few matches
+bowler,29066,Zakary Foulkes,New Zealand,401,18,97.0,11.0,0.0,insufficient evidence,too few pressure balls
+bowler,295,Wayne Parnell,"Royal Challengers Bengaluru, South Africa",418,18,96.0,9.0,0.37559808612440193,insufficient evidence,too few pressure balls
+bowler,4391,Liam Livingstone,"England, Punjab Kings, Royal Challengers Bengaluru",619,49,96.0,15.0,0.5088852988691438,insufficient evidence,too few pressure balls
+bowler,6354,Spencer Johnson,"Australia, Chennai Super Kings, Gujarat Titans, Kolkata Knight Riders",466,23,96.0,12.0,0.5214592274678111,insufficient evidence,too few pressure balls
+bowler,4658,Nasum Ahmed,Bangladesh,607,29,95.0,9.0,0.0,insufficient evidence,too few pressure balls
+bowler,1219,David Willey,"England, Royal Challengers Bengaluru",396,19,93.0,8.0,0.40404040404040403,insufficient evidence,too few pressure balls
+bowler,6272,William Jacks,"England, Mumbai Indians, Royal Challengers Bengaluru",431,35,93.0,15.0,0.4709976798143852,insufficient evidence,too few pressure balls
+bowler,32862,Allah Ghazanfar,"Afghanistan, Mumbai Indians",310,15,91.0,8.0,0.7645161290322581,insufficient evidence,too few pressure balls
+bowler,1772,Sheldon Cottrell,West Indies,229,11,90.0,6.0,0.0,insufficient evidence,too few pressure balls
+bowler,7250,Mukesh Choudhary,Chennai Super Kings,512,24,90.0,10.0,1.0,insufficient evidence,too few pressure balls
+bowler,5577,Sai Kishore,Gujarat Titans,477,27,89.0,9.0,1.0,insufficient evidence,too few pressure balls
+bowler,7689,Dilshan Madushanka,"Sri Lanka, Sunrisers Hyderabad",397,19,87.0,10.0,0.07052896725440806,insufficient evidence,too few pressure balls
+bowler,3056,Iftikhar Ahmed,Pakistan,189,14,83.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,3664,Binura Fernando,Sri Lanka,356,16,83.0,10.0,0.0,insufficient evidence,too few pressure balls
+bowler,5189,Faheem Ashraf,Pakistan,452,32,83.0,11.0,0.0,insufficient evidence,too few pressure balls
+bowler,5940,Riley Meredith,"Australia, Mumbai Indians",331,14,83.0,7.0,0.9274924471299094,insufficient evidence,too few pressure balls
+bowler,2054,Jason Behrendorff,"Australia, Mumbai Indians",455,20,81.0,12.0,0.5758241758241758,insufficient evidence,too few pressure balls
+bowler,27960,Mayank Yadav,"India, Lucknow Super Giants",526,22,81.0,12.0,0.4372623574144487,insufficient evidence,too few pressure balls
+bowler,3605,Aiden Markram,"Lucknow Super Giants, South Africa, Sunrisers Hyderabad",408,42,79.0,12.0,0.5024509803921569,insufficient evidence,too few pressure balls
+bowler,3772,Logan van Beek,Netherlands,138,6,78.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,6515,Benjamin Lister,New Zealand,258,12,78.0,7.0,0.0,insufficient evidence,too few pressure balls
+bowler,395,Karn Sharma,"Mumbai Indians, Royal Challengers Bengaluru",372,21,77.0,6.0,1.0,insufficient evidence,too few pressure balls
+bowler,4229,George Linde,"Lucknow Super Giants, South Africa",295,17,77.0,6.0,0.12542372881355932,insufficient evidence,too few pressure balls
+bowler,8634,Ashwani Kumar,Mumbai Indians,196,10,77.0,7.0,1.0,insufficient evidence,too few pressure balls
+bowler,17424,Graham Hume,Ireland,200,10,77.0,6.0,0.0,insufficient evidence,too few pressure balls
+bowler,4639,Wellington Masakadza,Zimbabwe,486,27,75.0,6.0,0.0,insufficient evidence,too few pressure balls
+bowler,8614,William ORourke,"Lucknow Super Giants, New Zealand",195,8,74.0,5.0,0.3282051282051282,insufficient evidence,too few pressure balls
+bowler,8805,Ottneil Baartman,South Africa,343,16,73.0,8.0,0.0,insufficient evidence,too few pressure balls
+bowler,5034,Murugan Ashwin,"Mumbai Indians, Rajasthan Royals",204,10,72.0,5.0,1.0,insufficient evidence,too few pressure balls
+bowler,7052,Dunith Wellalage,Sri Lanka,260,12,72.0,10.0,0.0,insufficient evidence,too few pressure balls
+bowler,1617,Rishi Dhawan,Punjab Kings,174,10,71.0,6.0,1.0,insufficient evidence,too few pressure balls
+bowler,2304,Tymal Mills,"England, Mumbai Indians",242,12,71.0,8.0,0.44214876033057854,insufficient evidence,too few pressure balls
+bowler,2334,Dwaine Pretorius,"Chennai Super Kings, South Africa",336,14,71.0,7.0,0.49404761904761907,insufficient evidence,too few pressure balls
+bowler,6389,Tanvir Islam,Bangladesh,96,5,71.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,8326,Jayden Seales,West Indies,186,9,71.0,7.0,0.0,insufficient evidence,too few pressure balls
+bowler,33969,Tinotenda Maposa,Zimbabwe,187,12,71.0,6.0,0.0,insufficient evidence,too few pressure balls
+bowler,3550,Sharafuddin Ashraf,Afghanistan,118,6,69.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,5750,Ehsan Khan,Hong Kong,191,8,69.0,7.0,0.0,insufficient evidence,too few pressure balls
+bowler,4812,Harry Tector,Ireland,248,16,68.0,6.0,0.0,insufficient evidence,too few pressure balls
+bowler,7896,Akash Singh,"Chennai Super Kings, Lucknow Super Giants",232,11,68.0,4.0,1.0,insufficient evidence,too few pressure balls
+bowler,19530,Shahnawaz Dhani,Pakistan,177,9,68.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,1101,George Dockrell,Ireland,190,15,67.0,7.0,0.0,insufficient evidence,too few pressure balls
+bowler,2972,Yasim Murtaza,Hong Kong,195,8,67.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,4755,Shivam Dube,"Chennai Super Kings, India",491,40,67.0,9.0,0.13238289205702647,insufficient evidence,too few pressure balls
+bowler,286,Kane Richardson,Australia,207,9,66.0,7.0,0.0,insufficient evidence,too few pressure balls
+bowler,26663,Kwena Maphaka,"Mumbai Indians, Rajasthan Royals, South Africa",333,16,66.0,9.0,0.2132132132132132,insufficient evidence,too few pressure balls
+bowler,46066,Vipraj Nigam,Delhi Capitals,301,18,64.0,6.0,1.0,insufficient evidence,too few pressure balls
+bowler,6683,Mayank Markande,"Mumbai Indians, Sunrisers Hyderabad",445,22,63.0,5.0,1.0,insufficient evidence,too few pressure balls
+bowler,25030,Zaman Khan,Pakistan,200,10,63.0,6.0,0.0,insufficient evidence,too few pressure balls
+bowler,30925,Bradley Currie,Scotland,112,5,62.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,5892,Blair Tickner,New Zealand,225,11,61.0,7.0,0.0,insufficient evidence,too few pressure balls
+bowler,2382,Jamie Overton,"Chennai Super Kings, England",525,30,59.0,9.0,0.41333333333333333,insufficient evidence,too few pressure balls
+bowler,6503,Zahoor Khan,United Arab Emirates,123,5,59.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,27743,DT Doram,Netherlands,192,9,59.0,7.0,0.0,insufficient evidence,too few pressure balls
+bowler,3660,Luke Wood,"England, Mumbai Indians",336,17,58.0,5.0,0.1130952380952381,insufficient evidence,too few pressure balls
+bowler,818,Mitchell Marsh,"Australia, Delhi Capitals",320,19,56.0,7.0,0.81875,insufficient evidence,too few pressure balls
+bowler,3373,Aizaz Khan,Hong Kong,140,8,56.0,6.0,0.0,insufficient evidence,too few pressure balls
+bowler,161,Dwayne Bravo,Chennai Super Kings,229,10,55.0,4.0,1.0,insufficient evidence,too few pressure balls
+bowler,2463,Ryan Burl,Zimbabwe,325,22,55.0,6.0,0.0,insufficient evidence,too few pressure balls
+bowler,3272,Fabian Allen,"Mumbai Indians, West Indies",180,12,55.0,6.0,0.13333333333333333,insufficient evidence,too few pressure balls
+bowler,3578,Imad Wasim,Pakistan,254,14,55.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,4895,Charith Asalanka,Sri Lanka,164,14,55.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,6097,Brydon Carse,England,283,13,55.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,8177,Akash Madhwal,"Mumbai Indians, Rajasthan Royals",376,17,55.0,10.0,1.0,insufficient evidence,too few pressure balls
+bowler,22137,Fionn Hand,Ireland,143,10,55.0,6.0,0.0,insufficient evidence,too few pressure balls
+bowler,6237,Manimaran Siddharth,Lucknow Super Giants,193,9,54.0,5.0,1.0,insufficient evidence,too few pressure balls
+bowler,332,Angelo Mathews,Sri Lanka,114,9,53.0,6.0,0.0,insufficient evidence,too few pressure balls
+bowler,6932,Pramod Madushan,Sri Lanka,107,5,53.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,28756,Haider Ali,United Arab Emirates,273,12,53.0,8.0,0.0,insufficient evidence,too few pressure balls
+bowler,1171,Chris Woakes,England,166,11,52.0,7.0,0.0,insufficient evidence,too few pressure balls
+bowler,6160,Chamika Karunaratne,Sri Lanka,351,20,52.0,6.0,0.0,insufficient evidence,too few pressure balls
+bowler,20005,Arshad Khan,"Gujarat Titans, Lucknow Super Giants, Mumbai Indians",413,25,52.0,7.0,1.0,insufficient evidence,too few pressure balls
+bowler,3623,Hasan Ali,Pakistan,168,8,51.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,24475,Rehan Ahmed,England,211,11,51.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,35318,Sakib Hussain,Sunrisers Hyderabad,274,11,51.0,5.0,1.0,insufficient evidence,too few pressure balls
+bowler,914,Krishnappa Gowtham,Lucknow Super Giants,185,11,50.0,4.0,1.0,insufficient evidence,too few pressure balls
+bowler,2997,Paul van Meekeren,Netherlands,196,10,49.0,6.0,0.0,insufficient evidence,too few pressure balls
+bowler,7756,Kaleem Sana,Canada,67,3,49.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,25138,Harsh Dubey,Sunrisers Hyderabad,200,11,48.0,5.0,1.0,insufficient evidence,too few pressure balls
+bowler,36553,Jediah Blades,West Indies,131,6,48.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,41503,Yash Punja,Rajasthan Royals,186,8,48.0,4.0,1.0,insufficient evidence,too few pressure balls
+bowler,56817,Shivang Kumar,Sunrisers Hyderabad,240,13,48.0,5.0,1.0,insufficient evidence,too few pressure balls
+bowler,1541,Sean Williams,Zimbabwe,165,14,47.0,7.0,0.0,insufficient evidence,too few pressure balls
+bowler,3771,Vivian Kingma,Netherlands,106,5,47.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,4636,Bjorn Fortuin,South Africa,217,13,47.0,7.0,0.0,insufficient evidence,too few pressure balls
+bowler,42548,Muhammad Jawadullah,United Arab Emirates,214,9,47.0,7.0,0.0,insufficient evidence,too few pressure balls
+bowler,722,Liam Dawson,England,424,22,46.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,3689,Mark Watt,Scotland,128,6,46.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,6398,Aaron Hardie,Australia,286,15,46.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,3686,CB Sole,Scotland,97,5,45.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,19020,Ateeq Iqbal,Hong Kong,66,4,45.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,34522,Brandon McMullen,Scotland,52,3,45.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,56685,Abdullah Ahmadzai,Afghanistan,200,10,45.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,4857,Nathan Smith,New Zealand,109,6,44.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,28655,Muhammad Rohid,United Arab Emirates,121,6,44.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,28915,Trevor Gwandu,Zimbabwe,162,8,44.0,6.0,0.0,insufficient evidence,too few pressure balls
+bowler,67864,Matt Hollard,Ireland,52,2,44.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,3282,Mehidy Hasan Miraz,Bangladesh,236,17,43.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,4276,Basil Thampi,Mumbai Indians,102,5,43.0,4.0,1.0,insufficient evidence,too few pressure balls
+bowler,4438,Jasdeep Singh,United States Of America,94,4,43.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,4505,Jhye Richardson,"Australia, Delhi Capitals",124,5,43.0,2.0,0.20161290322580644,insufficient evidence,too few pressure balls
+bowler,8005,Zawar Farid,United Arab Emirates,80,4,43.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,8638,Basil Hameed,United Arab Emirates,140,8,43.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,494,Kieron Pollard,"Mumbai Indians, West Indies",197,12,42.0,4.0,0.4365482233502538,insufficient evidence,too few pressure balls
+bowler,3641,Ben Dwarshuis,"Australia, Punjab Kings",334,14,42.0,7.0,0.07784431137724551,insufficient evidence,too few pressure balls
+bowler,4288,Navdeep Saini,"Kolkata Knight Riders, Rajasthan Royals",98,5,42.0,3.0,1.0,insufficient evidence,too few pressure balls
+bowler,46378,Kyle Klein,Netherlands,173,8,42.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,25011,Liam Mccarthy,Ireland,70,3,41.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,37939,Nahid Rana,Bangladesh,101,5,41.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,1159,Tendai Chatara,Zimbabwe,223,10,39.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,4903,Lahiru Kumara,Sri Lanka,78,3,39.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,7001,Dilon Heyliger,Canada,58,3,39.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,19998,Rajvardhan Hangargekar,Chennai Super Kings,43,2,39.0,2.0,1.0,insufficient evidence,too few pressure balls
+bowler,28018,Ashok Sharma,"Gujarat Titans, India",187,8,38.0,4.0,0.7272727272727273,insufficient evidence,too few pressure balls
+bowler,47724,Jahandad Khan,Pakistan,111,8,38.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,23,Piyush Chawla,Mumbai Indians,586,27,37.0,4.0,1.0,insufficient evidence,too few pressure balls
+bowler,5562,Richard Gleeson,"Chennai Super Kings, England, Mumbai Indians",203,9,37.0,4.0,0.35960591133004927,insufficient evidence,too few pressure balls
+bowler,6995,Saad Zafar,Canada,73,3,37.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,7201,Haroon Arshad,Hong Kong,79,5,37.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,25132,Praful Hinge,Sunrisers Hyderabad,168,7,37.0,3.0,1.0,insufficient evidence,too few pressure balls
+bowler,2364,Ashton Agar,Australia,145,6,36.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,3077,Usama Mir,Pakistan,123,5,36.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,4853,Glenn Phillips,"New Zealand, Sunrisers Hyderabad",115,13,36.0,5.0,0.1565217391304348,insufficient evidence,too few pressure balls
+bowler,6286,Shivam Mavi,"India, Kolkata Knight Riders",232,12,36.0,5.0,0.6120689655172413,insufficient evidence,too few pressure balls
+bowler,20693,Kuldip Yadav,Rajasthan Royals,42,2,36.0,2.0,1.0,insufficient evidence,too few pressure balls
+bowler,2483,Lizaad Williams,"Delhi Capitals, South Africa",280,14,35.0,7.0,0.15,insufficient evidence,too few pressure balls
+bowler,19125,Ayush Shukla,Hong Kong,149,7,35.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,5977,Khary Pierre,West Indies,124,6,34.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,6423,Riyan Parag,"India, Rajasthan Royals",273,24,34.0,6.0,0.7252747252747253,insufficient evidence,too few pressure balls
+bowler,20704,Salman Mirza,Pakistan,339,15,34.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,25216,Andile Simelane,South Africa,114,6,34.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,35122,Shah Faisal,Oman,78,3,34.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,5844,Ebadot Hossain,Bangladesh,83,3,33.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,16498,Sultan Ahmad,United Arab Emirates,45,2,33.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,27959,Hrithik Shokeen,Mumbai Indians,213,13,33.0,3.0,1.0,insufficient evidence,too few pressure balls
+bowler,1195,Ben Stokes,"Chennai Super Kings, England",33,3,32.0,3.0,0.18181818181818182,insufficient evidence,too few pressure balls
+bowler,2887,Harmeet Singh,United States Of America,98,4,32.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,3727,Matthew Short,"Australia, Chennai Super Kings, Punjab Kings",161,15,32.0,6.0,0.2795031055900621,insufficient evidence,too few pressure balls
+bowler,4779,Pieter Willem Mulder,"South Africa, Sunrisers Hyderabad",122,10,32.0,2.0,0.04918032786885246,insufficient evidence,too few pressure balls
+bowler,4947,Kasun Rajitha,Sri Lanka,116,5,32.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,59045,Jai Moondra,Ireland,50,2,32.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,7755,Harsh Thaker,Canada,48,3,31.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,19902,Tim Pringle,Netherlands,134,7,31.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,773,Shadley Van Schalkwyk,United States Of America,91,4,30.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,470,Mohammad Amir,Pakistan,157,7,29.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,2650,Raymon Reifer,West Indies,32,2,29.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,5547,Nosthush Kenjige,United States Of America,79,4,29.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,5808,Karim Janat,"Afghanistan, Gujarat Titans",158,12,29.0,3.0,0.0379746835443038,insufficient evidence,too few pressure balls
+bowler,6985,Bas de Leede,Netherlands,78,4,29.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,7533,Simarjeet Singh,"Chennai Super Kings, Sunrisers Hyderabad",256,14,29.0,5.0,1.0,insufficient evidence,too few pressure balls
+bowler,7544,Venkatesh Iyer,"India, Kolkata Knight Riders",49,7,29.0,4.0,0.6122448979591837,insufficient evidence,too few pressure balls
+bowler,6677,Mohammad Hasnain,Pakistan,238,10,28.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,7060,Arjun Tendulkar,"Lucknow Super Giants, Mumbai Indians",107,6,28.0,2.0,1.0,insufficient evidence,too few pressure balls
+bowler,22188,Aryan Dutt,Netherlands,142,7,28.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,4237,Tabraiz Shamsi,South Africa,321,16,27.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,4716,Mayank Dagar,"Royal Challengers Bengaluru, Sunrisers Hyderabad",138,8,27.0,3.0,1.0,insufficient evidence,too few pressure balls
+bowler,31107,Yasin Patel,Kuwait,72,3,27.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,3299,Andrew Tye,Lucknow Super Giants,69,3,26.0,2.0,1.0,insufficient evidence,too few pressure balls
+bowler,25128,Nqabayomzi Peter,South Africa,170,9,26.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,27516,Ihsanullah Ihsanullah,Pakistan,96,4,26.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,2416,Kyle Mayers,"Lucknow Super Giants, West Indies",146,17,25.0,3.0,0.3150684931506849,insufficient evidence,too few pressure balls
+bowler,3383,Kinchit Shah,Hong Kong,54,5,25.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,3648,Deepak Hooda,"Chennai Super Kings, India, Lucknow Super Giants",133,13,25.0,2.0,0.42105263157894735,insufficient evidence,too few pressure balls
+bowler,4842,Shamar Springer,West Indies,212,11,25.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,4867,Wesley Madhevere,Zimbabwe,99,9,25.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,6566,Matthew John Fisher,New Zealand,62,3,25.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,8141,Auqib Nabi,Delhi Capitals,84,5,25.0,4.0,1.0,insufficient evidence,too few pressure balls
+bowler,27004,Hassnain Shah,Oman,43,2,25.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,27460,Ali Naseer,United Arab Emirates,37,2,25.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,7935,Mohammad Ghazanfar,Hong Kong,108,5,24.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,8580,Yudhvir Singh,"Lucknow Super Giants, Rajasthan Royals",145,9,24.0,4.0,1.0,insufficient evidence,too few pressure balls
+bowler,8664,Victor Nyauchi,Zimbabwe,24,1,24.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,17911,Nangeyalia Kharote,Afghanistan,67,3,24.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,23311,Jacob Bethell,England,90,5,24.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,26834,Raj Bawa,Mumbai Indians,32,2,24.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,3683,Gavin Main,Scotland,41,2,23.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,6350,Matthew Kuhnemann,Australia,123,6,23.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,8654,Cooper Connolly,Australia,118,7,23.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,7574,Kumar Kartikeya Singh,"Mumbai Indians, Rajasthan Royals",290,16,22.0,2.0,1.0,insufficient evidence,too few pressure balls
+bowler,24346,Mohamed Shafeeq,Kuwait,69,3,22.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,27464,Aayan Afzal Khan,United Arab Emirates,102,5,22.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,28021,Saurabh Dubey,Kolkata Knight Riders,87,4,22.0,4.0,1.0,insufficient evidence,too few pressure balls
+bowler,36981,Himanshu Sharma,Royal Challengers Bengaluru,30,2,22.0,2.0,1.0,insufficient evidence,too few pressure balls
+bowler,39991,Parveen Kumar,Canada,49,2,22.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,3033,Usman Qadir,Pakistan,98,4,21.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,3253,Rohan Mustafa,United Arab Emirates,26,1,21.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,3281,Mosaddek Hossain,Bangladesh,163,11,21.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,4417,Karan KC,Nepal,42,3,21.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,8311,Dan Mousley,England,55,4,21.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,23467,Gurjapneet Singh,Chennai Super Kings,159,8,21.0,3.0,1.0,insufficient evidence,too few pressure balls
+bowler,3135,Yannic Cariah,West Indies,36,2,20.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,4881,Dipendra Airee,Nepal,36,2,20.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,4974,Mohammad Nadeem,Oman,26,2,20.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,4986,Rovman Powell,"Delhi Capitals, West Indies",82,11,20.0,2.0,0.25609756097560976,insufficient evidence,too few pressure balls
+bowler,6506,Mohammad Imran Randhawa,Pakistan,76,3,20.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,15280,Sayed Monib,Kuwait,72,3,20.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,2296,Safyaan Sharif,Scotland,35,2,19.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,4901,Asitha Fernando,Sri Lanka,124,6,19.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,6489,Darshan Nalkande,Gujarat Titans,89,6,19.0,2.0,1.0,insufficient evidence,too few pressure balls
+bowler,7140,Senuran Muthusamy,South Africa,43,2,19.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,7227,Nijat Masood,Afghanistan,71,3,19.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,7914,Clayton Floyd,Netherlands,36,2,19.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,8424,Tanveer Sangha,Australia,171,7,19.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,8639,Kartik Meiyappan,United Arab Emirates,100,4,19.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,24017,Brian Bennett,Zimbabwe,137,16,19.0,4.0,0.0,insufficient evidence,too few pressure balls
+bowler,45457,Zach Lion Cachet,Netherlands,70,4,19.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,71727,Razaullah Razaullah,Pakistan,39,2,19.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,2359,Prenelan Subrayen,South Africa,42,2,18.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,2407,Dhananjaya de Silva,Sri Lanka,82,8,18.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,4106,Daryl Mitchell,"Chennai Super Kings, New Zealand, Rajasthan Royals",86,10,18.0,5.0,0.5930232558139535,insufficient evidence,too few pressure balls
+bowler,4662,Cole McConchie,New Zealand,121,8,18.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,4686,Joshua Clarkson,New Zealand,51,4,18.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,4871,Brandon Mavuta,Zimbabwe,44,2,18.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,19147,Faraz Akram,Zimbabwe,112,6,18.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,26795,Joel Davies,Australia,50,3,18.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,3986,Matthew Renshaw,Australia,36,3,17.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,4499,Saqib Mahmood,England,243,11,17.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,6196,Josh Tongue,England,126,5,17.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,8182,Donovan Ferreira,"Rajasthan Royals, South Africa",115,9,17.0,4.0,0.1565217391304348,insufficient evidence,too few pressure balls
+bowler,8298,Ramon Simmonds,West Indies,81,4,17.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,25809,Juanoy Drysdale,United States Of America,63,3,17.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,988,Graeme Cremer,Zimbabwe,42,2,16.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,1701,Swapnil Singh,"Lucknow Super Giants, Royal Challengers Bengaluru",104,9,16.0,4.0,1.0,insufficient evidence,too few pressure balls
+bowler,37052,Naman Dhir,"India, Mumbai Indians",128,11,16.0,3.0,0.4140625,insufficient evidence,too few pressure balls
+bowler,3613,Shakeel Ahmed,Oman,61,3,15.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,4780,Mohammad Saif Hassan,Bangladesh,100,11,15.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,56830,Madhav Tiwari,Delhi Capitals,75,4,15.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,3337,Jeremy Gordon,Canada,20,1,14.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,6795,Terrance Hinds,West Indies,31,2,14.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,33009,John Turner,England,37,2,14.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,33443,Sabir Ali,United Arab Emirates,52,3,14.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,4235,Sisanda Magala,"Chennai Super Kings, South Africa",73,4,13.0,2.0,0.5068493150684932,insufficient evidence,too few pressure balls
+bowler,19145,Aamer Jamal,Pakistan,77,4,13.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,29699,Ibrahim Takahashi,Japan,13,1,13.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,47542,Charles Hinze,Japan,13,1,13.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,158,Amit Mishra,Lucknow Super Giants,127,8,12.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,2790,Praveen Dubey,"Delhi Capitals, Punjab Kings",31,2,12.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,3255,Ahmed Raza 1,United Arab Emirates,12,1,12.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,3361,Michael Leask,Scotland,32,3,12.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,3871,Aamir Kaleem,Oman,48,3,12.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,3926,Rahul Tewatia,Gujarat Titans,50,7,12.0,2.0,1.0,insufficient evidence,too few pressure balls
+bowler,4412,Max ODowd,Netherlands,31,2,12.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,6356,Khaled Ahmed,Bangladesh,24,1,12.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,6436,Qais Ahmad,Afghanistan,55,3,12.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,7241,Ziaur Rahman,Afghanistan,50,2,12.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,7903,Shamim Hossain,Bangladesh,92,9,12.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,26988,Jitenkumar Ramanandi,Oman,49,2,12.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,27380,Harshit Kaushik,United Arab Emirates,61,5,12.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,27956,Prashant Solanki,Chennai Super Kings,36,2,12.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,29080,Muhammad Khan,United Arab Emirates,107,4,12.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,34466,Arafat Minhas,Pakistan,42,2,12.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,2213,Soumya Sarkar,Bangladesh,45,6,11.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,2214,Gulbadin Naib,"Afghanistan, Delhi Capitals",56,7,11.0,2.0,0.10714285714285714,insufficient evidence,too few pressure balls
+bowler,2756,Shashank Singh,"Punjab Kings, Sunrisers Hyderabad",93,8,11.0,2.0,1.0,insufficient evidence,too few pressure balls
+bowler,3040,Kashif Daud,United Arab Emirates,11,1,11.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,5561,Brad Wheal,Scotland,36,2,11.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,6671,Lalit Yadav,Delhi Capitals,210,14,11.0,3.0,1.0,insufficient evidence,too few pressure balls
+bowler,7403,Lalit Rajbanshi,Nepal,31,2,11.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,15269,Mohammed Aslam,Kuwait,48,3,11.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,25231,Samay Shrivastava,Oman,45,3,11.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,25502,Adnan Idrees,Kuwait,12,1,11.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,4793,Dean Foxcroft,New Zealand,12,1,10.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,4838,Keemo Paul,West Indies,105,6,10.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,7927,Janak Prakash,Singapore,59,3,10.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,8266,Sumit Kumar 1,Delhi Capitals,22,2,10.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,21786,Tanaka Chivanga,Zimbabwe,31,2,10.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,24812,Chris Greaves,Scotland,54,4,10.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,47403,Newman Nyamhuri,Zimbabwe,96,5,10.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,3627,Andile Phehlukwayo,South Africa,152,7,9.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,4246,Nitish Rana,"Delhi Capitals, Kolkata Knight Riders, Rajasthan Royals",104,11,9.0,3.0,1.0,insufficient evidence,too few pressure balls
+bowler,7634,Aaron Jones,United States Of America,18,2,9.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,27466,Dhruv Parashar,United Arab Emirates,193,10,9.0,5.0,0.0,insufficient evidence,too few pressure balls
+bowler,32401,Akhil Kumar,Canada,24,2,9.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,38044,Mahli Beardman,Australia,26,1,9.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,58727,Abhinandan Singh,Royal Challengers Bengaluru,60,3,9.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,1556,David Payne,Sunrisers Hyderabad,31,2,8.0,2.0,1.0,insufficient evidence,too few pressure balls
+bowler,2863,Sandeep Warrier,Gujarat Titans,70,5,8.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,3489,Salman Agha,Pakistan,111,13,8.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,3775,Sompal Kami,Nepal,47,3,8.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,3839,Amjad Mahboob,Singapore,56,3,8.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,7702,Chamindu Wickramasinghe,Sri Lanka,43,3,8.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,20175,Nandan Yadav,Nepal,8,1,8.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,20989,Vivrant Sharma,Sunrisers Hyderabad,21,2,8.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,24767,Ripon Mondol,Bangladesh,36,2,8.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,29833,Bashir Ahmad,Afghanistan,20,1,8.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,34969,Manav Suthar,Gujarat Titans,50,4,8.0,2.0,1.0,insufficient evidence,too few pressure balls
+bowler,1028,Varun Aaron,Gujarat Titans,33,2,7.0,2.0,1.0,insufficient evidence,too few pressure balls
+bowler,2877,Vijay Shankar,Gujarat Titans,10,2,7.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,4460,Jeffrey Vandersay,Sri Lanka,122,5,7.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,6449,Wafadar Momand,Afghanistan,19,1,7.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,15279,Shiraz Khan,Kuwait,68,3,7.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,19781,Mitchell Owen,Australia,33,4,7.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,22565,Muhammad Waseem,United Arab Emirates,19,2,7.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,26519,Janith Liyanage,Sri Lanka,8,1,7.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,27364,Simranjeet Kang,United Arab Emirates,58,3,7.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,1699,Suryakumar Yadav,India,6,1,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,3543,Shahidullah Kamal,Afghanistan,31,4,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,4821,Mahipal Lomror,Royal Challengers Bengaluru,33,5,6.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,4854,Rachin Ravindra,"Chennai Super Kings, New Zealand",136,12,6.0,1.0,0.08823529411764706,insufficient evidence,too few pressure balls
+bowler,4904,Kamindu Mendis,"Sri Lanka, Sunrisers Hyderabad",154,14,6.0,1.0,0.2727272727272727,insufficient evidence,too few pressure balls
+bowler,6664,Dion Myers,Zimbabwe,14,2,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,6772,Chetan Sakariya,"Delhi Capitals, Kolkata Knight Riders",145,6,6.0,2.0,1.0,insufficient evidence,too few pressure balls
+bowler,7120,Rohit Paudel,Nepal,43,3,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,7709,Ainsley Ndlovu,Zimbabwe,68,5,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,8093,Nikhil Chaudhary,Australia,44,3,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,20006,Ramandeep Singh,"India, Kolkata Knight Riders, Mumbai Indians",89,7,6.0,2.0,0.7415730337078652,insufficient evidence,too few pressure balls
+bowler,20229,Mohammad Ali,Pakistan,44,3,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,20702,Tristan Stubbs,"Delhi Capitals, Mumbai Indians, South Africa",50,7,6.0,1.0,0.74,insufficient evidence,too few pressure balls
+bowler,24473,Sonny Baker,England,98,4,6.0,3.0,0.0,insufficient evidence,too few pressure balls
+bowler,26916,Yasir Mohammad,United States Of America,48,3,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,27390,Matiullah Khan,United Arab Emirates,67,3,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,28911,John Masara,Zimbabwe,6,1,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,29558,Muhammad Arfan,United Arab Emirates,49,2,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,48557,Vignesh Puthur,Mumbai Indians,73,5,6.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,48616,Abdul Saqlain,Bangladesh,71,3,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,54404,Benjamin Ito,Japan,6,1,6.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,507,Mohammad Mahmudullah,Bangladesh,41,5,5.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,4876,Milton Shumba,Zimbabwe,12,2,5.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,24381,Shariz Ahmad,Netherlands,36,3,5.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,57747,Charlie Cassell,Scotland,6,1,5.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,4111,Khushdil Shah,Pakistan,63,6,4.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,4708,Rinku Singh,India,10,2,4.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,4790,Lutho Sipamla,South Africa,113,5,4.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,6188,Simi Singh,Ireland,12,2,4.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,6460,Ayush Badoni,Lucknow Super Giants,41,8,4.0,2.0,1.0,insufficient evidence,too few pressure balls
+bowler,6797,Dominic Drakes,West Indies,131,7,4.0,2.0,0.0,insufficient evidence,too few pressure balls
+bowler,24978,Jack Jarvis,Scotland,22,2,4.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,3595,Andy McBrine,Ireland,74,6,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,6162,Kulwant Khejroliya,"Gujarat Titans, Kolkata Knight Riders",62,4,3.0,2.0,1.0,insufficient evidence,too few pressure balls
+bowler,6926,Matty Potts,England,33,1,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,7897,Namboori Tilak Varma,"India, Mumbai Indians",62,10,3.0,1.0,0.3709677419354839,insufficient evidence,too few pressure balls
+bowler,43917,Krish Bhagat,Mumbai Indians,36,3,3.0,2.0,1.0,insufficient evidence,too few pressure balls
+bowler,45966,Prashant Veer,Chennai Super Kings,12,1,3.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,50062,Nqobani Mokoena,South Africa,67,3,3.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,3647,Shreyas Iyer,"India, Kolkata Knight Riders",8,2,2.0,1.0,0.75,insufficient evidence,too few pressure balls
+bowler,6591,KM Asif,Rajasthan Royals,91,4,2.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,7008,Gus Atkinson,England,67,4,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,8389,Jayden Lennox,New Zealand,18,1,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,8719,Aryan Lakra,United Arab Emirates,18,1,2.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,31227,Vidhwath Kaverappa,Punjab Kings,24,1,2.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,32244,Tripurana Vijay,Delhi Capitals,12,1,2.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,45381,PV Satyanarayan Raju,Mumbai Indians,29,2,2.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,4824,Zeeshan Ansari,Sunrisers Hyderabad,209,10,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,5866,Patrick Kruger,South Africa,127,7,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,6025,Henry Shipley,New Zealand,83,4,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,6466,Atharwa Taide,Punjab Kings,1,1,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,6819,Yashasvi Jaiswal,"India, Rajasthan Royals",7,2,1.0,1.0,0.14285714285714285,insufficient evidence,too few pressure balls
+bowler,7002,Nicholas Kirton,Canada,6,1,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,8726,Alishan Sharafu,United Arab Emirates,1,1,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,20894,Aman Khan,Kolkata Knight Riders,6,1,1.0,1.0,1.0,insufficient evidence,too few pressure balls
+bowler,21780,Ernest Masuku,Zimbabwe,63,3,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,25507,Edson Silva,Kuwait,18,2,1.0,1.0,0.0,insufficient evidence,too few pressure balls
+bowler,47,Virat Kohli,India,6,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,143,Dinesh Karthik,India,6,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,147,Pradeep Sangwan,Gujarat Titans,56,3,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,232,Tom Cooper,Netherlands,12,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,768,Reeza Hendricks,South Africa,24,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,820,Nathan Coulter Nile,Rajasthan Royals,20,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,1045,David Wiese,Kolkata Knight Riders,18,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,2210,Sabbir Rahman,Bangladesh,6,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,2321,Olly Stone,England,25,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,2351,Danushka Gunathilaka,Sri Lanka,5,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,2367,Travis Head,Sunrisers Hyderabad,16,2,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,2418,Justin Greaves,West Indies,6,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,2439,Akila Dananjaya,Sri Lanka,37,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,2531,Joe Root,Rajasthan Royals,12,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,2852,Jagadeesha Suchith,Sunrisers Hyderabad,115,5,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,2872,Siddarth Kaul,Royal Challengers Bengaluru,24,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,3038,Hussain Talat,Pakistan,39,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,3280,Nazmul Hossain Shanto,Bangladesh,6,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,3320,Jayant Yadav,Gujarat Titans,24,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,3374,Mark Chapman,New Zealand,6,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,3469,Shreyas Gopal,"Mumbai Indians, Sunrisers Hyderabad",60,4,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,3622,Hayden Walsh,West Indies,189,9,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,3637,Dayyaan Galiem,South Africa,27,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,3673,Ramesh Mendis,Sri Lanka,21,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,3782,M Shahrukh Khan,Gujarat Titans,18,3,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,3876,Sufyan Mehmood,Oman,6,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,3995,Donald Tiripano,Zimbabwe,35,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,4117,Ishan Kishan,Sunrisers Hyderabad,1,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,4221,Chris Green,Australia,24,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,4604,Mitchell Swepson,Australia,12,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,4826,George Garton,England,25,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,4870,Kundai Matigimu,Zimbabwe,26,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,4882,Kushal Bhurtel,Nepal,50,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,5231,Oshane Thomas,West Indies,24,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,5665,Sanjay Yadav,Mumbai Indians,14,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,5882,Afif Hossain,Bangladesh,32,5,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,6166,Jack Edwards,Australia,12,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,6180,Praveen Jayawickrama,Sri Lanka,48,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,6285,Kamlesh Nagarkoti,Delhi Capitals,13,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,6297,Matthew Parkinson,England,40,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,6359,Raghu Sharma,Mumbai Indians,90,5,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,6396,Tim David,Royal Challengers Bengaluru,6,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,6574,Alick Athanaze,West Indies,7,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,6651,Towhid Hridoy,Bangladesh,2,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,6697,Shams Mulani,Mumbai Indians,33,2,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,6725,Sherfane Rutherford,West Indies,21,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,6984,Saqib Zulfiqar,Netherlands,12,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,7049,Kamil Mishara,Sri Lanka,6,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,7059,Nehal Wadhera,"Mumbai Indians, Punjab Kings",17,2,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,7269,Sushant Mishra,Rajasthan Royals,47,2,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,7446,Abdul Samad,"Lucknow Super Giants, Sunrisers Hyderabad",9,3,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,7625,Suryansh Shedge,"India, Punjab Kings",65,4,0.0,0.0,0.2923076923076923,insufficient evidence,too few pressure balls
+bowler,7704,Pavan Rathnayake,Sri Lanka,12,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,7710,Brandon Glover,Netherlands,19,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,7912,Vikramjit Singh,Netherlands,46,4,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,7916,Karima Gore,West Indies,20,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,7928,Vinoth Baskaran,Singapore,65,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,7929,Aryaman Sunil Uchil,Singapore,45,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,8611,Adithya Ashok,New Zealand,25,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,8623,Kristian Clarke,New Zealand,24,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,8723,Mohammed Faraazuddin,United Arab Emirates,48,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,8727,Sanchit Sharma,United Arab Emirates,6,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,8763,Duan Jansen,Mumbai Indians,28,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,17430,Conor Olphert,Ireland,37,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,17918,Abdullah Tarakhail,Afghanistan,21,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,17919,Mohammad Saleem Safi,Afghanistan,22,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,19307,Tharindu Rathnayake,Sri Lanka,26,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,19315,Vijayakanth Viyaskanth,"Sri Lanka, Sunrisers Hyderabad",108,5,0.0,0.0,0.5555555555555556,insufficient evidence,too few pressure balls
+bowler,19754,Raja Khan,United Arab Emirates,24,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,19892,Theo van Woerkom,Ireland,7,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,20310,Ahmed Daniyal,Pakistan,44,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,20316,Shahab Alam,Nepal,13,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,22187,Ryan Klein,Netherlands,24,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,24779,Ijaz Ahmadzai,Afghanistan,7,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,24887,Innocent Kaia,Zimbabwe,6,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,25213,Dewald Brevis,Mumbai Indians,3,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,27373,Muhammad Farooq,United Arab Emirates,19,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,27504,Dushan Hemantha,Sri Lanka,70,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,27970,Gurnoor Brar,Punjab Kings,21,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,28908,Vincent Masekesa,Zimbabwe,19,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,29075,Aadil Ansari,Nepal,38,2,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,31513,Ethan Dsouza,United Arab Emirates,6,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,31835,Akshay Roopak Puri,Singapore,60,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,33440,Adwitya Bhargava,Singapore,13,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,34527,Jasper John Davidson,Scotland,6,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,35072,Ramakrishna Ghosh,Chennai Super Kings,18,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,35102,Zikria Islam,Oman,19,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,36551,Zishan Motara,West Indies,6,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,36983,Mohit Rathee,Punjab Kings,12,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,36984,Raghav Goyal,Mumbai Indians,24,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,37731,Musheer Khan,Punjab Kings,12,1,0.0,0.0,1.0,insufficient evidence,too few pressure balls
+bowler,46929,Dian Forrester,South Africa,6,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,47371,Zuhaid Zubair,United Arab Emirates,19,1,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,52338,Usman Tariq,Pakistan,66,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls
+bowler,60609,Navin Bidaisee,West Indies,53,3,0.0,0.0,0.0,insufficient evidence,too few pressure balls

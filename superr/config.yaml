@@ -1,0 +1,264 @@
+# SupeRR Selector S2 - Round 1. Single source of truth for paths, labels, thresholds, seeds.
+# Phase 1 scope: only data-loading and data-semantics settings live here so far.
+# Modelling thresholds/weights are added phase by phase, after sign-off in DECISIONS.md.
+
+seed: 42
+
+paths:
+  data_dir: "data/raw"            # relative to the project root; the six competition CSVs go here (not committed)
+  outputs_dir: "outputs"
+
+files:
+  ball_by_ball: "ball_by_ball.csv"
+  matches: "matches.csv"
+  competitions: "competitions.csv"
+  teams: "teams.csv"
+  playing_eleven: "playing_eleven.csv"
+  player_mapping: "competition_team_player_mapping.csv"
+
+# How the raw ball-by-ball labels map onto cricket concepts (verified in outputs/data_audit.md).
+ball_semantics:
+  wide_label: "wide"
+  noball_labels: ["Overstep", "other"]      # both re-bowled and both carry a 1-run penalty
+  bye_labels: ["byes", "legbyes"]
+  penalty_label: "Penalty"
+  # Dismissals credited to the bowler. Everything else (RunOut, Retire Out, Obstructing) is not.
+  bowler_wicket_types: ["Caught", "Bowled", "LBW", "Stump", "Hit Wicket"]
+  regular_innings: [1, 2]                   # innings 3 and 4 are super overs
+  balls_per_over: 6
+  scheduled_overs: 20
+
+competitions:
+  ipl_name_prefix: "IPL"
+  t20i_format: "T20I"
+  # T20I opposition tiers (Phase 4): the eight strongest full members; the other four full members; associates.
+  top_tier: [India, Pakistan, Australia, England, New Zealand, South Africa, West Indies, Sri Lanka]
+  # ICC full members; any other T20I side is treated as an associate when profiling opposition.
+  full_members:
+    - India
+    - Pakistan
+    - West Indies
+    - New Zealand
+    - Bangladesh
+    - England
+    - Sri Lanka
+    - Australia
+    - South Africa
+    - Zimbabwe
+    - Afghanistan
+    - Ireland
+
+# ---------------------------------------------------------------- Phase 2: pressure
+scope:
+  comp_types: ["IPL", "T20I"]          # D3: A-team events excluded from ratings and training
+
+impact_player:                         # used only by the ablation that tests the flag (dropped, D15)
+  comp_type: "IPL"
+  first_year: 2023
+
+match_state:
+  max_runs_grid: 330                   # upper bound of the runs axis in the DP tables
+  result_tied_token: "tied"
+
+# Delivery outcome classes used by the outcome model and the DP: [name, team runs, ball consumed, wicket]
+outcome_classes:
+  - ["L0", 0, 1, 0]
+  - ["L1", 1, 1, 0]
+  - ["L2", 2, 1, 0]
+  - ["L3", 3, 1, 0]
+  - ["L4", 4, 1, 0]
+  - ["L6", 6, 1, 0]
+  - ["LW0", 0, 1, 1]
+  - ["LW1", 1, 1, 1]
+  - ["X1", 1, 0, 0]
+  - ["X2", 2, 0, 0]
+  - ["X3", 3, 0, 0]
+  - ["X5", 5, 0, 0]
+  - ["X7", 7, 0, 0]
+
+models:
+  n_jobs: 4
+  prob_clip: 1.0e-6
+  outcome:                             # LightGBM multiclass, league-average outcome likelihoods
+    n_estimators: 80
+    learning_rate: 0.1
+    num_leaves: 15
+    min_child_samples: 300
+    subsample: 0.8
+    colsample_bytree: 1.0
+  lightgbm:
+    n_estimators: 300
+    learning_rate: 0.05
+    num_leaves: 15
+    min_child_samples: 200
+    subsample: 0.8
+    colsample_bytree: 0.8
+  xgboost:
+    n_estimators: 300
+    learning_rate: 0.05
+    max_depth: 4
+    min_child_weight: 50
+    subsample: 0.8
+    colsample_bytree: 0.8
+  logistic:
+    C: 1.0
+    max_iter: 2000
+  calibration_bins: 10
+  late_chase_balls: [30, 12]           # closing-overs slices used in the model comparison
+  bootstrap_reps: 2000                 # match resamples for log-loss gaps
+  smoothness_sample: 20000             # balls sampled for the leverage-roughness check
+
+pressure:
+  high_pressure_share: 0.25            # top 25% of balls by Leverage Index (DECISIONS.md D11)
+  wp_model: "dp_platt"                 # DP + recalibration, chosen on held-out evidence (DECISIONS.md D13)
+  high_pressure_flag: "hp_common"      # one cut for the whole match (D16); "hp_within_innings" is the Phase 6 check
+  exposure: {min_balls: 300, min_team_matches: 20}   # who is included in the exposure tables
+  phases:                              # bowling phases by over number
+    powerplay: [1, 6]
+    middle: [7, 15]
+    death: [16, 20]
+  heatmap_min_balls: 30
+  reference_context: {year: 2024, comp_type: "IPL"}   # conditions used for hand-written example states
+  slice: {balls_remaining: 30, wickets_in_hand: 6, max_runs: 90}
+  example_situations:                  # x = runs required (chase) or score (first innings)
+    - {label: "Chase: need 60 off 12 balls, 8 down", innings: 2, balls_remaining: 12, x: 60, wickets_in_hand: 2}
+    - {label: "Chase: need 9 off 6 balls, 5 down", innings: 2, balls_remaining: 6, x: 9, wickets_in_hand: 5}
+    - {label: "Chase: need 20 off 30 balls, 9 down", innings: 2, balls_remaining: 30, x: 20, wickets_in_hand: 1}
+    - {label: "First innings: 25 for 4 after 5 overs", innings: 1, balls_remaining: 90, x: 25, wickets_in_hand: 6}
+    - {label: "First innings: 190 for 2 after 17 overs", innings: 1, balls_remaining: 18, x: 190, wickets_in_hand: 8}
+
+# ---------------------------------------------------------------- Phase 3: run value
+value:
+  powerplay_share: 0.3                 # fielding restrictions cover the first 30% of an innings (6 of 20 overs)
+  uncharged_dismissals: ["Retire Out"] # a tactical retirement is charged to nobody (D22)
+  # LightGBM settings for the expectation models. Chosen from five options on held-out seasons
+  # (DECISIONS.md D21): larger models were over-confident at the extremes, wickets most of all.
+  expected_runs:
+    n_estimators: 150
+    learning_rate: 0.05
+    num_leaves: 7
+    min_child_samples: 500
+    subsample: 0.8
+    colsample_bytree: 0.8
+  expected_wickets:
+    n_estimators: 100
+    learning_rate: 0.05
+    num_leaves: 4
+    min_child_samples: 1000
+    subsample: 0.8
+    colsample_bytree: 0.8
+  settledness_features: ["striker_balls_faced", "free_hit"]   # dropped in the ablation that tests them
+  fingerprint_min_match_share: 0.01    # a match-constant feature must be shared by at least 1% of matches
+  min_wp_per_run: 0.0005               # below 0.05% win probability per run the match is settled: use the fallback cost
+  fallback_min_cell: 30                # first-innings balls needed for a cell of the fallback table
+  cost_cap_quantile: 0.99              # wicket cost is capped at this quantile of the reliable (calibrated) ratios
+  calibration_min_cell: 20             # non-wicket balls needed to use the exact ball (not the over) in the runs-lost baseline
+  event_study_bands: [2, 5, 10, 15, 20]   # overs-left bands for the independent check of the wicket cost
+  min_balls_overall: 500               # balls needed to appear in the overall top/bottom tables
+  extremes_shown: 10
+  baseline_min_cell_balls: 30          # ordinary balls needed in a cell of the matched own baseline
+  reliability_thresholds: [100, 200, 300]
+  cost_examples:                       # x = runs required (chase) or score (first innings); reference context
+    - {label: "Chase, early: need 180 off 114, 10 in hand", innings: 2, balls_remaining: 114, x: 180, wickets_in_hand: 10}
+    - {label: "Chase, early: need 180 off 114, 8 in hand", innings: 2, balls_remaining: 114, x: 180, wickets_in_hand: 8}
+    - {label: "Chase, middle: need 90 off 60, 7 in hand", innings: 2, balls_remaining: 60, x: 90, wickets_in_hand: 7}
+    - {label: "Chase, middle: need 90 off 60, 4 in hand", innings: 2, balls_remaining: 60, x: 90, wickets_in_hand: 4}
+    - {label: "Chase, last 2 overs: need 20 off 12, 6 in hand", innings: 2, balls_remaining: 12, x: 20, wickets_in_hand: 6}
+    - {label: "Chase, last 2 overs: need 20 off 12, 2 in hand", innings: 2, balls_remaining: 12, x: 20, wickets_in_hand: 2}
+    - {label: "Chase, last 2 overs: need 20 off 12, last pair", innings: 2, balls_remaining: 12, x: 20, wickets_in_hand: 1}
+    - {label: "Chase, last over: need 8 off 6, 5 in hand", innings: 2, balls_remaining: 6, x: 8, wickets_in_hand: 5}
+    - {label: "Chase, last over: need 5 off 2, 5 in hand", innings: 2, balls_remaining: 2, x: 5, wickets_in_hand: 5}
+    - {label: "Chase, last ball: need 3 off 1, 5 in hand", innings: 2, balls_remaining: 1, x: 3, wickets_in_hand: 5}
+    - {label: "Chase, settled (lost): need 60 off 12, 2 in hand", innings: 2, balls_remaining: 12, x: 60, wickets_in_hand: 2}
+    - {label: "Chase, settled (won): need 5 off 30, 8 in hand", innings: 2, balls_remaining: 30, x: 5, wickets_in_hand: 8}
+    - {label: "First innings: 10 for 0 after 1 over", innings: 1, balls_remaining: 114, x: 10, wickets_in_hand: 10}
+    - {label: "First innings: 50 for 2 after 6 overs", innings: 1, balls_remaining: 84, x: 50, wickets_in_hand: 8}
+    - {label: "First innings: 50 for 5 after 8 overs", innings: 1, balls_remaining: 72, x: 50, wickets_in_hand: 5}
+    - {label: "First innings: 90 for 3 after 12 overs", innings: 1, balls_remaining: 48, x: 90, wickets_in_hand: 7}
+    - {label: "First innings: 150 for 4 after 17 overs", innings: 1, balls_remaining: 18, x: 150, wickets_in_hand: 6}
+    - {label: "First innings: 150 for 8 after 17 overs", innings: 1, balls_remaining: 18, x: 150, wickets_in_hand: 2}
+    - {label: "First innings: 180 for 5, last over", innings: 1, balls_remaining: 6, x: 180, wickets_in_hand: 5}
+    - {label: "First innings: 180 for 5, last ball", innings: 1, balls_remaining: 1, x: 180, wickets_in_hand: 5}
+
+# ---------------------------------------------------------------- Phase 4: fair comparisons
+opposition:
+  cv_folds: 5                          # whole matches are assigned to folds at random
+  split_groups_by_ipl: true            # separate each T20I tier's IPL-linked players from its T20I-only players
+  penalty_grid: [30, 100, 300, 1000, 3000, 10000, 30000]   # ridge penalty on player effects, in balls
+  same_player_min_balls: 150           # balls against each tier for the same-player test
+  same_player_comparisons:             # [tier A, tier B]: gap = value against B minus against A
+    - ["IPL", "T20I top-8"]
+    - ["T20I top-8", "T20I other full member"]
+    - ["T20I top-8", "T20I associate"]
+  test_cases: [6523, 2490, 5837, 786, 4409, 7270, 3275, 6726, 2933]   # Muzarabani, Nawaz, Mahedi, five death bowlers, Bumrah
+eligibility:
+  min_pressure_balls: 100              # D30
+  min_pressure_matches: 10
+
+# ---------------------------------------------------------------- Phase 5: ratings
+rating:
+  cap_quantile: 0.99                   # LI cap option = this quantile of LI over all scored balls
+  weightings: [uniform, cap, sqrt]     # candidate weights on pressure balls, simplest first (D33)
+  consistency_min_pressure_balls: 6    # a match counts for consistency only with this many pressure balls
+  posterior_draws: 4000                # draws from each player's empirical-Bayes posterior (intervals, P(top 10))
+  split_reps: 200                      # random half-splits of matches for split-half reliability
+  truncation_reps: 200                 # equal-ball volume check
+  interval: [0.05, 0.95]
+  top_n: 10
+  show_next: 5
+  split_check_players: 12              # highest-volume T20I-only players shown in the tier-split check
+  split_check_named: [2485, 3024]      # plus these by id (Babar Azam, Mohammad Rizwan); others added in code by name
+
+# ---------------------------------------------------------------- Phase 6: robustness
+robustness:
+  tie_break_zone: 15                   # ranks 1-15 of option A are checked for indistinguishable neighbours
+  tie_break_max_p_gap: 0.15            # ... overlapping 90% intervals AND P(top 10) within this
+  knockout_multiplier: 1.25
+  stability_cuts: [0.8, 0.5]           # share of variants in the top 10: stable / moderately stable / fragile
+  overall_top_checked: 5               # overall top-5 players missing the final top 10 join the absences table
+  absences:                            # by player_id: Bumrah, Rashid Khan, Russell, Kohli, Patidar
+    batter: [2933, 4722, 1318, 47, 5039]
+    bowler: [2933, 4722, 1318, 47, 5039]
+  evidence_cards: {batter: [50284]}    # Vaibhav Sooryavanshi
+
+# ---------------------------------------------------------------- Phase 7: submission files and report
+report:
+  framing_min_b_rank: 30               # option B rank beyond this -> label "Pressure-specific", else "All-round" (D38)
+  short_record_pressure_balls: 200     # fewer pressure balls than this -> "short record, wide interval" note
+  dir: "report"                        # under outputs/: methodology_report.md, figures/, the cross-check result
+  figure_width_in: 6.5                 # A4 text width
+  figure_dpi: 300
+  exposure_labels: ["India", "Kolkata Knight Riders", "Mumbai Indians", "Australia"]
+  pdf:                                 # Phase 9: the submission PDF (src/report/build_pdf.py)
+    file_name: "SupeRR_Selector_Methodology_Report.pdf"
+    subtitle: "SupeRR Selector Season 2, Round 1 · Methodology report"
+    date: "17 November 2026"
+    running_header: "Who performs when it matters? · SupeRR Selector S2 methodology report"
+    accent: "#1c5cab"
+    image_dpi: 200                     # figures are downsampled to this resolution at text width inside the PDF
+    timeout_s: 180
+    browsers:                          # first one found prints the PDF (headless Chromium)
+      - "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe"
+      - "C:/Program Files/Microsoft/Edge/Application/msedge.exe"
+      - "C:/Program Files/Google/Chrome/Application/chrome.exe"
+      - "chromium"
+      - "google-chrome"
+      - "msedge"
+  overall_v_pressure_labels:           # player_ids labelled on the overall-v-pressure chart (the largest moves)
+    batter: [1318, 5039, 6931, 6819]   # Russell, Patidar, Nissanka, Jaiswal
+    bowler: [1758, 2417, 7967, 6523]   # Cummins, Hosein, Noor Ahmad, Muzarabani
+
+# Transparent companion index (explanation + Phase 6 alternative definition). Each part is 0..1.
+rule_index:
+  weights: {rate: 0.4, wickets: 0.3, time: 0.3}
+  chase_rate_low: 0.75                 # required rate / environment rate at which rate stress starts
+  chase_rate_high: 1.75                # ...and at which it saturates
+  chase_dead_rate: 2.5                 # above this the chase is treated as lost (index 0)
+  chase_won_runs_per_ball: 0.5         # below this many runs per ball with 6+ wickets: treated as won
+  first_rate_span: 0.5                 # scoring this fraction below environment pace = full rate stress
+  wickets_span: 4                      # wickets lost beyond the typical number for the stage = full stress
+
+# Features tested as ablations only (not part of the definition unless they earn it)
+ablation:
+  elo_k: 20
+  venue_shrink: 5

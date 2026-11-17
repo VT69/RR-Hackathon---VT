@@ -1,0 +1,455 @@
+{
+  "inventory": {
+    "balls": {
+      "rows": 200999,
+      "cols": 33,
+      "duplicate_rows": 0,
+      "null_counts": {
+        "dismissal_type_id": 190118,
+        "dismissal_type": 190118,
+        "dismissed_player_id": 190107,
+        "extras_type": 189167,
+        "stroke": 6158,
+        "delivery_style": 391,
+        "over_or_around": 407
+      }
+    },
+    "matches": {
+      "rows": 883,
+      "cols": 22,
+      "duplicate_rows": 0,
+      "null_counts": {
+        "home_team_captain_id": 44,
+        "away_team_captain_id": 45,
+        "toss_win_team_id": 15,
+        "toss_opted": 15,
+        "first_inn_revised_overs": 858,
+        "second_inn_revised_overs": 858,
+        "revised_target": 860,
+        "win_team_id": 41
+      }
+    },
+    "competitions": {
+      "rows": 141,
+      "cols": 4,
+      "duplicate_rows": 0,
+      "null_counts": {}
+    },
+    "teams": {
+      "rows": 353,
+      "cols": 3,
+      "duplicate_rows": 0,
+      "null_counts": {}
+    },
+    "playing_eleven": {
+      "rows": 28381,
+      "cols": 9,
+      "duplicate_rows": 0,
+      "null_counts": {
+        "batting_order": 8678,
+        "is_captain": 8667,
+        "is_wk": 8667
+      }
+    },
+    "player_mapping": {
+      "rows": 6413,
+      "cols": 6,
+      "duplicate_rows": 0,
+      "null_counts": {}
+    }
+  },
+  "keys": {
+    "match_id_unique": true,
+    "ball_key_duplicates": 0,
+    "innings_with_ball_gaps": 0,
+    "file_already_in_ball_order": true,
+    "matches_total": 883,
+    "matches_with_balls": 867,
+    "ball_matches_missing_from_matches": 0,
+    "matches_missing_from_xi": [
+      36210,
+      41503,
+      48513
+    ],
+    "ball_player_ids_missing_from_mapping": 0,
+    "xi_player_ids_missing_from_mapping": 0,
+    "xi_duplicate_match_player_rows": 40,
+    "xi_matches_with_duplicates": [
+      13613,
+      21176,
+      28962
+    ]
+  },
+  "coverage": {
+    "date_range": [
+      "2022-01-22",
+      "2026-11-01"
+    ],
+    "by_type_year": [
+      {
+        "comp_type": "IPL",
+        "year": 2022,
+        "matches": 74,
+        "balls": 17909
+      },
+      {
+        "comp_type": "IPL",
+        "year": 2023,
+        "matches": 74,
+        "balls": 17863
+      },
+      {
+        "comp_type": "IPL",
+        "year": 2024,
+        "matches": 74,
+        "balls": 17103
+      },
+      {
+        "comp_type": "IPL",
+        "year": 2025,
+        "matches": 75,
+        "balls": 17285
+      },
+      {
+        "comp_type": "IPL",
+        "year": 2026,
+        "matches": 74,
+        "balls": 17527
+      },
+      {
+        "comp_type": "OtherT20",
+        "year": 2024,
+        "matches": 15,
+        "balls": 3519
+      },
+      {
+        "comp_type": "OtherT20",
+        "year": 2025,
+        "matches": 15,
+        "balls": 3466
+      },
+      {
+        "comp_type": "T20I",
+        "year": 2022,
+        "matches": 106,
+        "balls": 24556
+      },
+      {
+        "comp_type": "T20I",
+        "year": 2023,
+        "matches": 66,
+        "balls": 15125
+      },
+      {
+        "comp_type": "T20I",
+        "year": 2024,
+        "matches": 111,
+        "balls": 24173
+      },
+      {
+        "comp_type": "T20I",
+        "year": 2025,
+        "matches": 127,
+        "balls": 26914
+      },
+      {
+        "comp_type": "T20I",
+        "year": 2026,
+        "matches": 72,
+        "balls": 15559
+      }
+    ],
+    "other_t20_competitions": [
+      "Asia Cup Rising Stars 2025",
+      "Mens T20 Emerging Teams Asia Cup 2024"
+    ],
+    "world_cup_competitions": [],
+    "t20i_opposition_mix": [
+      {
+        "opposition_mix": "associate_v_associate",
+        "matches": 15,
+        "balls": 3388
+      },
+      {
+        "opposition_mix": "full_v_associate",
+        "matches": 39,
+        "balls": 8562
+      },
+      {
+        "opposition_mix": "full_v_full",
+        "matches": 428,
+        "balls": 94377
+      }
+    ]
+  },
+  "ball_semantics": {
+    "extras_type_counts": {
+      "none": 189167,
+      "wide": 7714,
+      "legbyes": 2748,
+      "Overstep": 576,
+      "byes": 529,
+      "other": 264,
+      "Penalty": 1
+    },
+    "completed_overs": 30626,
+    "completed_overs_with_6_legal": 30622,
+    "completed_overs_not_6": [
+      {
+        "match_id": 14130,
+        "innings": 1,
+        "overid": 14,
+        "is_legal": 5
+      },
+      {
+        "match_id": 14130,
+        "innings": 2,
+        "overid": 14,
+        "is_legal": 5
+      },
+      {
+        "match_id": 14164,
+        "innings": 1,
+        "overid": 14,
+        "is_legal": 5
+      },
+      {
+        "match_id": 41509,
+        "innings": 1,
+        "overid": 12,
+        "is_legal": 7
+      }
+    ],
+    "wides_with_bat_runs": 0,
+    "byes_with_bat_runs": 1,
+    "untyped_rows_with_extras": 2,
+    "dismissal_type_counts": {
+      "Caught": 7557,
+      "Bowled": 1775,
+      "LBW": 709,
+      "RunOut": 600,
+      "Stump": 214,
+      "Hit Wicket": 17,
+      "Retire Out": 6,
+      "Obstracting the field": 2,
+      "Obstructing the field": 1
+    },
+    "dismissed_who_by_type": [
+      {
+        "dismissal_type": "Bowled",
+        "non_striker": 0,
+        "striker": 1775
+      },
+      {
+        "dismissal_type": "Caught",
+        "non_striker": 0,
+        "striker": 7557
+      },
+      {
+        "dismissal_type": "Hit Wicket",
+        "non_striker": 0,
+        "striker": 17
+      },
+      {
+        "dismissal_type": "LBW",
+        "non_striker": 0,
+        "striker": 709
+      },
+      {
+        "dismissal_type": "Obstracting the field",
+        "non_striker": 1,
+        "striker": 1
+      },
+      {
+        "dismissal_type": "Obstructing the field",
+        "non_striker": 0,
+        "striker": 1
+      },
+      {
+        "dismissal_type": "Retire Out",
+        "non_striker": 2,
+        "striker": 3
+      },
+      {
+        "dismissal_type": "RunOut",
+        "non_striker": 271,
+        "striker": 329
+      },
+      {
+        "dismissal_type": "Stump",
+        "non_striker": 0,
+        "striker": 214
+      },
+      {
+        "dismissal_type": "retired_hurt",
+        "non_striker": 3,
+        "striker": 9
+      }
+    ],
+    "wicket_flag_without_dismissed_id": 1,
+    "retired_hurt_rows": 12,
+    "wickets_on_wides": 40,
+    "wickets_on_noballs": 8,
+    "non_boundary_fours_or_sixes": 23,
+    "overs_with_two_bowlers": 35,
+    "bowler_innings_over_24_legal_balls": 1,
+    "bowl_speed_missing_share": 0.3873750615674705
+  },
+  "reconciliation": {
+    "run_margin_matches": 399,
+    "run_margin_exact": 398,
+    "run_margin_mismatch_ids": [
+      14130
+    ],
+    "wicket_margin_matches": 406,
+    "wicket_margin_exact": 405,
+    "wicket_margin_mismatch_ids": [
+      20190
+    ]
+  },
+  "match_status": {
+    "no_ball_data": 16,
+    "first_innings_only": 22,
+    "two_innings_no_winner_ids": [
+      17765,
+      18532,
+      40737
+    ],
+    "tied_after_regular_innings_ids": [
+      13613,
+      21176,
+      28962,
+      34429,
+      40725,
+      45512,
+      48027,
+      48029,
+      50359
+    ],
+    "tied_with_super_over_balls_ids": [
+      34429,
+      40725,
+      45512,
+      48027,
+      48029,
+      50359
+    ],
+    "any_revised_field_or_dls_label": 38,
+    "with_revised_target": 23,
+    "dls_label_but_no_revised_target_ids": [
+      20182,
+      23674,
+      24822,
+      28334
+    ],
+    "reduced_overs_unflagged_ids": [
+      15795,
+      31278,
+      48514
+    ],
+    "completed_two_innings_with_winner": 842,
+    "knockout_matches": 31
+  },
+  "player_identity": {
+    "registry_player_ids": 1217,
+    "registry_distinct_names": 1210,
+    "ball_data_player_ids": 959,
+    "ids_with_multiple_names_in_registry": 0,
+    "ids_with_multiple_names_in_balls": 0,
+    "ball_name_differs_from_registry": [
+      {
+        "player_id": 4458,
+        "name": "Aneurin Donald",
+        "player_name": "AHT Donald"
+      }
+    ],
+    "names_shared_by_two_ids": [
+      {
+        "player_id": 7446,
+        "player_name": "Abdul Samad"
+      },
+      {
+        "player_id": 6922,
+        "player_name": "Abdul Samad"
+      },
+      {
+        "player_id": 39479,
+        "player_name": "Bashir Ahmad"
+      },
+      {
+        "player_id": 29833,
+        "player_name": "Bashir Ahmad"
+      },
+      {
+        "player_id": 8638,
+        "player_name": "Basil Hameed"
+      },
+      {
+        "player_id": 39444,
+        "player_name": "Basil Hameed"
+      },
+      {
+        "player_id": 7338,
+        "player_name": "Haider Ali"
+      },
+      {
+        "player_id": 28756,
+        "player_name": "Haider Ali"
+      },
+      {
+        "player_id": 3083,
+        "player_name": "Mohammad Ali"
+      },
+      {
+        "player_id": 20229,
+        "player_name": "Mohammad Ali"
+      },
+      {
+        "player_id": 27373,
+        "player_name": "Muhammad Farooq"
+      },
+      {
+        "player_id": 28978,
+        "player_name": "Muhammad Farooq"
+      },
+      {
+        "player_id": 4722,
+        "player_name": "Rashid Khan"
+      },
+      {
+        "player_id": 20172,
+        "player_name": "Rashid Khan"
+      }
+    ],
+    "batters_seen_in_both_ipl_and_t20i": 182
+  },
+  "playing_eleven": {
+    "impact_subs": [
+      {
+        "comp_type": "IPL",
+        "year": 2023,
+        "is_impact": 139,
+        "is_impact_off": 139
+      },
+      {
+        "comp_type": "IPL",
+        "year": 2024,
+        "is_impact": 136,
+        "is_impact_off": 136
+      },
+      {
+        "comp_type": "IPL",
+        "year": 2025,
+        "is_impact": 142,
+        "is_impact_off": 142
+      },
+      {
+        "comp_type": "IPL",
+        "year": 2026,
+        "is_impact": 141,
+        "is_impact_off": 141
+      }
+    ],
+    "batter_or_bowler_not_in_played_xi": 6
+  }
+}

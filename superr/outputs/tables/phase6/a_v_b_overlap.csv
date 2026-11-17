@@ -1,0 +1,3 @@
+role,a_and_b,only_a,only_b,final_and_a,spearman_a_b
+batter,5,"['Josh Inglis', 'Pathum Nissanka', 'Rinku Singh', 'Shreyas Iyer', 'Yashasvi Jaiswal']","['Andre Russell', 'Ashutosh Sharma', 'Dinesh Karthik', 'Muhammad Waseem', 'Phil Salt']",10,0.690579087871264
+bowler,4,"['Akeal Hosein', 'Axar Patel', 'Krunal Pandya', 'Lockie Ferguson', 'Patrick Cummins', 'Tim Southee']","['Bhuvneshwar Kumar', 'Blessing Muzarabani', 'Jasprit Bumrah', 'Mohsin Khan', 'Noor Ahmad', 'Prince Yadav']",10,0.3623084141382546
